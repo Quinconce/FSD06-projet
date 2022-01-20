@@ -1,0 +1,95 @@
+<section class=" ">
+    <div class="footer row d-flex flex-column flex-md-row justify-content-center justify-content-md-between no-gutters position-relative">
+        <aside class="separator position-absolute"></aside>
+
+        <article class="bureaux order-md-2 d-flex flex-column col-md-6  col-lg-4">
+            <h3 class=" title-properties text-md-right text-lg-center text-center text-uppercase">
+                {{ 'Home.Home.OurOffice' | translate }}
+            </h3>
+
+            <a
+                class="align-self-center align-self-md-end"
+                href="https://www.google.com/maps/place/Method+In+The+Madness/@48.577605,7.7406403,17z/data=!3m1!4b1!4m5!3m4!1s0x4796c906d6907263:0x68b2a9595e9844f3!8m2!3d48.5776926!4d7.7427746"
+                target="_blank">
+
+                <img class="hide-md hide-lg maps align-self-center" [src]="mapUrl" alt=" ">
+                <img class="hide-sm hide-lg maps" [src]="mapTabletUrl" alt=" ">
+                <img class="hide-md hide-sm maps align-self-center w-100" [src]="mapDesktopUrl" alt=" ">
+            </a>
+
+            <p class="hide-sm text-properties text-md-right text-lg-center text-center">
+                {{ 'Home.Home.OurOfficeAddressPart1' | translate }}
+                {{ 'Home.Home.OurOfficeAddressPart2' | translate }}
+            </p>
+            <p class="hide-lg text-properties hide-md text-md-right text-lg-center text-center">
+                {{ 'Home.Home.OurOfficeAddressPart1' | translate}}
+                <br>
+                {{'Home.Home.OurOfficeAddressPart2'| translate}}
+            </p>
+        </article>
+
+        <article class="text-center col-md-6 col-lg-4">
+            <h3 class=" title-properties text-uppercase no-md-gutters text-center text-md-left">
+                {{ 'Home.Home.FooterSocial' | translate }}
+            </h3>
+
+            <nav>
+                <ul class="row no-gutters justify-content-center justify-content-md-start w-100 social-list">
+                    <li>
+                        <a href="https://www.facebook.com/myDecoCloud/" target="_blank">
+                            <img [src]="facebookUrl" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://instagram.com/mydecocloud" target="_blank">
+                            <img [src]="instragramUrl" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a
+                            href="https://fr.linkedin.com/company/mydecocloud?trk=public_profile_topcard-current-company"
+                            target="_blank">
+
+                            <img [src]="linkedInUrl" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/myDecoCloud" target="_blank">
+                            <img [src]="twitterUrl" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCSYrN7RW3LiBQ5-HGDC81ow" target="_blank">
+                            <img [src]="youtubeUrl" alt="">
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </article>
+        <article class="hide-sm hide-md order-3 col-lg-4">
+            <h3 class="title-properties text-uppercase text-right">
+                {{ 'Home.Home.FooterTechno' | translate }}&nbsp;
+            </h3>
+
+            <div class="technos row flex-wrap justify-content-end w-100 no-gutters">
+                <img class="openbim" [src]="openBimUrl" alt="">
+                <img [src]="objUrl " alt="">
+                <img [src]="fbxUrl" alt="">
+                <img [src]="stiUrl" alt="">
+                <br>
+                <img [src]="unityUrl" alt="">
+                <img [src]="webglUrl" alt="">
+            </div>
+        </article>
+    </div>
+
+    <p class="copyright text-properties row text-center justify-content-center flex-wrap align-items-center hide-md hide-lg no-gutters">
+        {{ 'Home.Home.CopyrightPart1' | translate }}
+        <br>
+        {{ 'Home.Home.CopyrightPart2' | translate }}
+    </p>
+
+    <p class="copyright text-properties d-md-flex justify-content-center flex-wrap align-items-center hide-sm">
+        {{ 'Home.Home.Copyright' | translate }}
+    </p>
+</section>

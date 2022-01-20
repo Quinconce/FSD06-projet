@@ -1,0 +1,152 @@
+@import "../../../../lib.scss";
+
+section {
+    background-color: #F4F5F4;
+    color: $colors-userInferface-white;
+    overflow: hidden;
+    color:#737B7D;
+    @include mobile{
+        padding: 64px 32px;
+    }
+    @include tablet{
+        padding: 88px 64px 112px;
+    }
+    @include desktop{
+        padding:128px 128px 160px;
+    }
+}
+
+home-slider{
+    figure:last-child{
+        margin-right: 128px;
+    }
+    figure:first-child{
+        margin-left: 128px;
+    }
+}
+
+.section-title-level-2{
+    color:#373F41;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @include mobile{
+        height: 32px;
+        margin-bottom:24px ;
+    }
+    @include tablet{
+        height: 48px;
+        margin-bottom:24px ;
+    }
+    @include desktop{
+        height: 48px;
+        margin-bottom:32px ;
+    }
+    
+}
+
+.bydesigner{
+    display: inline-flex;
+}
+
+.search-icon{
+    top: 0;
+    right: 0;
+}
+
+.images-container{
+    margin-right: 32px;
+    @include mobile{
+        @include box(178px,316px)
+    }
+    @include tablet{
+        @include box(244px,432px)
+    }
+    @include desktop{
+        @include box(320px,568px)
+    }
+    figcaption{
+        height:48px;
+        width:100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+
+.slash-top{
+    border-right: 100vw solid transparent;
+    position: absolute;
+    overflow: hidden;
+
+    top: -1px;
+    left: 0px;
+    z-index: 0;
+
+    @include mobile {
+        border-top: $padding-userInterface-medium solid #FAFAFA;
+    }
+
+    @include tablet {
+        border-top: $padding-userInterface-large solid #FAFAFA;
+    }
+
+    @include desktop {
+        border-top: $padding-userInterface-big solid #FAFAFA;
+    }
+
+    @media(min-width:$max-width) {
+        border-right: $max-width solid transparent;
+    }
+}
+
+.slash-bot{
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+
+    border-right: 100vw solid transparent;
+    width: 100%;
+
+    @include mobile {
+        border-bottom: $padding-userInterface-medium solid #FAFAFA;
+    }
+
+    @include tablet {
+        border-bottom: $padding-userInterface-large solid #FAFAFA;
+    }
+
+    @include desktop {
+        border-bottom: $padding-userInterface-big solid #FAFAFA;
+    }
+
+    @media(min-width:$max-width) {
+        border-right: $max-width solid transparent;
+    }
+}
+
+.image-overlay{
+    cursor: pointer;
+    position: fixed;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom: 0;
+    text-align: center;
+    z-index: 3;
+    @include desktop{
+    height: 79vh;
+    width: 65vw;
+    }
+    @include tablet{
+    height: 60vh;
+    width: 84vw;
+    }
+    @include mobile{
+            height: 36vh;
+    width: 85vw;
+    }
+}

@@ -1,0 +1,38 @@
+<section class="products-herobanner position-absolute">
+    <div class="position-section position-relative">
+        <header class=" header-head row justify-content-between no-gutters">
+            <a class="">
+                <div class="logo">
+                    <a routerLink="" routerLinkActive="active">
+                        <img width="48px" height="48px" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" class="hide-md hide-lg" [src]="logoMobileUrl">
+                        <img class="hide-sm" width="220" height="124" viewBox="0 0 220 124" fill="none" xmlns="http://www.w3.org/2000/svg" [src]="logoTabletUrl">
+                    </a>
+                </div>
+            </a>
+            <home-navigation-menu (goToBusiness)="goToBusiness.emit()" ></home-navigation-menu>
+        </header>
+        <div class="header-content row justify-content-center flex-column no-gutters">
+            <div class="row justify-content-center header-text align-self-md-end no-gutters">
+                <h1 class=" text-md-right text-uppercase col-12 ">{{ translationPrefix + ".HeroBanner" | translate }}</h1>
+                <p class=" text-md-right col-12 ">{{ translationPrefix + ".HeroBannerDesc" | translate }}
+                </p>
+            </div>
+            <div class=" d-flex justify-content-md-end text-left text-md-right">
+                <ul class="selling-point">
+                    <h3 class="section-title-level-2 text-uppercase"> {{ translationPrefix + ".KeySellingPoints" | translate }}</h3>
+                    <li>{{ translationPrefix + ".FirstPoint" | translate }} </li>
+                    <li>{{ translationPrefix + ".SecondPoint" | translate }} </li>
+                    <li>{{ translationPrefix + ".ThirdPoint" | translate }} </li>
+                </ul>
+            </div>
+            <div class=" buttonHeader d-grid d-md-flex col-12 col-md  justify-content-end align-items-center">
+                <button routerLink="home-metier" routerLinkActive="active" class="text-uppercase text-center col-12 no-gutters col-md" id="more"> {{ 'Home.Home.LearnMore' | translate }}</button>
+            </div>
+        </div>
+        <div>
+            <button type="button" class="no-padding-button position-absolute align-self-center d-flex click-to-scroll" (click)="goTo.emit()">
+                <img class=" " width="48 " height="48 " viewBox="0 0 48 48 " fill="none " xmlns="http://www.w3.org/2000/svg " [src]="bouttonScrollUrl">
+            </button>
+        </div>
+    </div>
+</section>

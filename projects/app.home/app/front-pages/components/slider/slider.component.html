@@ -1,0 +1,23 @@
+<div
+    class="horizontal-scroll-container "
+    [ngClass]="{'dual-container':imgBackground === 'dual' ,'solo-container': imgBackground === 'solo'}"
+    id="scrollable"
+    (scroll)="onScroll()"
+    #scrollContainer>
+    <div class="cards-container" id="all-cards">
+        <ng-content
+            select="[modele]"
+            [ngClass]="{'dual-img':imgBackground === 'dual' ,'solo-img': imgBackground === 'solo'}"></ng-content>
+        <ng-content select="[cards]" #cardSize></ng-content>
+    </div>
+    <div class="pagers position-absolute align-self-center d-flex ">
+        <!-- genere des pagers selon le nombre d'element de scroll  -->
+        <div
+            *ngFor="let item of getPagersIterator(); let i = index"
+            pagers
+            [style.background]="pagersBackground"
+            (click)="scrollToElement(i);"
+            class="pager"
+            [ngClass]="{'my-class': currentPosition == i}"></div>
+    </div>
+</div>

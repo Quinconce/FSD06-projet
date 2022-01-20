@@ -1,0 +1,59 @@
+<!-- on definie la position des images en inversant le flex  -->
+<section
+    class=" section-pad pictures d-lg-flex"
+    [style.flex-direction]="positionImages === 'left'?'row-reverse':'initial'">
+
+    <!-- on utilise une class differente selon la position des images pour mettre le padding du bon coté -->
+    <article [class]="positionImages === 'left' ? 'description-right':'description-left'">
+        <div>
+            <h2 class="section-title">
+                {{ translationPrefix + ".PicturesTitle" | translate }}
+            </h2>
+
+            <p class=" section-para">
+                {{ translationPrefix + ".PicturesDescPart1" | translate }}
+            </p>
+
+            <p class=" section-para">
+                {{ translationPrefix + ".PicturesDescPart2" | translate }}
+            </p>
+        </div>
+
+        <h3 class="d-flex align-items-center section-title-level-2">
+            {{ translationPrefix + ".PicturesTitle2" | translate }}
+        </h3>
+
+        <p class=" section-para">{{ translationPrefix + ".PicturesDescPart3" | translate }}</p>
+    </article>
+
+    <aside class=" pictures-container d-md-flex justify-content-between justify-content-lg-start flex-lg-column position-relative ">
+        <!-- "screenshot" doit reste le meme dans la source de l'image et comme parametre dans la fonction -->
+        <figure class="position-relative picture" (click)="zoomIn(screenshot1)">
+            <img [src]="screenshot1" alt="" class=" aside-pictures">
+
+            <img [src]="iconSearchUrl" alt="" class="position-absolute search">
+
+            <figcaption class="d-flex align-items-center justify-content-center caption-img">
+                {{ translationPrefix + ".PicturesFirstCaption" | translate }}
+            </figcaption>
+        </figure>
+
+        <!-- "screenshot" doit reste le meme dans la source de l'image et comme parametre dans la fonction -->
+        <figure class="position-relative picture" (click)="zoomIn(screenshot2)">
+            <img [src]="screenshot2" alt="" class="aside-pictures">
+
+            <img [src]="iconSearchUrl" alt="" class="position-absolute search">
+
+            <figcaption class="d-flex align-items-center justify-content-center caption-img">
+                {{ translationPrefix + ".PicturesSecondCaption" | translate }}
+            </figcaption>
+        </figure>
+    </aside>
+
+    <img
+        class="image-overlay"
+        *ngIf="showing"
+        (click)="showing=!showing"
+        [src]="imageToShow"
+        @enterAnimation>
+</section>

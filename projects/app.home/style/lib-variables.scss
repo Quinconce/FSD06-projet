@@ -1,0 +1,19 @@
+@import "lib-mixin.scss";
+@import "./lib-grid.scss";
+
+$mainFont: 'Montserrat', 'source sans pro', 'proxima nova', 'helvetica neue', 'helvetica', sans-serif;
+$titleFont: 'futura-pt', 'helvetica neue', 'helvetica', sans-serif;
+$secondaryFont: 'Indie Flower', 'helvetica neue', 'helvetica', sans-serif;
+
+// Padding
+$padding-userInterface-tiny: 8px;
+$padding-userInterface-small: 16px;
+$padding-userInterface-normal: 24px;
+$padding-userInterface-medium: 32px;
+$padding-userInterface-large: 64px;
+$padding-userInterface-big: 128px;
+$padding-phone: 32px;
+$padding-tablet: 64px;
+$padding-desktop: 128px;
+
+

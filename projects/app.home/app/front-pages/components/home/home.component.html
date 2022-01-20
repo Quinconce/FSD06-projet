@@ -1,0 +1,30 @@
+<div class="bg">
+    <div class="container-body">
+        <main>
+            <div class="bg-img"></div>
+
+            <home-header    
+                (goTo)="scrollToNextSection()" 
+                (goToBusiness)="scrollingToBusiness()"
+                (keepInTouch)="keepInTouch.emit($event)" 
+                translationPrefix="Home.Home">
+            </home-header>
+
+            <home-customers-note></home-customers-note>
+
+            <home-experience #scrollHere></home-experience>
+            
+            <home-catalog></home-catalog>
+            
+            <home-tools></home-tools>
+            
+            <home-conversion></home-conversion>
+            
+            <home-business #business></home-business>
+            
+            <home-customers></home-customers>
+            
+            <home-footer></home-footer>
+        </main>
+    </div>
+</div>

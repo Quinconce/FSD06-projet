@@ -1,0 +1,20 @@
+<section class=" section-pad testimonial d-lg-flex">
+    <article class=" description">
+        <h2 class="section-title col ">{{translationPrefix +'.TestimonialsTitle' | translate}}</h2>
+        <p>{{translationPrefix +'.TestimonialsDescPart1' | translate}}</p>
+        <p>{{translationPrefix +'.TestimonialsDescPart2' | translate}}</p>
+        <p>{{translationPrefix +'.TestimonialsDescPart3' | translate}}</p>
+    </article>
+    <aside class="aside-testimonial flex-wrap justify-content-between justify-content-lg-start flex-lg-column position-relative">
+        <figure class=" d-md-flex no-gutters single-testimonial" *ngFor="let customersNotes of infosCustomers;let i = index">
+            <img class="hide-sm client-picture" [src]="customersNotes.imgUrl" alt=" ">
+            <img class="hide-md hide-lg client-picture" [src]="customersNotes.imgMobileUrl " alt=" "> 
+            <div class="slide-testimonial-content position-relative">
+                <blockquote class="citation">{{'Home.Home.CustomersNotes.'+ customersNotes.name + '.Quote' | translate}}</blockquote>
+                <figcaption class="client-name text-right justify-content-end position-absolute ">{{'Home.Home.CustomersNotes.'+ customersNotes.name + '.Name' | translate}}
+                    <span class="client-entreprise">{{'Home.Home.CustomersNotes.'+ customersNotes.name + '.job' | translate}} </span> </figcaption>
+            </div>
+        </figure>
+    </aside>
+    
+</section>

@@ -1,0 +1,51 @@
+<section class=" section-pad other-products d-lg-flex">
+    <article class="description no-gutters">
+        <div>
+            <h2 class="section-title">
+                {{ translationPrefix + ".OtherProductTitle" | translate }}
+            </h2>
+
+            <p class=" section-para">
+                {{ translationPrefix + ".OtherProductDescPart1" | translate }}
+            </p>
+
+            <p class=" section-para">
+                {{ translationPrefix + ".OtherProductDescPart2" | translate }}
+            </p>
+        </div>
+
+        <h3 class="d-flex align-items-center section-title-level-2">
+            {{ translationPrefix + ".OtherProductTitle2" | translate }}
+        </h3>
+
+        <p class=" section-para">
+            {{ translationPrefix + ".OtherProductDescPart3" | translate }}
+        </p>
+    </article>
+
+    <aside class=" other-products-container d-md-flex justify-content-lg-start flex-column position-relative">
+        <h3 class="section-title-level-2 text-uppercase text-center">
+            {{'Products.OtherProductColumnTitle' |translate}}
+        </h3>
+
+        <ul class=" d-flex flex-wrap justify-content-between service no-gutters">
+            <li *ngFor="let productCard of productsCards">
+                <button class="btn-application" href="" [routerLink]="['/', actualLang,'products' , productCard.name]">
+                    <img [src]="productCard.logoUrl" alt="" class="logo-application">
+
+                    <div>
+                        <h4 class="section-title-level-2">
+                            {{'Products.CardsProduct.'+ productCard.name +'.Product' | translate}}
+                        </h4>
+
+                        <p class="application-desc">
+                            {{'Products.CardsProduct.'+ productCard.name +'.ProductDesc' | translate}}
+                        </p>
+                    </div>
+
+                    <img [src]="chevronImgUrl" alt="" class="chevron">
+                </button>
+            </li>
+        </ul>
+    </aside>
+</section>

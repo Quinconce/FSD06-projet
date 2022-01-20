@@ -1,0 +1,59 @@
+@import "../../../../lib.scss";
+
+.button-langage{
+    background-color: transparent;
+    font-size: 18px;
+    justify-content: space-evenly;
+}
+
+.langage-selector{
+    background-color: white;
+    right: 24px;
+    top: 76px;
+    padding: 8px 0;
+    border-radius: 8px;
+    text-align: left;
+    z-index: 2;
+    a {
+        margin: 0 8px;
+        border-radius: 4px; 
+        display: block;
+
+        padding: 0 $padding-userInterface-normal;
+        color: black;
+    }
+    a:hover {
+        background-color: $colors-brand-purpleDarkDesaturate;
+        color: white;
+        text-decoration:none;
+    }
+    a:active {
+        background-color: $colors-brand-neonPink;
+    }
+}
+.triangle{
+    display : inline-block;
+    height : 0;
+    width : 0;
+    top: -15px;
+    left: 89px;
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid white;
+    border-left: 15px solid transparent;
+    position: absolute;
+}
+
+.language {
+    button {
+        color: white;
+    }
+}
+
+fa-icon{
+    margin-right: 10px;
+}
+
+.no-padding-button {
+    margin: 0!important;
+    padding: 0!important;
+}

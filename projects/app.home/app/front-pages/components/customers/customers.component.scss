@@ -1,0 +1,100 @@
+@import "../../../../lib.scss";
+
+
+section {
+    background-color: #F4F5F4;
+    color: black;
+}
+
+.section-para {
+    @include mobile{
+        padding-bottom:$padding-userInterface-medium ;
+    }
+    @include tablet{
+        padding-bottom:$padding-userInterface-medium  ;
+    }
+    @include desktop{
+        padding: 0 14% $padding-userInterface-medium ;
+    }
+    
+}
+
+.large {
+    background-color: rgba(234, 234, 234, 0.1);
+    color: white;
+    text-align: center;
+    line-height: 10px;
+
+    @include box(132px, 264px);
+
+    margin: 16px;
+
+    @include mobile {
+        @include box(158px, 316px);
+    }
+    @media only screen and(max-width: 442px) {
+        margin: 16px 0;
+        @include box (158px, 100%)
+    }
+
+}
+
+.small {
+    background-color: rgba(234, 234, 234, 0.1);
+    color: white;
+    line-height: 14px;
+    text-align: center;
+
+    @include box(132px, 132px);
+
+    margin: 16px;
+
+    @media only screen and (max-width: 1504px) {
+        order: 10
+    }
+
+    @include mobile {
+        @include box(142px, 142px)
+    }
+
+    @media only screen and(max-width: 442px) {
+        margin: 16px 0;
+    }
+}
+
+.customers-logos-list {
+    justify-content: center;
+
+    @media only screen and(max-width: 442px) {
+        justify-content: space-between;
+    }
+
+    list-style: none;
+    padding: 0;
+}
+
+
+.placeholders {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 16px;
+
+    text-transform: uppercase;
+}
+
+img {
+    filter: contrast(0) brightness(1);
+    transition: 0.5s;
+}
+
+img:hover{
+    filter:none;
+}
+
+
+
+
+
+
+
+

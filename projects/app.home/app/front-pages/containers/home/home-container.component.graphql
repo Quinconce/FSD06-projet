@@ -1,0 +1,10 @@
+
+mutation contactInformationMutation($record:CreateOneContactInformationInput!) {
+    created: contactInformationCreateOne(record: $record) {
+        recordId
+    }
+}
+
+
+
+

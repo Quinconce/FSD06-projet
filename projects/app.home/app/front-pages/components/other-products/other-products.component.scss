@@ -1,0 +1,197 @@
+@import '../../../../lib.scss';
+
+.section-pad{
+    @include desktop{
+        padding-bottom:168px ;
+    }
+    
+}
+.other-products{
+    background-color: #FAFAFA;
+    color: $colors-userInferface-black;
+}
+
+.section-title{
+    @include mobile{
+        margin-bottom: 24px;
+    }
+}
+
+
+
+
+
+.description{
+    p{
+        text-align: justify;
+    }
+    padding :0;
+    @include desktop{
+        padding-right: 80px!important;
+    }
+
+    .section-title-level-2{
+        height: 48px;
+        text-transform: uppercase;
+        @include mobile{
+            margin-bottom: 16px;
+            padding-top: $padding-userInterface-small;
+        
+        @include tablet-desktop{
+            margin-bottom: 8px;
+        }
+    }
+
+    div{
+        p{
+            @include mobile{
+                margin-bottom: 16px;
+            }
+            @include tablet-desktop{
+            margin-bottom: 32px;
+            }
+        }
+    }   
+}
+}
+
+.other-products-container{
+    padding:0;
+    @include mobile{
+        margin: 32px 0 0;
+    }
+
+    @include tablet{
+        margin-top: 64px;
+    }
+
+    @include desktop{
+        padding-top: 80px;
+    }
+
+    figure:first-of-type{
+        @include tablet{
+        margin-right: 32px;
+        }
+    }
+}
+
+
+
+
+
+.btn-application {
+    background: none;
+    border: none;
+    outline: inherit;
+    @include mobile{
+        padding:$padding-userInterface-small;
+    }
+    @include tablet{
+        padding:$padding-userInterface-normal;
+    }
+    @include desktop{
+        padding: $padding-userInterface-medium;
+    }
+    
+
+    height: 100%;
+    width: 100%;
+    display: flex;
+    .logo-application {
+        border-radius: 8px;
+        padding: 0;
+        margin: 0;
+        @include mobile{
+            @include box(32px,32px);
+        }
+        @include tablet{
+            @include box(48px,48px);
+        }
+        @include desktop{
+            @include box(64px,64px);
+        }
+
+        
+    }
+
+    div {
+        text-align: left;
+        @include mobile {
+            padding:0 $padding-userInterface-small ;
+        }
+        @include tablet{
+            padding:0 $padding-userInterface-normal
+        }
+        @include desktop{
+            padding: 0 $padding-userInterface-medium;
+        }
+        
+    }
+
+    .section-title-level-2{
+        text-transform: uppercase;
+        
+        @include mobile{
+            margin-bottom: 4px;
+        }
+        @include tablet-desktop{
+            margin-bottom: 8px;
+        }
+    }
+
+    .application-desc{
+        font-size: 15px;
+        font-weight: 300;
+        line-height: 21px;
+        color:$colors-userInferface-black;
+
+        @include mobile{
+            width: 188px;
+        }
+        @include tablet{
+            width: 256px;
+        }
+        @include desktop{
+            width: 344px;
+        }
+        
+        
+    }
+    .chevron {
+        @include box(32px, 32px);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        @include mobile {
+            margin: 30px 0;
+        }
+        @include tablet-desktop{
+            margin: 20px 0;
+        }
+    }
+}
+
+.service {
+    //eviter un retour a la ligne 
+    @media only screen and(min-width: $desktop-width) and (max-width: 1325px) {
+        margin: 0 -20px;
+    }
+    li {
+        background-color: white;
+        margin-top: 32px;
+        box-shadow: 0px 0px 46px 8px rgba(0, 0, 0, 0.02), 0px 0px 38px 3px rgba(0, 0, 0, 0.02), 0px 0px 15px -7px rgba(0, 0, 0, 0.05);
+        border-radius: 8px;
+
+        @include mobile{
+            @include box(123px,316px)
+        }
+        @include tablet{
+            @include box(120px, 432px);
+        }
+
+        @include desktop{
+            @include box(136px, 568px);
+        }
+    }
+}

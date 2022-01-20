@@ -1,0 +1,35 @@
+
+
+<div class="bg">
+    <div class="container-body">
+        <home-progression
+                                [valueOpacIndex]="showVar"
+                                (goToBusiness)="scrollingToBusiness()">
+        </home-progression>
+        <div class="bg-img-product position-absolute"></div>
+        <div class="bg-radial position-relative">
+            <div class="light01 hide-sm"></div>
+            <div class="light02 hide-sm"></div>
+        </div>
+        <home-products-herobanner
+                                translationPrefix="Products.Scan"
+                                (goTo)="scrollToNextSection()"
+                                (goToBusiness)="scrollingToBusiness()">
+        </home-products-herobanner>
+        <home-presentation
+                                translationPrefix="Products.Scan"
+                                [sliderData]="slider"
+                                #scrollHere>
+        </home-presentation>
+        <home-gallery
+                                translationPrefix="Products.Scan"
+                                [interface]="PicturesSlider" >
+        </home-gallery>
+        <home-other-products
+                                [products]="['designer', 'plan', 'reality', 'core']"
+                                translationPrefix="Products.Scan" >
+        </home-other-products>
+        <home-business #business></home-business>
+        <home-footer></home-footer>
+    </div>
+</div>

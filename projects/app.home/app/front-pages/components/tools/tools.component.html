@@ -1,0 +1,28 @@
+<section class="tools section-pad no-gutters">
+    <div class=" position-relative">
+        <article class="tools-desc no-gutters">
+            <h2 class="section-title text-center text-lg-left col-lg mb2b">{{'Home.Home.ToolsPart1'| translate}} <br> {{'Home.Home.ToolsPart2'| translate}}
+            </h2>
+            <p class="section-para text-center text-lg-left col-lg-6">{{'Home.Home.ToolsDesc'| translate}}</p>
+        </article>
+        <div>
+            <div class="position-absolute call-to-action-tools hide-sm hide-md d-lg-flex flex-column align-items-center">
+                <p class="arrow-text-catalog">{{'Home.Home.CallToActionToolsPart1'| translate}} <br> {{'Home.Home.CallToActionToolsPart2'| translate}}</p>
+                <img [src]="callToActionArrowUrl" alt="">
+            </div>
+            <home-slider [testons]="Settingslaunch" [pagersBackground]="'white'" [pagersNumber]="ToolsSlider.length"  [timeBeforeAutomaticScroll]="5500">
+
+                <article cards *ngFor="let ToolsCards of ToolsSlider" [id]="ToolsCards.name" class="slide-tools-card text-center position-relative" #sizecard>
+                    <div class="top-color" [id]="ToolsCards.name" #ToolsCards.name #plan></div>
+                    <h3 class=" title-properties text-uppercase" #core>{{"Home.Home.ToolsCards." + ToolsCards.name + ".Title" | translate}}</h3>
+                    <img [src]="ToolsCards.iconUrl" alt=" ">
+                    <div class="light01" [id]="ToolsCards.name + 'Light01'"></div>
+                    <div class="light02" [id]="ToolsCards.name + 'Light02'"></div>
+                    <p class="card-description">{{"Home.Home.ToolsCards." + ToolsCards.name + ".Desc" | translate}}</p>
+                    <!-- la virgule entre 'products' et ToolsCards rajoute un "/" dans l'url entre les deux -->
+                    <button type=" button " [routerLink]="['/',actualLang, 'products', ToolsCards.name]" class=" col-12 btn btn-link btn-tools-slide no-padding-button d-flex justify-content-center align-items-center">{{"Home.Home.ToolsCards." + ToolsCards.name + ".Button" | translate}}</button>
+                </article>
+            </home-slider>
+        </div>
+    </div>
+</section>

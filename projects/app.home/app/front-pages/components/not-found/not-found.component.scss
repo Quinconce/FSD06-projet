@@ -1,0 +1,263 @@
+@import "../../../../lib.scss";
+
+// Image de background
+.hero-banner{
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+// Div pour le background foncer mais legerement transparent
+.backg {
+    height: 100vh;
+    max-width: $max-width;
+    max-height: $max-height-heroBanner;
+    padding: $padding-userInterface-normal $padding-userInterface-medium $padding-userInterface-medium;
+    min-height:$min-height;
+
+    @include mobile {
+        padding: 16px 16px 32px!important;
+        background-size: cover;
+        background: radial-gradient(98.76% 44.29% at 50% 50%, rgba(63, 68, 89, 0.9) 0%, rgba(30, 32, 41, 0.9) 100%) no-repeat;
+    }
+
+    @include tablet {
+        
+        background: radial-gradient(66.53% 46.89% at 50% 50%, rgba(63, 68, 89, 0.9) 0%, rgba(30, 32, 41, 0.9) 100%);
+    }
+
+    @include desktop {
+        background: radial-gradient(40.63% 72.22% at 50% 50%, rgba(63, 68, 89, 0.9) 0%, rgba(30, 32, 41, 0.9) 100%);
+    }
+
+}
+
+.header-head {
+    width: 100%;
+    margin: 0;
+    color: #FFFFFF;
+}
+
+.menu-h > li{
+    margin-left: 40px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.20000000298023224px;
+}
+
+
+
+.no-padding-button {
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.header-content {
+    
+    color: $colors-userInferface-grayLight;
+
+    @include mobile {
+        padding: 0 $padding-userInterface-medium;
+    }
+
+    @include tablet {
+        padding: 0 110px;
+    }
+
+    @include desktop {
+        padding: 0 218px;
+    }
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:100%;
+}
+
+.header-text {
+    h1 {
+        color: $colors-userInferface-grayLight;
+
+        @include mobile {
+            font-size: $padding-userInterface-normal;
+            font-weight: 300;
+            line-height: 34px;
+        }
+
+        @include tablet {
+            font-weight: 300;
+            font-size: 52px;
+            line-height: 68px;
+        }
+
+        @include desktop {
+            font-size: 72px;
+            font-weight: 300;
+            line-height: 88px;
+        }
+
+        span {
+            display: block;
+        }
+    }
+
+    p {
+        color: $colors-userInferface-grayLight;
+        font-weight: 300;
+
+        @include mobile {
+            padding: 12px 0;
+            font-size: 15px;
+            line-height: 21px;
+            margin-bottom: 74px;
+        }
+
+        @include tablet {
+            padding: 16px 0;
+            font-size: 22px;
+            line-height: 30px;
+            margin-bottom: 32px;
+        }
+
+        @include desktop {
+            padding: $padding-userInterface-normal 0;
+            font-size: $padding-userInterface-normal;
+            line-height: 32px;
+            margin-bottom: 32px;
+        }
+    }
+}
+
+#try {
+    color: white;
+    background: $colors-brand-neonPink;
+    border: 1px solid $colors-brand-neonPink;
+    font-weight: 500;
+    padding: 0!important;
+
+    @include button;
+}
+
+#more {
+    background-color: rgba(255, 255, 255, 0);
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    font-weight: 300;
+    padding: 0!important;
+
+    @include button;
+}
+
+.footer-header {
+    bottom: 0;
+    left: 0;
+    padding: 0 $padding-userInterface-medium $padding-userInterface-medium;
+
+    nav {
+        a {
+            text-align: center;
+            width: 32px;
+            height: 32px
+        }
+    }
+}
+
+// Flèche en bas qui scroll vers la prochaine section
+.click-to-scroll {
+    background: none;
+    border: none;
+    cursor: pointer;
+    outline: inherit;
+
+    bottom: 32px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    z-index: 2;
+}
+
+.contact-us {
+    color: black;
+}
+
+.contact-message {
+    background-color: white;
+    top: -224px;
+    border-radius: 8px;
+    max-width: 320px;
+    .to-close {
+        height: 30px;
+        img {
+            cursor: pointer;
+            top: 8px;
+            right: 8px;
+        }
+    }
+}
+
+.contact {
+    outline: inherit;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 24px;
+    color: $colors-userInferface-black;
+    padding: 0;
+    text-align: left;
+
+    @include box(48px, 320px);
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 0.20000000298023224px;
+
+    fa-icon {
+        @include box(16px, 19px);
+        padding-right: 17px;
+        padding-left: 26px;
+    }
+}
+
+.contact-text {
+    padding: 28px 0 $padding-userInterface-medium;
+
+    p {
+        height: 64px;
+        font-family: $mainFont;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 20px;
+        letter-spacing: 0.20000000298023224px;
+        color: black;
+        height: 64px;
+    }
+
+    strong {
+        color: $colors-userInferface-black;
+        font-family: $mainFont;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 21px;
+        letter-spacing: 0.20000000298023224px;
+        height:42px
+    }
+}
+
+.img-stephane {
+    top: -43px;
+}
+
+.arrow-scroll {
+    background-color: transparent
+}
+
+.arrow-down {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #ffffff;
+}

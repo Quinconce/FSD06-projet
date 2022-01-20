@@ -1,0 +1,58 @@
+@import "./lib-grid.scss";
+
+@mixin fullscreen {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+@mixin elevation1 {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+@mixin box($height, $width) {
+    height: $height;
+    width: $width;
+}
+
+@mixin maxBox($height, $width) {
+    max-height: $height;
+    max-width: $width;
+}
+
+@mixin minBox($height, $width) {
+    height: $height;
+    width: $width;
+}
+
+@mixin button() {
+    @include mobile {
+        border-radius: 24px;
+        font-size: 18px;
+        line-height: 48px;
+        text-align: center;
+        margin: 8px 0;
+    }
+
+    @include tablet {
+        @include maxBox(64px, 280px);
+        border-radius: 8px;
+        font-size: 24px;
+        line-height: 64px;
+        text-align: center;
+        margin: 0 16px;
+    }
+
+    @include desktop {
+        @include maxBox(64px, 280px);
+        border-radius: 8px;
+        font-size: 24px;
+        line-height: 64px;
+        text-align: center;
+        margin: 0 24px;
+    }
+}
+

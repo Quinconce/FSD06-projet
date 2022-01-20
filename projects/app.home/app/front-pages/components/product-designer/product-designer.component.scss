@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,200');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import '../../../../style/bootstrap/lib.scss';
+@import '../../../../style/bootstrap/now-ui-kit.scss';
+@import '../../../../style/global-normalize.scss';
+@import '../../../../lib.scss';
+
+.bg {
+    background-color: $colors-userInferface-void;
+}
+
+:host {
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.container-body {
+    display: block;
+    position: relative;
+    z-index: 0;
+    width: 100%;
+    min-width: 380px;
+    max-width: 1920px!important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.light01{
+    background: #FFCA65;
+    filter: blur(200px);
+    position: absolute;
+    @include tablet{
+        width: 488px;
+        height: 488px;
+        left: -218px;
+        top: 370px;
+    }
+    @include desktop{
+        width: 431px;
+        height: 431px;
+        left: 351px;
+        top: 278px;
+    }
+}
+
+.light02{
+    position: absolute;
+    background: #FFC0B8;
+    filter: blur(200px);
+
+    @include tablet{
+        width: 403px;
+        height: 403px;
+        left: -228px;
+        top: 670px;
+    }
+    @include desktop{
+        width: 463px;
+        height: 463px;
+        left: 104px;
+        top: 401px;
+    }
+
+}
+.bg-img-product {
+    min-height: $min-height;
+    @include tablet {
+        min-height: $min-height-tablet;
+        background: url(assets/designer-background-tablet.png) no-repeat ;
+
+        //eviter que le text et le design se superpose
+        @media (max-width:1024px) {
+            background: url(assets/designer-background-tablet.png) no-repeat center;
+        }
+    }
+    @include desktop{
+        background: url(assets/designer-background.png) no-repeat center;
+    }
+
+
+    height: 100vh;
+    width: 100%;
+    z-index: 2;
+    max-width: $max-width;
+    max-height: $max-height-heroBanner;
+}
+
+.bg-radial{
+    height: 100vh;
+    max-width: $max-width;
+    max-height: $max-height-heroBanner;
+    overflow: hidden;
+    min-height: $min-height;
+
+    @include mobile {
+        background-size: cover;
+        background: radial-gradient(59.05% 41.43% at 100% 100%, rgba(255, 191, 191, 0.4) 0%, rgba(255, 191, 191, 0) 100%),
+                    radial-gradient(100% 140.76% at 0% 0%, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 36.42%),
+                    linear-gradient(107.56deg, #C6937D 0%, #C16D81 100%);
+    }
+
+    @include tablet {
+        min-height: $min-height-tablet;
+        background: radial-gradient(59.05% 41.43% at 100% 100%, rgba(255, 191, 191, 0.4) 0%, rgba(255, 191, 191, 0) 100%),
+                    radial-gradient(100% 140.76% at 0% 0%, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 36.42%),
+                    linear-gradient(107.56deg, #C6937D 0%, #C16D81 100%);
+    }
+
+    @include desktop {
+        background: radial-gradient(37.94% 59.58% at 100% 100%, rgba(255, 191, 191, 0.4) 0%, rgba(255, 191, 191, 0) 100%),
+                    radial-gradient(100% 140.76% at 0% 0%, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 36.42%),
+                    linear-gradient(107.56deg, #C6937D 0%, #C16D81 100%),
+    }
+}

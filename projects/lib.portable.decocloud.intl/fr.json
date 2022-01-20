@@ -1,0 +1,3062 @@
+{
+  "Home": {
+    "Home": {
+      "Fonction": "Tour des fonctionnalités",
+      "Business": "myDecoCloud & votre métier",
+      "Help": " Aide & tutoriels",
+      "Contact": "Contact",
+      "Language": "FR",
+      "HeroBannerPart1": "Offrez la troisième",
+      "HeroBannerPart2": "dimension à vos clients",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin.",
+      "TryIt": "essayer",
+      "LearnMore": "2 MIN. EN VIDÉO",
+      "ContactMe": "Vous avez une question ?",
+      "ContactMeText": "Nous sommes à votre écoute pour toute question sur nos solutions logicielles",
+      "ExperiencePart1": "Une nouvelle ",
+      "ExperiencePart2": "expérience d’achat",
+      "ExperienceDesc": "Convaincre sur un projet d'habitat c'est d'abord permettre à vos clients de visualiser votre produit. myDecoCloud est l'outil qu'il vous faut pour inciter vos clients d'acheter ou exprimer leur besoin avant le rendez-vous.",
+      "CallToActionExperience": "myDecoCloud en 3 minutes!",
+      "CatalogPart1": "Un catalogue produit",
+      "CatalogPart2": "magnifié par la 3D",
+      "CatalogDesc": "Donnez vie à votre catalogue en rajoutant à vos produits la troisième dimension. Proposez à vos clients de facilement visualiser et configurer vos produits en toute autonomie.Votre catalogue est facilement partageable avec d'autres utilisateurs de la plateforme.",
+      "CallToActionCatalogPart1": "Essayez ! ",
+      "CallToActionCatalogPart2": "Faites tourner l’objet",
+      "ToolsPart1": "Des outils pour votre ",
+      "ToolsPart2": "transformation numérique",
+      "ToolsDesc": "Dans l'habitat les métiers sont très différents et ne nécessitent pas les mêmes outils. Notre gamme de produits répond à vos besoins tout en permettant le développement spécifique pour répondre à vos besoins les plus amples.",
+      "CallToActionToolsPart1": "Consultez ",
+      "CallToActionToolsPart2": "nos fiches produit",
+      "ToolsCards": {
+        "designer": {
+          "Title": "Designer",
+          "Desc": "Outil de planification d'espace permettant de travailler sur plan avec une gestion avancée des meubles sur mesure.",
+          "Button": "En savoir plus"
+        },
+        "plan": {
+          "Title": "Plan",
+          "Desc": "Solution mobile pour la prise de mesures des surfaces en réalité augmentée avec injection directe dans Designer.",
+          "Button": "En savoir plus"
+        },
+        "scan": {
+          "Title": "Scan",
+          "Desc": "Outil de numérisation des revêtements pour la production des modèles 3D. ",
+          "Button": "En savoir plus"
+        },
+        "product": {
+          "Title": "Product",
+          "Desc": "Configurateur pour produit unique.",
+          "Button": "En savoir plus"
+        },
+        "reality": {
+          "Title": "reality",
+          "Desc": "Application mobile de réalité augmentée pour voir le projet en situation.",
+          "Button": "En savoir plus"
+        },
+        "core": {
+          "Title": "core",
+          "Desc": "Gestion du catalogue 3D avec fonctionnalités de partage et une API d'accès.",
+          "Button": "En savoir plus"
+        }
+      },
+      "ConversionPart1": "Une maîtrise des",
+      "ConversionPart2": "taux de conversion",
+      "ConversionDesc": "myDecoCloud mets à disposition des outils de gestion de votre tunnel d'achat pour configurer votre parcours client et l'adapter à votre stratégie.",
+      "CallToActionConversionPart1": "Découvrez",
+      "CallToActionConversionPart2": "notre back-office",
+      "BusinessTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "BusinessDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "BusinessCategories": [
+        {
+          "Title": "Bâtiment neuf",
+          "Categorie1": "Bureaux d'architectes",
+          "Categorie2": "Créateurs de maisons",
+          "Categorie3": "Spécialistes de maisons en kit",
+          "Categorie4": "Constructeurs de maisons prêtes à finir"
+        },
+        {
+          "Title": "Rénovation Intérieur",
+          "Categorie1": "Mandataires immobiliers",
+          "Categorie2": "Aménageurs fonciers",
+          "Categorie3": "Promoteurs immobiliers",
+          "Categorie4": "Fabricants agenceurs"
+        },
+        {
+          "Title": "Rénovation extérieur",
+          "Categorie1": "Urbanistes",
+          "Categorie2": "Paysagistes",
+          "Categorie3": "Constructeurs de terrasses"
+        },
+        {
+          "Title": "Prod. & vente de meubles",
+          "Categorie1": "Cuisinistes",
+          "Categorie2": "Salles de bain",
+          "Categorie3": "Spécialistes de dressing",
+          "Categorie4": "Fabricants de meubles"
+        }
+      ],
+      "CustomersNotesPart1": "Nos clients témoignent",
+      "CustomersNotesPart2": "de leur expérience avec myDecoCloud",
+      "CustomersNotesDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "CustomersNotes": {
+        "firstCustomer": {
+          "Quote": "Nous cherchions une plateforme ouverte permettant la configuration d’une cuisine, un projet complexe par nature. myDecoCloud nous a permis de faire tout cela et de manière très conviviale.",
+          "Name": "Jean-Christophe Gay - CDO @",
+          "job": " Alsapan"
+        },
+        "secondCustomer": {
+          "Quote": "Afin d’apprécier le rendu d’une tête de lit, il est important que notre client puisse la visualiser dans le cadre de son intérieur. myDecoCloud a parfaitement répondu à ce besoin avec le niveau de qualité dont nous avions besoin.",
+          "Name": "Renaud Uhl - CEO @  ",
+          "job": "MyQuintus"
+        },
+        "thirdCustomer": {
+          "Quote": "Au delà de donner une meilleure image de l'artisan, myDecoCloud pour nous c'est avant tout un énorme gain de temps au quotidien.",
+          "Name": "Christian Meyer - Président @  ",
+          "job": "COPFI"
+        }
+      },
+      "Customers": "nos clients",
+      "CustomersDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "FooterSocial": "Nos reseaux",
+      "OurOffice": "Nos bureaux",
+      "OurOfficeAddressPart1": "Biocluster les Haras - 23 rue des Glacières",
+      "OurOfficeAddressPart2": "67000\u00a0Strasbourg",
+      "FooterTechno": "nos technos",
+      "CopyrightPart1": "Method in the Madness",
+      "CopyrightPart2": "Strasbourg - France | © 2011 - 2021",
+      "Copyright": "Method in the Madness | Strasbourg - France | © 2011 - 2021"
+    }
+  },
+  "Landing": {
+    "PriceTitle2": "Applications & services associés",
+    "BatimentNeuf": "Batiment neuf",
+    "RenovationInterieur": "Renovation interieur",
+    "RenovationExterieur": "Renovation exterieur",
+    "ProdVenteDeMeubles": "Prod & vente de meubles",
+    "BureauxArchitectes": {
+      "NameOnBusinessComponent": "Bureaux d'architectes",
+      "HeroBannerPart1": "Bureaux d'architectes",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "ListItem1": "Curabitur eget lobortis massa",
+          "ListItem2": "Phasellus iaculis venenatis",
+          "ListItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "ListItem1": "Vestibulum ultrices",
+          "ListItem2": "Lacus convallis quis",
+          "ListItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "ListItem1": "Pellentesque blandit",
+          "ListItem2": "Dolor neque tincidunt ",
+          "ListItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "CreateursDeMaisons": {
+      "NameOnBusinessComponent": "Créateurs de maisons",
+      "HeroBannerPart1": "Créateurs de maisons",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "SpecialistesDeMaisonsEnKit": {
+      "NameOnBusinessComponent": "Spécialiste de maisons en kit",
+      "HeroBannerPart1": "Spécialistes de maisons",
+      "HeroBannerPart2": "en kit préfabriquées",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "ConstructeursDeMaisons": {
+      "NameOnBusinessComponent": "Constructeurs de maisons",
+      "HeroBannerPart1": "Constructeurs de maisons ",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "MandatairesImmobiliers": {
+      "NameOnBusinessComponent": "Mandataires immobiliers",
+      "HeroBannerPart1": "Mandataires immobiliers",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "AmenageursFonciers": {
+      "NameOnBusinessComponent": "Aménageurs fonciers",
+      "HeroBannerPart1": "Aménageurs fonciers",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "PromoteursImmobiliers": {
+      "NameOnBusinessComponent": "Promoteurs immobiliers",
+      "HeroBannerPart1": "Promoteurs immobiliers",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "FabricantsAgenceurs": {
+      "NameOnBusinessComponent": "Fabricants agenceurs",
+      "HeroBannerPart1": "Fabricants agenceurs",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "Urbanistes": {
+      "NameOnBusinessComponent": "Urbanistes",
+      "HeroBannerPart1": "Urbanistes",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "Paysagistes": {
+      "NameOnBusinessComponent": "Paysagistes",
+      "HeroBannerPart1": "Paysagistes",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "ConstructeursDeTerrasses": {
+      "NameOnBusinessComponent": "Constructeurs de terrasses",
+      "HeroBannerPart1": "Constructeurs de terrasses",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "Cuisinistes": {
+      "NameOnBusinessComponent": "Cuisinistes",
+      "HeroBannerPart1": "Cuisinistes",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "Salles-de-bain": {
+      "NameOnBusinessComponent": "Salles de bain",
+      "HeroBannerPart1": "Salles de bain",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "Specialistes-de-dressing": {
+      "NameOnBusinessComponent": "Spécialistes de dressing",
+      "HeroBannerPart1": "Spécialistes de dressing",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    },
+    "Fabricants-de-meubles": {
+      "NameOnBusinessComponent": "Fabricants de meubles",
+      "HeroBannerPart1": "Fabricants de meubles",
+      "HeroBannerPart2": "",
+      "HeroBannerDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune installation ni aucun plugin. ",
+      "PicturesTitle": "myDECOCLOUD & VOTRE MÉTIER",
+      "PicturesDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesDescPart2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "PicturesTitle2": "Aliquam purus lacus pulvinar",
+      "PicturesDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "PicturesFirstCaption": "Picture caption",
+      "PicturesSecondCaption": "Picture caption",
+      "KeySellingPoints": [
+        {
+          "Title": "Key selling points",
+          "listItem1": "Curabitur eget lobortis massa",
+          "listItem2": "Phasellus iaculis venenatis",
+          "listItem3": "Lorem consectetur accumsan"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Vestibulum ultrices",
+          "listItem2": "Lacus convallis quis",
+          "listItem3": "Nullam condimentum"
+        },
+        {
+          "Title": "Key selling points",
+          "listItem1": "Pellentesque blandit",
+          "listItem2": "Dolor neque tincidunt ",
+          "listItem3": "Sollicitudin massa "
+        }
+      ],
+      "TestimonialsTitle": "myDECOCLOUD & WEBERHAUS",
+      "TestimonialsDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "TestimonialsDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "TestimonialsDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec.",
+      "PriceTitle": "Nos offres",
+      "PriceDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "HeaderTableFirstColumn": "solo",
+      "HeaderTableSecondColumn": "Team",
+      "HeaderTableThirdColumn": "e-commerce",
+      "HeaderTableFourthColumn": "plus",
+      "NameLine": {
+        "firstLine": {
+          "nameLine": "Option details and description"
+        },
+        "secondLine": {
+          "nameLine": "Other option details and description"
+        },
+        "thirdLine": {
+          "nameLine": "Option details and description"
+        },
+        "fourthLine": {
+          "nameLine": "Other option details and description"
+        },
+        "fifthLine": {
+          "nameLine": "Option details and description"
+        },
+        "sixthLine": {
+          "nameLine": "Other option details and description"
+        }
+      }
+    }
+  },
+  "Products": {
+    "OtherProductColumnTitle": "Services associés",
+    "CardsProduct": {
+      "designer": {
+        "Product": "designer",
+        "ProductDesc": "Outil de planification d'espace permettant de travailler sur plan."
+      },
+      "plan": {
+        "Product": "plan",
+        "ProductDesc": "Solution mobile pour la prise de mesures en réalité augmentée."
+      },
+      "scan": {
+        "Product": "scan",
+        "ProductDesc": "Outil de numérisation des revêtements."
+      },
+      "product": {
+        "Product": "product",
+        "ProductDesc": "Configurateur pour produit unique."
+      },
+      "reality": {
+        "Product": "reality",
+        "ProductDesc": "Application mobile de réalité augmentée."
+      },
+      "core": {
+        "Product": "core",
+        "ProductDesc": "Gestion du catalogue 3D avec fonctionnalités de partage."
+      }
+    },
+    "Designer": {
+      "HeroBanner": "designer",
+      "HeroBannerDesc": "Un outil de configuration 3D complet intégré à votre site web. A partir d'un plan vierge ou préexistant, accompagnez votre client dans la construction de son projet.",
+      "DetailsTitle": "Dessinez, aménagez, visitez",
+      "DetailsDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "KeySellingPoints": "Points clefs",
+      "FirstPoint": "Un outil de conception 3D à la portée de tous",
+      "SecondPoint": "Intégration complète avec vos outils existants",
+      "ThirdPoint": "Expérience entièrement configurable",
+      "listCarrouselDetails": {
+        "plan": {
+          "Title": "Plan",
+          "Desc": "Un outil de tracé de plan complet permettant le tracé d'une simple pièce jusqu'à une maison complète."
+        },
+        "aménagement": {
+          "Title": "aménagement",
+          "Desc": "Amménager en 3D temps réel, revêtement, mobiliers, menuiseries extérieures, piscine... tout est possible avec notre système de catalogue collaboratif."
+        },
+        "visite": {
+          "Title": "visite",
+          "Desc": "Une fois votre scène mise en place, visitez là en vue subjective ou en réalité virtuelle afin de prendre la mesure de la chose configurée."
+        },
+        "studio": {
+          "Title": "studioPhoto",
+          "Desc": "Prenez des clichés en hautes définitions de votre aménagement, ces derniers alimentent directement le devis afin de générer des visuels qui font envie."
+        },
+        "panier": {
+          "Title": "panier",
+          "Desc": "Un panier d'achat est automatiquement géré à partir des choix des clients, les prix sont gérés directement sur notre plateforme ou synchronisés avec une source externe."
+        },
+        "récapitulatif": {
+          "Title": "Récapitulatif",
+          "Desc": "Utilisez notre système de template afin de générer des devis et des documents d'avant projet de qualité."
+        }
+      },
+      "GalleryTitle": "Réalisé avec Designer",
+      "GalleryScreenShot": {
+        "firstScreen": {
+          "caption": "Picture caption"
+        },
+        "secondScreen": {
+          "caption": "Picture caption"
+        },
+        "thirdScreen": {
+          "caption": "Picture caption"
+        },
+        "fourthScreen": {
+          "caption": "Picture caption"
+        }
+      },
+      "OtherProductTitle": "DESIGNER, un outil tout en un !",
+      "OtherProductDescPart1": "Designer est une solution complète de configuration 3D qui s’installe facilement sur votre site web. Entièrement configurable tant au niveau des outils à la disposition que du parcourt utilisateur, Designer peut aussi bien animer un site web d’eCommerce qu’être le logiciel de base d’une force commerciale.",
+      "OtherProductDescPart2": "Tous les scénarios sont envisageables avec Designer ; démarrez d’une page blanche ou d’un catalogue de plan existant. Prenez la main de votre client ou au contraire laissez lui une grande liberté. Profitez des modules de générations algorithmiques pour les meubles composites telles que les dressings ou les cuisines. Tracez facilement le terrain à l’extérieur ou construisez une toiture en quelques clicks, tout est possible.",
+      "OtherProductTitle2": "Une intégration avec vos outils existants",
+      "OtherProductDescPart3": "Si notre plateforme dispose déjà de modules évolués pour gérer la prise de contact, les prix et toutes les autres facettes de votre business, elle a été conçue dès l’origine pour permettre de s’interfacer avec vous outils existants. Que cela soit l’injection de rendez vous dans un CRM, la récupération de prix et la création de commande dans un ERP, Designer vous permet un effet de levier sur vos outils existants.",
+      "OtherProductColumnTitle": "Services associés"
+    },
+    "Plan": {
+      "HeroBanner": "plan",
+      "HeroBannerDesc": "Une solution conviviale pour la prise de mesure d'une pièce à l'aide de votre smartphone en réalité augmentée.",
+      "DetailsTitle": "Mesurez & transformez",
+      "DetailsDesc": "Équipez votre force commerciale d'un outil moderne pour la prise de mesure chez le client qui s'intègre directement à notre solution Designer.",
+      "KeySellingPoints": "Points clefs",
+      "FirstPoint": "Prise de mesure conviviale",
+      "SecondPoint": "Création des plans directement sur Designer",
+      "ThirdPoint": "Fonctionne sur Android et iOS",
+      "listCarrouselDetails": {
+        "plan": {
+          "Title": "Calibrage",
+          "Desc": "La numérisation commence par une phase de calibrage automatique."
+        },
+        "aménagement": {
+          "Title": "prise de mesure",
+          "Desc": "Vous ciblez un par un les coins de la pièce à numériser."
+        },
+        "visite": {
+          "Title": "ajout des ouvertures",
+          "Desc": "Vous ajoutez facilement les portes et fenêtres de la pièce."
+        },
+        "studio": {
+          "Title": "prévisualisation du résultat",
+          "Desc": "Prévisualisez le plan sur votre smartphone avant upload."
+        },
+        "panier": {
+          "Title": "synchronisation",
+          "Desc": "Synchronisation dans le cloud afin d'être accessible de suite depuis nos autres outils."
+        },
+        "récapitulatif": {
+          "Title": "prêt à l'emploi",
+          "Desc": "Votre projet est alors prêt à être traiter grâce à notre palette d'outils dont Designer."
+        }
+      },
+      "GalleryTitle": "Réalisé avec Designer",
+      "GalleryScreenShot": {
+        "firstScreen": {
+          "caption": "Picture caption"
+        },
+        "secondScreen": {
+          "caption": "Picture caption"
+        },
+        "thirdScreen": {
+          "caption": "Picture caption"
+        },
+        "fourthScreen": {
+          "caption": "Picture caption"
+        }
+      },
+      "OtherProductTitle": "PLAN, un outil d'acquisition numérique de plans !",
+      "OtherProductDescPart1": "Comment acquérir rapidement les dimensions d’une pièce lors d’un projet de rénovation ? C’est pour répondre à cette question que nous avons développé Plan. Plan est une solution qui fonctionne sur smartphone Android et iOS et qui permet la capture des dimensions d’une pièce ainsi que des différentes ouvertures (portes, fenêtres).",
+      "OtherProductDescPart2": "Utilisant les dernières évolutions de la réalité augmentée, Plan permet une capture précise d’une pièce et sa synchronisation directement avec votre compte Designer dans le cloud. Fini la reprise fastidieuse de côte.",
+      "OtherProductTitle2": "",
+      "OtherProductDescPart3": ""
+    },
+    "Scan": {
+      "HeroBanner": "Scan",
+      "HeroBannerDesc": "Comment numériser plus de 1000 revêtements dans la semaine ? Avec Scan bien sur !",
+      "DetailsTitle": "Planifiez, posez, numérisez",
+      "DetailsDesc": "Scan est un appareil conçu pour la numérisation par lot de vos revêtements afin de les rendre disponible en ligne.",
+      "KeySellingPoints": "Points clefs",
+      "FirstPoint": "Interface intuitive, le photocopieur de revêtements",
+      "SecondPoint": "Connexion directe aux autres application myDecoCloud",
+      "ThirdPoint": "Gestion de campagne de numérisation",
+      "listCarrouselDetails": {
+        "plan": {
+          "Title": "Planification",
+          "Desc": "Importez la liste de l'ensemble des revêtements que vous souhaitez traiter"
+        },
+        "aménagement": {
+          "Title": "Préparation",
+          "Desc": "Préparez vos matériaux pour la numérisation"
+        },
+        "visite": {
+          "Title": "Numérisation",
+          "Desc": "Les matériaux de 60x60cm sont numérisés en une passe dans l'appareil"
+        },
+        "studio": {
+          "Title": "Synchronisation",
+          "Desc": "Au fur et à mesure les matériaux sont automatiquement synchronisés dans le cloud"
+        },
+        "panier": {
+          "Title": "Validation",
+          "Desc": "Un expert matériaux de notre équipe passe en revue les matériaux afin de les valider"
+        },
+        "récapitulatif": {
+          "Title": "Décoration",
+          "Desc": "Vos matériaux sont alors disponibles dans les catalogues myDecoCloud"
+        }
+      },
+      "GalleryTitle": "Réalisé avec Designer",
+      "GalleryScreenShot": {
+        "firstScreen": {
+          "caption": "Picture caption"
+        },
+        "secondScreen": {
+          "caption": "Picture caption"
+        },
+        "thirdScreen": {
+          "caption": "Picture caption"
+        },
+        "fourthScreen": {
+          "caption": "Picture caption"
+        }
+      },
+      "OtherProductTitle": "SCAN, la solution pour des numérisations de qualité !",
+      "OtherProductDescPart1": "La numérisation d’un grand ensemble de matériaux de décoration peut être une tâche de longue haleine et rebutante de surcroit. Longtemps, les bibliothèques de matériaux se sont contentées de simples photos avec un éclairage plus ou moins correct. Tout cela a produit des résultats de qualité médiocre pour un coût prohibitif. Scan permet de changer la donne.",
+      "OtherProductDescPart2": "Scan est une machine autonome connecté au cloud qui vous permet de numériser de gros volumes de produits sans avoir besoin d’un opérateur surqualifié. La machine fonctionne un peu comme un photocopieur, vous posez le matériau sur la plaque, appuyez sur une touche et le matériau apparait numérisé dans le cloud.",
+      "OtherProductTitle2": "Une numérisation de qualité supérieure",
+      "OtherProductDescPart3": "Scan ne se contente pas de faire une simple photo du matériau, le système complexe d'éclairage piloté par logiciel de Scan permet d'extraire toutes les informations de la surface au niveau de sa réaction à la lumière et des propriétés intrinsèques. Tout cela pour un réalisme étonnant de vos matériaux."
+    },
+    "Product": {
+      "HeroBanner": "Product",
+      "HeroBannerDesc": "Configurateur 3D monoproduit simple",
+      "DetailsTitle": "Intégrez, Configurez",
+      "DetailsDesc": "Un configurateur 3D monoproduit à glisser dans votre site web en quelques minutes",
+      "KeySellingPoints": "Points clefs",
+      "FirstPoint": "Centrer sur un produit",
+      "SecondPoint": "Intégration facile à votre site web",
+      "ThirdPoint": "Pilotable depuis Core",
+      "listCarrouselDetails": {
+        "plan": {
+          "Title": "Intégration",
+          "Desc": "Le configurateur s'intègre facilement dans votre site avec quelques lignes de javascript"
+        },
+        "aménagement": {
+          "Title": "Rendu 3D",
+          "Desc": "Vos objets bénéficient d'un rendu 3D de qualité pour un réalisme maximal"
+        },
+        "visite": {
+          "Title": "Configuration",
+          "Desc": "Les paramètres de configuration sont définis sur mesure pour vos objets"
+        },
+        "studio": {
+          "Title": "Synchronisation",
+          "Desc": "Via Core vous pouvez controller les différents paramètres et la disponibilité de vos objets"
+        },
+        "panier": {
+          "Title": "Devis",
+          "Desc": "Générez des devis sur mesure à partir des choix de vos clients"
+        },
+        "récapitulatif": {
+          "Title": "Export",
+          "Desc": "Proposez un export 3D de l'objet configuré pour vos clients architectes compatible avec leurs outils de travail"
+        }
+      },
+      "GalleryTitle": "Réalisé avec Product",
+      "GalleryScreenShot": {
+        "firstScreen": {
+          "caption": "Picture caption"
+        },
+        "secondScreen": {
+          "caption": "Picture caption"
+        },
+        "thirdScreen": {
+          "caption": "Picture caption"
+        },
+        "fourthScreen": {
+          "caption": "Picture caption"
+        }
+      },
+      "OtherProductTitle": "PRODUCT, la 3D en toute simplicité",
+      "OtherProductDescPart1": "La vente d’objets paramétrables c’est toujours heurté à la difficulté pour vos clients de matérialiser à quoi pourrait ressembler l’objet fini. Avec Product, vous pouvez facilement intégrer un configurateur 3D à votre site web afin de régler cette problématique une bonne fois pour toute.",
+      "OtherProductDescPart2": "Ajouté en quelques minutes, Product vous permet de bénéficier d’un rendu 3D de très haute qualité dans le navigateur web compatible avec les plateformes PC, Mac et mobile. Contrôlé depuis une interface dans Core, il vous permet de facilement choisir les éléments de customisation et l’interface pour les manipuler.",
+      "OtherProductTitle2": "Un univers de possibilités",
+      "OtherProductDescPart3": "Du pur agrément visuel sur votre page web à la génération de devis en passant par la génération de modèle 3D à destination des principaux logiciels d’architecture du marché, Product permet de couvrir l’ensemble de vos besoins en configurateur mono produit. De plus il est entièrement compatible avec Designer si vous souhaitez passer la vitesse supérieure."
+    },
+    "Reality": {
+      "HeroBanner": "reality",
+      "HeroBannerDesc": "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus Morbi semper consectetur magna",
+      "DetailsTitle": "Dessinez, aménagez, visitez",
+      "DetailsDesc": "Équipez votre force de vente d’un configurateur 3D et choisissez la résilience en offrant à votre clientèle une nouvelle expérience d’achat. myDecoCloud ne requière aucune.",
+      "KeySellingPoints": "Key selling points",
+      "FirstPoint": "Curabitur eget lobortis massa",
+      "SecondPoint": "Phasellus iaculis venenatis",
+      "ThirdPoint": "Lorem consectetur accumsan",
+      "listCarrouselDetails": {
+        "plan": {
+          "Title": "Plan",
+          "Desc": "Orci varius natoque penatibus et magnis dis parturient mon-tes, nascetur ridiculus mus Morbi semper consectetur magna"
+        },
+        "aménagement": {
+          "Title": "aménagement",
+          "Desc": "Orci varius natoque penatibus et magnis dis parturient mon-tes, nascetur ridiculus mus Morbi semper consectetur magna"
+        },
+        "visite": {
+          "Title": "visite",
+          "Desc": "Orci varius natoque penatibus et magnis dis parturient mon-tes, nascetur ridiculus mus Morbi semper consectetur magna"
+        },
+        "studio": {
+          "Title": "studioPhoto",
+          "Desc": "Orci varius natoque penatibus et magnis dis parturient mon-tes, nascetur ridiculus mus Morbi semper consectetur magna"
+        },
+        "panier": {
+          "Title": "panier",
+          "Desc": "Orci varius natoque penatibus et magnis dis parturient mon-tes, nascetur ridiculus mus Morbi semper consectetur magna"
+        },
+        "récapitulatif": {
+          "Title": "Récapitulatif",
+          "Desc": "Orci varius natoque penatibus et magnis dis parturient mon-tes, nascetur ridiculus mus Morbi semper consectetur magna"
+        }
+      },
+      "GalleryTitle": "Réalisé avec Designer",
+      "GalleryScreenShot": {
+        "firstScreen": {
+          "caption": "Picture caption"
+        },
+        "secondScreen": {
+          "caption": "Picture caption"
+        },
+        "thirdScreen": {
+          "caption": "Picture caption"
+        },
+        "fourthScreen": {
+          "caption": "Picture caption"
+        }
+      },
+      "OtherProductTitle": "DESIGNER, un outil tout en un !",
+      "OtherProductDescPart1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean urna tellus, suscipit vel eros sed, auctor imperdiet ex. Praesent a tempus odio. Mauris eu arcu nec metus egestas iaculis. Curabitur eget lobortis massa, eu semper arcu. Phasellus iaculis venenatis dolor ac varius. Nunc sit amet urna et lorem consectetur accumsan. Vestibulum ultrices purus justo, non vehicula lacus convallis quis.",
+      "OtherProductDescPart2": "Nullam condimentum id lectus sed luctus. Duis condimentum mollis dictum. Pellentesque blandit, augue et suscipit finibus, dolor neque tincidunt nisi, et sollicitudin massa felis eu risus. Morbi eleifend non nibh et lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed ultrices turpis ante, et ultrices ligula pretium vel. In hac habitasse platea dictumst. In risus tellus, varius vitae nisi sit amet, consectetur rhoncus tortor.",
+      "OtherProductTitle2": "Aliquam purus lacus pulvinar",
+      "OtherProductDescPart3": "Cras arcu lacus, tincidunt in sem id, gravida gravida risus. Curabitur lacinia placerat velit. Donec vitae risus nec tellus blandit porttitor. Maecenas vel velit in eros consectetur varius quis nec odio. Aliquam sollicitudin id turpis et sagittis. Nam quis quam vel nisi porttitor tempus id nec purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed semper a magna nec varius. Quisque aliquam elit sapien, non vulputate velit dignissim nec. Maecenas vel velit in eros consectetur varius quis nec odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    "Core": {
+      "HeroBanner": "core",
+      "HeroBannerDesc": "Le stockage de données structurées dont votre catalogue a besoin",
+      "DetailsTitle": "Construisez, Partagez",
+      "DetailsDesc": "Gérez l'ensemble de vos données 3D et autres tunnels de conversion depuis une interface unique.",
+      "KeySellingPoints": "Points clés",
+      "FirstPoint": "Stockage de données 3D orienté habitat",
+      "SecondPoint": "Gestion complète de votre catalogue",
+      "ThirdPoint": "Accès machine à machine via une API controllable",
+      "listCarrouselDetails": {
+        "plan": {
+          "Title": "Inventaire",
+          "Desc": "Core permet de stocker l'ensemble de vos objets 3D dans un cloud haute performance"
+        },
+        "aménagement": {
+          "Title": "Catalogue",
+          "Desc": "Des outils perfectionnés de construction de catalogue permettant de les tailler en fonction de vos clientèles"
+        },
+        "visite": {
+          "Title": "Paramétrage",
+          "Desc": "Core permet de paramétrer l'ensemble de l'expérience myDecoCloud par le biais d'une interface unique"
+        },
+        "studio": {
+          "Title": "Interface",
+          "Desc": "Vous disposez d'une interface simple permettant de donner l'accès à des applications tierces à vos données"
+        },
+        "panier": {
+          "Title": "Gestion des prix",
+          "Desc": "Un outil avancé de gestion des prix permet de distribuer des catalogues avec des tarifs taillés en fonction de la clientèle cible"
+        },
+        "récapitulatif": {
+          "Title": "Statistiques",
+          "Desc": "L'interface statistique de Core vous permet de voir quels sont les éléments de votre catalogue les plus accédés."
+        }
+      },
+      "GalleryTitle": "Réalisé avec Designer",
+      "GalleryScreenShot": {
+        "firstScreen": {
+          "caption": "Picture caption"
+        },
+        "secondScreen": {
+          "caption": "Picture caption"
+        },
+        "thirdScreen": {
+          "caption": "Picture caption"
+        },
+        "fourthScreen": {
+          "caption": "Picture caption"
+        }
+      },
+      "OtherProductTitle": "CORE, le contrôle sur vos données",
+      "OtherProductDescPart1": "La construction d’un configurateur moderne nécessite de mettre en œuvre de nombreux modèles 3D et autres textures. Core permet de gérer toute cette complexité et vous offre des outils évolués pour construire vos catalogues et les partager avec vos partenaires. Il permet aussi de configurer l’ensemble des expériences disponibles dans les différentes applications de la solution myDecoCloud jusqu’au réglage fin des tunnels de conversion.",
+      "OtherProductDescPart2": "Au-delà de la galaxie myDecoCloud, Core permet aussi d’offrir un accès sécurisé à vos données à vos partenaires afin d’inclure vos références dans des applications tiers. Vous gardez alors toujours la main sur les différents catalogues dont les changements sont répercutés en temps réel.",
+      "OtherProductTitle2": "Maitrisez votre data",
+      "OtherProductDescPart3": "A l’aide de Core vous maitrisez non seulement les données que vous mettez à disposition de tiers, mais de surcroit l’application dispose d’une gestion avancée des statistiques vous permettant de savoir exactement quel usage les tiers font de vos données. Déterminer quel est votre objet le plus populaire ou pourquoi certaines personnes ne vont pas à la fin d’un tunnel de conversion devient un jeu d’enfant."
+    }
+  },
+  "EmptySet": "∅",
+  "FullName": "Nom complet",
+  "Email": "Courriel",
+  "Phone": "Téléphone",
+  "Send": "Envoyer",
+  "Oops": "Oups",
+  "AnErrorOccurred": "Une erreur s'est produite",
+  "Close": "Fermer",
+  "Yes": "Oui",
+  "No": "Non",
+  "AppNames": {
+    "unknown": "Inconnu",
+    "admin": "Backoffice",
+    "home": "Site web",
+    "applet": "Applet",
+    "preview": "Preview"
+  },
+  "FormValidation": {
+    "required": "Ce champ est requis.",
+    "minlength": "Ce champ ne contient que {{ actualLength }} caractères sur un minimum de {{ requiredLength }}.",
+    "maxlength": "Ce champ contient {{ actualLength }} caractères pour un maximum de {{ requiredLength }}.",
+    "email": "Ceci doit être une adresse e-mail valide."
+  },
+  "MemorySymbols": {
+    "B": "o",
+    "kB": "Ko",
+    "MB": "Mo",
+    "GB": "Go",
+    "TB": "To"
+  },
+  "PrerequisiteStatusEnum": {
+    "implemented": "Implémenté",
+    "not_implemented": "Non implémenté",
+    "not_checked": "Non vérifié",
+    "crashed": "Échec"
+  },
+  "Errors": {
+    "Internal": "Une erreur interne s'est produite.",
+    "GraphQL": {
+      "Syntax": "{{ apolloError.message }}",
+      "Validation": "{{ apolloError.message }}"
+    },
+    "Authentication": {
+      "RevokedToken": "Ce jeton a été révoqué, veuillez vous en procurer un nouveau en vous reconnectant.",
+      "InvalidPassword": "Mot de passe invalide pour l'utilisateur {{ username }}.",
+      "NoAnonymousAccess": "Cette opération ne peut pas être effectuée anonymement.",
+      "NoSuchUser": "Compte utilisateur inconnu.",
+      "OAuth": {
+        "UnknownOauthApp": "L'identifiant d'application cliente est invalide ou l'application correspondante a été supprimée.",
+        "LongLivedTokenDontMatch": "Le jeton à longue durée de vie donné ne correspond pas à celui actuellement configuré dans l'application OAuth."
+      },
+      "Authorization": {
+        "UnmetPermissions": "Accès refusé, l'utilisateur n'a pas les permissions requises pour effectuer cette opération.",
+        "ApiKeyInsteadOfAuthToken": "Ce point d'accès requiert un jeton d'authentification et ceci semble être une clé d'API.",
+        "NoApiKey": "Accès refusé, il faut une clé d'API pour effectuer cette opération.",
+        "WrongApiKeyType": "API du mauvais type. Type attendu : {{ apiKeyType }}",
+        "InvalidDomainSecretKey": "Accès refusé, la clé secrète donnée n'est pas valide pour ce domaine ({{ secret }})."
+      }
+    },
+    "Model": {
+      "NoSuchDocument": "Document introuvable",
+      "InvalidInput": "La valeur saisie pour la clé {{ inputKey }} n'est pas valide.",
+      "Palette": {
+        "InvalidColorCodes": "Les codes couleur suivants sont invalides pour une palette de type {{ paletteType }} : {{ colorCodes }}"
+      }
+    },
+    "ProductScan": {
+      "AlreadyCompleted": "Cette numérisation a déjà été complétée.",
+      "AlreadyConverted": "Cette numérisation a déjà été convertie.",
+      "MaterialScanNotFound": "Numérisation introuvable.",
+      "ProductScanNotFound": "Acquisition introuvable.",
+      "BrandMismatch": "La marque associée à la clé d'API fournie ne correspond pas avec la marque liée à la numérisation."
+    },
+    "Designer": {
+      "OutOfMemory": "Votre appareil semble manquer de mémoire pour poursuivre le chargement de l’application. Fermez les onglets inutilisés de votre navigateur ou redémarrez celui-ci afin d’améliorer les performances de myDecoCloud.<br><br> <a href=\"https://www.notion.so/methodinthemadness/Configuration-requise-pour-myDecoCloud-Designer-fa22982a19f74559b9f009ae8e18431f\" target=\"_blank\" rel=\"noopener\">Cliquez ici</a> pour de plus amples informations concernant la configuration matériel requise."
+    },
+    "Pipeline": {
+      "ItemMissingPBRMaterial": "L'objet n'a aucun matériau PBR",
+      "ItemNotFoundError": "L'objet n'existe plus",
+      "ItemNotACoatingError": "L'objet n'est pas un matériau",
+      "PostProcess": {
+        "InvalidJobSettingsError": "Des informations ont été perdues lors de la converison"
+      },
+      "Deadline": {
+        "NotConfigured": "Le serveur de conversion n'est pas correctement configuré",
+        "ServerNotResponding": "Le serveur de conversion ne répond pas",
+        "MissingStatusCode": "Le serveur de conversion ne répond pas",
+        "BadRequest": "Cette demande n'est pas supportée par le serveur de conversion",
+        "NotFound": "Cette demande n'est pas supportée par le serveur de conversion",
+        "MethodNotAllowed": "Cette demande n'est pas supportée par le serveur de conversion",
+        "NotImplemented": "Cette demande n'est pas supportée par le serveur de conversion",
+        "InternalServer": "Une erreure inconnue est survenue sur le serveur de conversion",
+        "JobNotFound": "Cette conversion n'existe plus sur le serveur",
+        "SubmitJobFailed": "La demande a été refusée par le serveur de conversion",
+        "Unauthorized": "Erreur d'authentification"
+      }
+    }
+  },
+  "Admin": {
+    "Admin": {
+      "DatabaseTools": {
+        "Title": "Base de données",
+        "SubtitleFirst": "1. Destination",
+        "Database": "Database (Mongo URI)",
+        "SubtitleSecond": "2. Marque",
+        "SubtitleThird": "3. Objets",
+        "Modify": "Modifiés",
+        "SelectAll": "Tout sélectionner",
+        "New": "Nouveaux",
+        "Excluded": "Exclus",
+        "Process": "Traiter",
+        "Objects": "objets"
+      },
+      "Monitoring": {
+        "SystemSupervision": "Supervision système",
+        "SystemRequirements": "Prérequis système",
+        "CheckAgain": "Vérifier à nouveau",
+        "Status": "Statut",
+        "Key": "Clé",
+        "Depends": "Dépend de",
+        "Description": "Description",
+        "Diagnosis": "Diagnostic"
+      },
+      "UsersIndex": {
+        "Users": "Utilisateurs",
+        "Name": "Nom",
+        "Email": "Email",
+        "Domain": "Domaine",
+        "Actions": "Actions",
+        "Embody": "Incarner",
+        "NoUsers": "Aucun utilisateur ne correspond à ces critères"
+      }
+    },
+    "Components": {
+      "LayoutHeader": {
+        "Disconnect": "Déconnexion"
+      },
+      "LayoutSidebar": {
+        "Management": "Administration",
+        "Users": "Utilisateurs",
+        "DataBase": "Base de données",
+        "SystemSupervision": "Supervision système",
+        "General": "Général",
+        "Brands": "Marques",
+        "CreateBrand": "Créer une marque"
+      }
+    },
+    "Common": {
+      "UnsavedChangesWarning": {
+        "Text": "Vous n’avez pas sauvegardé vos modifications, êtes-vous sûr de vouloir continuer ?",
+        "GetBackToEditing": "Retourner à l'édition",
+        "AbandonAndProceed": "Abandonner les modifications"
+      },
+      "Yes": "Oui",
+      "No": "Non",
+      "CopyPasteToClipboard": {
+        "CopyTooltip": "Copier dans le presse-papier",
+        "CopySuccess": "La copie est maintenant disponible dans le presse-papier.",
+        "CopyFailure": "La copie dans le presse-papier a échoué."
+      }
+    },
+    "Header": {
+      "DesignerModal": {
+        "DesignerTitle": "Accéder à Designer",
+        "AuthenticationTitle": "Authentification",
+        "OpenDesignerWithAuth": "Pour accéder à l'applet en tant que",
+        "DesignerUrlAuthParameterLabel": "Pour accéder à une intégration spécifique en étant connecté, rajoutez ce paramètre à l'URL de l'applet :",
+        "UserAuthTokenLabel": "Votre token d'authentification :",
+        "ClickHere": "cliquez ici"
+      }
+    },
+    "Sidebar": {
+      "Brands": "Gérer ma marque",
+      "Appearance": "Apparence",
+      "General": "Général",
+      "Members": "Membres",
+      "Images": "Images",
+      "Tutorials": "Tutoriels",
+      "Objects": "Objets",
+      "MySaves": "Mes projets",
+      "Saves": "Projets",
+      "SaveTemplates": "Modèles de projet",
+      "Catalogs": "Catalogues",
+      "Palettes": "Nuanciers",
+      "Domains": "Domaines",
+      "Tunnels": "Tunnels",
+      "Output": "Sorties",
+      "Sales": "Ventes",
+      "Scans": "Campagne de numérisation",
+      "Parameters": "Paramètres",
+      "Pricing": "Prix",
+      "LegacyKitchen": "Cuisine",
+      "Modules": "Modules"
+    },
+    "PageHeader": {
+      "Save": "Sauvegarder",
+      "SaveAndQuit": "Sauvegarder et quitter",
+      "ConfirMessageTitle": "Annulation",
+      "ConfirmMessage": "Etes vous sur de vouloir quitter sans sauvegarder ?",
+      "YesButton": "Oui",
+      "NoButton": "Non",
+      "Tunnel": {
+        "New": "Nouveau tunnel"
+      },
+      "Scrapper": {
+        "New": "Nouvelle configuration",
+        "Edit": "Édition de la configuration"
+      },
+      "AccessPoint": {
+        "Edit": "Édition du point d'accès",
+        "New": "Nouveau point d'accès"
+      },
+      "Catalog": {
+        "New": "Nouveau Catalogue",
+        "Edit": "Contenu du catalogue"
+      },
+      "Object": {
+        "New": "Nouvel objet",
+        "Edit": "Édition de l'objet"
+      },
+      "Saves": {
+        "New": "Nouveau projet",
+        "Edit": "Édition du projet",
+        "Index": {
+          "MySaves": "Mes projets",
+          "BrandSaves": "Projets",
+          "BrandSaveTemplates": "Modèles de projets"
+        }
+      }
+    },
+    "Brand": {
+      "Billing": {
+        "Billing": "Facturation",
+        "Subscription": "Abonnement & coordonnées",
+        "PlateformUse": "Votre utilisation de la plateforme",
+        "History": "Historique des factures"
+      },
+      "Dashboard": {
+        "DataDateInterval": "Intervalle des données",
+        "DateIntervalSeparator": "au",
+        "WelcomeToBrand": "Bienvenue sur la marque {{ brandName }}",
+        "YourBrandInTheBlinkOfAnEye": "Votre marque en un clin d'œil",
+        "UniqueVisitors": "Visiteurs uniques",
+        "UniqueVisitorsExpl": "Visiteurs uniques s'étant connectés pendant la période définie, toutes applications confondues.",
+        "UniqueVisitorsCountLegend": "visiteurs uniques",
+        "ProgressionFromLastPeriod": "Progression de l'activité",
+        "ProgressionFromLastPeriodExpl": "Progression du nombre de visiteurs uniques par rapport à la période précédente du {{ from }} au {{ to }}.",
+        "ProgressionFromLastPeriodCountLegend": "visiteurs uniques",
+        "WhereAreUsersLanding": "Où arrivent vos visiteurs ?",
+        "WhereAreUsersLandingExpl": "Répartition du trafic entrant sur vos applications.",
+        "DailyTraffic": "Trafic journalier entrant",
+        "DailyTrafficExpl": "Nombre de visiteurs uniques arrivés sur votre marque, par jour et par type d'activité. Les courbes sont empilées pour représenter le flux entrant total. Cliquez sur les éléments de la légende pour isoler une courbe.",
+        "FocusOnTunnels": "Focus sur les tunnels",
+        "FocusOnTunnel": "Focus sur le tunnel",
+        "NoTunnelAvailable": "Votre marque n'a pas de tunnel configuré",
+        "TunnelUnnamedStep": "Étape sans nom",
+        "TunnelConversionFunnel": "Entonnoir de conversion",
+        "TunnelConversionFunnelExpl": "Nombre d'utilisateurs arrivés jusqu'à chaque étape (il s'agit de tous les parcours dans le tunnel, et non de visiteurs uniques). Leur nombre peut augmenter si votre tunnel n'est pas linéaire ou supporte le chargement de sauvegardes.",
+        "TunnelConversionFunnelYLabel": "Nombre d'utilisateurs arrivés jusque là",
+        "TunnelStepDuration": "Temps passé par étape",
+        "TunnelStepDurationExpl": "75% des utilisateurs sont en deçà de la durée indiquée pour chaque étape (75<sup>ème</sup> centile). La durée est mesurée en temps d'usage continu, c.-à-d. le temps cumulé pendant lequel l'utilisateur interagit activement avec l'onglet.",
+        "TunnelStepDurationYLabel": "Temps continu passé sur l'étape",
+        "TunnelStepChoices": "Choix préférés par étape",
+        "TunnelStepChoicesExpl": "Si l'étape sélectionnée à droite a été configurée pour retenir les choix des utilisateurs (voir configuration du tunnel), ce graphique compte les choix identiques faits par les utilisateurs, pour vous aider à déterminer les plus populaires.",
+        "TunnelStepChoicesStepSelectLabel": "Détails pour l'étape :",
+        "TunnelStepChoicesStepSelectNoAvailableStep": "Aucune étape disponible",
+        "TunnelStepChoicesNoAvailableStep": "La collecte des choix utilisateurs n'est activée sur aucune des étapes du tunnel.",
+        "TunnelStepChoicesYLabel": "Nombre d'utilisateurs ayant fait ce choix",
+        "TunnelEdit": "Éditer les tunnels",
+        "TunnelSelect": "Sélectionnez un tunnel pour commencer",
+        "Export": "Exporter",
+        "EntryPoints": {
+          "admin": "Backoffice",
+          "preview": "Visites virtuelles",
+          "tunnel": "Application DecoCloud",
+          "dc_product_configurator": "myDecoCloud Product (Configurateur)",
+          "dc_product_backoffice": "myDecoCloud Product (Backoffice)",
+          "dc_product_frontoffice": "myDecoCloud Product (Frontoffice)"
+        }
+      },
+      "Settings": {
+        "Appearance": {
+          "Form": {
+            "ConfigurationTitle": "Style de l'application",
+            "PrimaryColor": "Couleur primaire",
+            "SecondaryColor": "Couleur secondaire",
+            "TertiaryColor": "Couleur tertiaire",
+            "Success": "La marque a été correctement sauvegardée",
+            "Failure": "La marque n'a pas pu être sauvegardée",
+            "OptionalColorsTitle": "Thème des tunnels",
+            "OptionalColorsDescription": "Laissez les champs vides pour laisser l'application choisir les couleurs par défaut",
+            "OptionalQuestsColors": "Quêtes",
+            "QuestHeaderColor": "Couleur de fond de l'en-tête",
+            "TitleHeaderColor": "Couleur de texte du titre",
+            "BodyHeaderColor": "Couleur du texte de la description",
+            "OptionalStepperColors": "Visualisation des étapes",
+            "StepperBackgroundColor": "Couleur du fond",
+            "StepperContentColor": "Couleur du contenu",
+            "MoreColorOptions": "Options supplémentaires",
+            "Save": "Sauvegarder"
+          }
+        },
+        "General": {
+          "DeleteRequest": "Supprimer la marque",
+          "Share": "Code de partage",
+          "Text": "Pour permettre à un fabricant de partager une de ses collections ou un de ses catalogues avec votre marque, veuillez lui communiquer le code suivant qu'il pourra utiliser dans les sections correspondantes de son espace d'administration :",
+          "DeleteWarning": "Suppression de la marque ",
+          "Security": "Par sécurité, saisissez le nom de la marque courante.",
+          "WarningText": "Êtes-vous vraiment sûr de vouloir supprimer définitivement cette marque ? Elle ne pourra pas être restaurée ultérieurement.",
+          "Delete": "Supprimer",
+          "HTML": "Le nom que vous avez saisi ne correspond pas.<br><strong>La marque n'a pas été supprimée.</strong>"
+        },
+        "Scrapper": {
+          "Title": "Gestion des sorties",
+          "AddScrapper": "Ajouter une sortie",
+          "DefaultScrapperName": "Nouvelle sortie",
+          "ValidateScrapper": "Sauvegarder",
+          "DeleteScrapper": "Supprimer",
+          "EditionTitle": "Edition de la sortie",
+          "UpdateSuccess": "La mise à jour de la sortie a réussi",
+          "UpdateFailed": "La mise à jour de la sortie a échoué",
+          "CreateSuccess": "La création de la sortie a réussi",
+          "CreateFailed": "La création de la nouvelle sortie a échoué",
+          "RemoveSuccess": "La suppression de la sortie a réussi",
+          "RemoveFailed": "La suppression de la sortie a échoué",
+          "Steps": {
+            "NONE": "Aucun traitement",
+            "TAP_LIVE_PRICE": "S'arrêter ici pour le prix en temps réel",
+            "TAP_EMAIL": "Envoi d'un courriel",
+            "TAP_API": "Appel d'un point d'API",
+            "TAP_SALES_RECORD": "Enregistrement du dossier de vente",
+            "MAP_TO_EAN_AND_PRICE": "Récupération des prix pour Alsapan",
+            "MAP_SURFACES_TO_PRODUCTS": "Transformation des surfaces pour Alsapan Flooring",
+            "MAP_REPORT": "Génération d'un rapport",
+            "MAP_TERRACE_TO_PRODUCTS": "Calcul des produits nécessaires pour Soprema",
+            "MAP_LIST_ITEMS": "Listing générique des objets présents dans la scène",
+            "MAP_PRICE_TABLE_TO_PRODUCTS": "Génération du panier d'achat en utilisant les grilles tarifaires",
+            "INCLUDED_BY_TAG": "Inclusion par Tag",
+            "EXCLUDE_BY_TAG": "Exlusion par Tag"
+          },
+          "Tap": "Action",
+          "Map": "Transformation",
+          "Filter": "Filtrage",
+          "SubtitleFirst": "1. Génération des données",
+          "SubtitleSecond": "2. Pipeline de traitement",
+          "Name": "Nom",
+          "Yes": "Oui",
+          "No": "Non",
+          "Screenshots": "Capture d'écrans",
+          "Geometry": "Géométrie",
+          "Items": "Objets",
+          "AnonymousBackups": "Sauvegardes anonymes",
+          "VirtualVisits": "Visites virtuelles",
+          "Operation": "Opération",
+          "Operand": "Opérande",
+          "Expression": "Expression",
+          "ConversionTable": "Table de conversion",
+          "APIEndpoint": "Point terminal d'API",
+          "IdentificationToken": "Jeton d'identification",
+          "ProjectBaseURL": "URL de base du projet",
+          "BasicURLVisit": "URL de base de la visite",
+          "ReportTemplate": "Template du rapport",
+          "SourceRecipientAddress": "Source de l'adresse mail du destinataire",
+          "RecipientEmail": "Email du destinataire",
+          "SubjectMail": "Sujet du mail",
+          "JSONPath": "Chemin JSON dans le tunnel",
+          "MailTemplate": "Template du mail",
+          "SendReport": "Envoyer le rapport en pièce jointe",
+          "NameAttached": "Nom du fichier joint",
+          "AddAction": "Ajouter une nouvelle action"
+        },
+        "Pricing": {
+          "Title": "Gestion des grilles tarifaires",
+          "Save": "Sauvegarder",
+          "Yes": "Oui",
+          "No": "Non",
+          "UpdateSuccess": "La mise à jour des paramètres de prix a réussi",
+          "UpdateFailed": "La mise à jour des paramètres de prix a échoué",
+          "GeneralParameters": "Paramètres généraux",
+          "PricingTables": "Grilles de prix",
+          "UseEAN": "Utilisation de l'EAN",
+          "UseArticleCode": "Utilisation d'un code article",
+          "DefaultPriceTableName": "Nouvelle table",
+          "AddTable": "Ajouter une grille de prix",
+          "PriceTable": {
+            "Name": "Nom de la table",
+            "CurrencyName": "Nom de la devise",
+            "Moniker": "Sobriquet",
+            "Symbol": "Symbole",
+            "Discount": "Réduction globale"
+          }
+        },
+        "Tunnel": {
+          "Title": "Gestion des tunnels",
+          "AddTunnel": "Ajouter un tunnel",
+          "DeleteTunnel": "Supprimer",
+          "DefaultTunnelName": "Nouveau tunnel",
+          "ValidateScrapper": "Sauvegarder",
+          "DeleteScrapper": "Supprimer",
+          "EditionTitle": "Edition du tunnel",
+          "UpdateSuccess": "La mise à jour du tunnel a réussi",
+          "UpdateFailed": "La mise à jour du tunnel a échoué",
+          "CreateSuccess": "La création du tunnel a réussi",
+          "CreateFailed": "La création du tunnel a échoué",
+          "RemoveSuccess": "La suppression du tunnel a réussi",
+          "RemoveFailed": "La suppression du tunnel a échoué",
+          "Name": "Nom",
+          "ShowTop": "Afficher les étapes en haut de l'écran",
+          "Yes": "Oui",
+          "No": "Non",
+          "Logo": "Logo",
+          "NumberStepBackup": "Numéro de l'étape de démarrage lors du chargement d'une sauvegarde",
+          "DefaultTimeBackups": "Heure par défaut des sauvegardes",
+          "RelatesPsitionSun": "Relatif à la position du soleil dans le ciel dans le configurateur 3D.",
+          "FieldEmpty": "Laissez le champ vide pour laisser l'application choisir une heure par défaut.",
+          "AdvancedOptions": "Options avancées",
+          "ValuesCentimeters": "Les valeurs sont en centimètres.",
+          "HeightExteriorFloor": "Hauteur de l'étage extérieur",
+          "HeightFloorFloor": "Il s'agit de la hauteur de plancher à plancher",
+          "HeightInteriorFloor": "Hauteur de l'étage intérieur",
+          "HeightFloorCeiling": "Il s'agit de la hauteur de plancher à plafond",
+          "ElevationDoorLintels": "Elevation des linteaux de portes",
+          "ElevationBottomOutside": "Elévation du bas d'un linteau à l'extérieur",
+          "ElevationBottomInside": "Elévation du bas d'un linteau à l'interieur",
+          "ElevationWindowLintels": "Elévation des linteaux de fenêtres",
+          "ElevationWindowBenches": "Elévation des bancs de fenêtres",
+          "ThicknessExteriorWalls": "Epaisseur des murs extérieurs",
+          "ThicknessInnerWalls": "Epaisseur des murs intérieurs",
+          "Step": "Étape",
+          "StepName": "Nom de l'étape",
+          "Description": "Description",
+          "Module": "Module",
+          "Catalog": "Catalogue",
+          "Plan": "Plan",
+          "Form": "Formulaire",
+          "3DView": "Vue 3D",
+          "Summary": "Récapitulatif",
+          "Backups": "Sauvegardes",
+          "FreeView": "Vue libre",
+          "MeasurementsFurniture": "Mesures du meuble",
+          "Visit": "Visite",
+          "PhotoStudio": "Studio photo",
+          "Login": "Login",
+          "TrackCamera": "Camera Rail",
+          "Panoramic": "Panorama",
+          "Preloading": "Préchargement",
+          "DisplayStepsList": "Afficher dans la liste des étapes",
+          "AnalyticalDataCollection": "Collecte des données analytiques de choix unique",
+          "PropertieTunnel": "Propriétés d'état du tunnel à réduire en un identifiant de choix :",
+          "Add": "Ajouter",
+          "Configurations": "Configurations",
+          "HTMLTemplate": "Template HTML de la vue libre",
+          "AddStep": "Ajouter une étape",
+          "ReusableConfigurationElements": "Éléments de configuration réutilisables entre étapes"
+        }
+      },
+      "ItemsGroup": {
+        "Title": "Gestion des groupes d'objets",
+        "AddGroup": "Ajouter un groupe d'objets",
+        "DefaultGroupName": "Nouveau groupe",
+        "ValidateGroup": "Sauvegarder",
+        "DeleteGroup": "Supprimer",
+        "CopyId": "Copier l'identifiant",
+        "CopyIdSuccess": "L'identifiant a été copié dans le presse-papier.",
+        "CopyIdFailure": "La copie dans le presse-papier a échouée.",
+        "EditionTitle": "Édition du groupe",
+        "GroupTitle": "Groupes disponibles",
+        "UpdateSuccess": "La mise à jour du groupe a réussi",
+        "UpdateFailed": "La mise à jour du groupe a échoué",
+        "CreateSuccess": "La création du nouveau groupe a réussi",
+        "CreateFailed": "La création du nouveau groupe a échoué",
+        "RemoveSuccess": "La suppression du groupe a réussi",
+        "RemoveFailed": "La suppression du groupe a échoué",
+        "ChoiceIsMandatory": "Choix Obligatoire",
+        "ChoiceIsMandatoryExplanation": "Si un choix d'option n'est pas obligatoire, l'utilisateur est autorisé à ne pas choisir d'objet pour cette option.",
+        "Name": "Nom",
+        "Kind": "Type",
+        "Miniature": "Miniature",
+        "Type": {
+          "substitute": "Substitution",
+          "material_option": "Option de matériaux",
+          "option": "Option",
+          "variation": "Variation",
+          "product_line": "Gamme",
+          "suppression": "Suppression"
+        }
+      },
+      "SavesGroup": {
+        "Title": "Gestion des groupes de sauvegardes",
+        "AddGroup": "Ajouter un groupe de sauvegardes",
+        "DefaultGroupName": "Nouveau groupe",
+        "ValidateGroup": "Sauvegarder",
+        "DeleteGroup": "Supprimer",
+        "CopyId": "Copier l'identifiant",
+        "CopyIdSuccess": "L'identifiant a été copié dans le presse-papier.",
+        "CopyIdFailure": "La copie dans le presse-papier a échouée.",
+        "EditionTitle": "Édition du groupe",
+        "GroupTitle": "Groupes disponibles",
+        "UpdateSuccess": "La mise à jour du groupe a réussi",
+        "UpdateFailed": "La mise à jour du groupe a échoué",
+        "CreateSuccess": "La création du nouveau groupe a réussi",
+        "CreateFailed": "La création du nouveau groupe a échoué",
+        "RemoveSuccess": "La suppression du groupe a réussi",
+        "RemoveFailed": "La suppression du groupe a échoué",
+        "Name": "Nom",
+        "Kind": "Type",
+        "Miniature": "Miniature",
+        "Type": {
+          "product_line": "Gamme"
+        }
+      },
+      "Tutorials": {
+        "TutorialsEditor": {
+          "Title": "Tutoriels",
+          "AddGroup": "Créer un tutoriel",
+          "DeleteTutorial": "Supprimer",
+          "DefaultTutorialName": "Nouveau tutoriel",
+          "DefaultTutorialPointName": "Nouvelle étape",
+          "AddTutorialPoint": "Ajouter une étape",
+          "SaveTutorial": "Sauvegarder le tutoriel",
+          "TutorialSubTitle": "Tutoriel sélectionné",
+          "TutorialPointsSubTitle": "Étapes du tutoriel",
+          "UpdateSuccess": "Le tutoriel a été mis à jour.",
+          "UpdateFailed": "La mise à jour du tutoriel a échouée.",
+          "RemoveSuccess": "Le tutoriel a été supprimé.",
+          "RemoveFailed": "La suppression du tutoriel a échouée.",
+          "CreateSuccess": "Le tutoriel a été créé.",
+          "CreateFailed": "La création d'un nouveau tutoriel a échouée.",
+          "EmptyTutorial": "Tutoriel vide",
+          "Form": {
+            "Name": "Nom",
+            "Title": "Titre",
+            "Target": "Cible interface",
+            "Text": "Description",
+            "Illustration": "Illustration"
+          }
+        }
+      },
+      "Domain": {
+        "Title": "Gestion des domaines et des points d'accès",
+        "DomainSubTitle": "Paramètres du domaine",
+        "AddDomain": "Ajouter un domaine",
+        "SaveDomain": "Sauvegarde le domaine",
+        "DeleteDomain": "Supprimer",
+        "AddAccessPoint": "Ajouter un point d'accès",
+        "SaveAccessPoint": "Sauvegarder le point d'accès",
+        "AccessPointsSubTitle": "Paramètres des points d'accès",
+        "UpdateSuccess": "Le domaine a été mis à jour.",
+        "UpdateFailed": "La mise à jour du domaine a échouée.",
+        "RemoveSuccess": "Le domaine a été supprimé.",
+        "RemoveFailed": "La suppression du domaine a échouée.",
+        "CreateSuccess": "Le domaine a été créé.",
+        "CreateFailed": "La création d'un nouveau domaine a échouée.",
+        "UpdateSuccessAP": "Le point d'accès a été mis à jour.",
+        "UpdateFailedAP": "La mise à jour du point d'accès a échouée.",
+        "RemoveSuccessAP": "Le point d'accès a été supprimé.",
+        "RemoveFailedAP": "La suppression du point d'accès a échouée.",
+        "CreateSuccessAP": "Le point d'accès a été créé.",
+        "CreateFailedAP": "La création d'un nouveau point d'accès a échouée.",
+        "DefaultAccessPointName": "Nouveau point d'accès",
+        "LaunchApplet": "Lancer l'application",
+        "Form": {
+          "Hostname": "Nom d'hôte",
+          "Name": "Nom",
+          "Type": "Type",
+          "Tunnel": "Tunnel",
+          "Scrapper": "Scrapper",
+          "LegacyKitchen": "Cuisine",
+          "NoTunnel": "Pas d'utilisation du tunnel",
+          "NoTunnelWarning": "myDecoCloud Designer ne peut pas démarrer sans tunnel.",
+          "NoScrapper": "Pas d'utilisation du scrapper",
+          "NoLegacyKitchen": "Pas d'utilisation du module cuisine",
+          "Integration": "Code d'intégration",
+          "AllowedUsersLabel": "Utilisateurs autorisés à se connecter",
+          "AllowedUsers": {
+            "WithoutDomain": "Sans domaine",
+            "SameDomain": "Même domaine",
+            "SameDomainOrWithoutDomain": "Même domaine ou sans domaine",
+            "All": "Tous"
+          }
+        }
+      },
+      "Scans": {
+        "Overview": {
+          "Title": "Campagne de numérisation",
+          "StatsTitle": "Avancée de la campagne de numérisation",
+          "StatsDescription": "Une fois vos produits numérisés, ils sont convertis par nos soins dans un format standard avant d'être ajoutés dans votre marque myDecoCloud.",
+          "TotalScanCountDescription": "Produits numérisés",
+          "ConvertedScanCountDescription": "Numérisations converties en matériaux",
+          "ConvertedAsItemScanCountDescription": "Matériaux disponibles sur le backoffice"
+        }
+      },
+      "Sales": {
+        "RecordEdit": {
+          "SalesFile": "Dossier de vente",
+          "ExpertMode": "Mode expert",
+          "BackgroundCreation": "Contexte de création du dossier",
+          "CreatedBy": "Créé par",
+          "ModifyBy": "Modifié par",
+          "AssociatedBackup": "Sauvegarde associée",
+          "HostingBackup": "Vous n'avez pas accès à la marque hébergeant cette sauvegarde",
+          "EndCustomer": "Client final",
+          "KeysDisplay": "Les clés suivantes sont reconnues pour être affichées dans l'interface normale (les valeurs doivent être des chaînes de caractères) :",
+          "FullName": "Nom complet",
+          "Business": "Organisation, entreprise",
+          "Address": "Adresse",
+          "TelephoneNumber": "Numéro de téléphone",
+          "Email": "Adresse e-mail",
+          "OtherMetadata": "Autres métadonnées",
+          "SellerMessage": "Message du vendeur",
+          "Basket": "Panier",
+          "Group": "Groupe"
+        },
+        "Record": {
+          "ShowOnlyFiles": "Afficher seulement mes dossiers",
+          "Result": "résulat(s)",
+          "ProjectName": "Nom du projet",
+          "CreatedBy": "Créé par",
+          "CreatedOn": "Créé le",
+          "Actions": "Actions",
+          "View": "Visualiser",
+          "FilesNoFound": "Aucun dossier ne correspond à ces critères."
+        }
+      }
+    },
+    "Pages": {
+      "Items": {
+        "Form": {
+          "Assets": "Assets",
+          "Preview": "Prévisualisation",
+          "CanBeDroppedOnZonesLabel": "Peut-être déposé sur :",
+          "CategoriesLabel": "Catégories",
+          "ConsideredAsDroppableZonesLabel": "Considéré comme ces zones :",
+          "GeneralTitle": "General",
+          "MetadatasTitle": "Metadata",
+          "ModelsTitle": "Modèles",
+          "NameLabel": "Nom",
+          "DisplayNameLabel": "Nom affiché dans le configurateur",
+          "SettingsTitle": "Paramétrages",
+          "OutputAssets": {
+            "CoatingVariants": {
+              "Title": "Matériaux PBR",
+              "Albedo": "Albedo",
+              "Metallic": "Métal",
+              "Normal": "Normal",
+              "Smoothness": "Smoothness",
+              "UnamedVariant": "Sans nom",
+              "NewVariantName": "Motif",
+              "RemoveVariant": "Supprimer le matériau",
+              "AddVariant": "Ajouter un matériau"
+            }
+          },
+          "ThumbnailTitle": "Miniature",
+          "TypeInput": {
+            "Composite": "Meuble composé",
+            "Furniture": "Meuble",
+            "Coating": "Revêtement",
+            "Aperture": "Ouverture",
+            "Roof": "Toiture",
+            "Stairs": "Escaliers",
+            "Pillar": "Colonne",
+            "Guardrail": "Rambarde",
+            "Wall": "Mur",
+            "Panorama": "Panorama",
+            "Virtual": "Virtuel",
+            "Group": "Groupe"
+          },
+          "TypeLabel": "Type",
+          "SizeTooltip": "Renseigner la taille réelle en cm, mm ou m. En 3D, largeur correspond à l'axe Z et longueur à l'axe X.",
+          "PhysicalSizeTitle": "Taille & Découpe",
+          "PhysicalLengthLabel": "Longueur",
+          "PhysicalHeightLabel": "Hauteur",
+          "PhysicalWidthLabel": "Largeur",
+          "CanBeCut": "Sectionable",
+          "DistancePatternError": "Veuillez entrer une distance sans virgule comme '60cm', '1200mm', '1m'",
+          "CustomisationTitle": "Customisation de l'objet",
+          "AddObjectCustomisation": "Ajouter une customisation d'objet",
+          "AddMaterialCustomisation": "Ajouter une customisation de matériaux",
+          "AddCountertopCustomisation": "Ajouter une customisation de plan de travail",
+          "AddCustomisation": "Ajouter",
+          "Customisation": {
+            "CountertopHeader": "Plan de travail",
+            "CountertopItemOptionLabel": "Plan de travail",
+            "CountertopItemOptionDefaultOption": "Choisir un plan de travail",
+            "CountertopItemOptionTooltip": "Choisir quel plan de travail sera placé dans la scène ou quel plan de travail il faut découper.",
+            "CountertopModeOptionLabel": "Mode",
+            "CountertopModeOptionDefaultOption": "Choisir un mode",
+            "CountertopModeOptionTooltip": "Définit s'il faut placer un plan de travail sur ce meuble ou alors découper le plan de travail pour y poser ce meuble.",
+            "CountertopModeAlwaysPlace": "Toujours recouvrir avec un plan de travail",
+            "CountertopModePlaceWhenOnFloor": "Recouvrir avec un plan de travail si le meuble est posé au sol",
+            "CountertopModeCutHole": "Découper un trou dans le plan de travail pour y poser ce meuble",
+            "MaterialHeader": "Matériel",
+            "MaterialCustomisationProceduralSlot": "Emplacement procédural",
+            "ObjectHeader": "Sous Objets",
+            "NoMaterial": "Choisissez un matériau",
+            "ItemsGroupLabel": "Groupe",
+            "NoItemsGroupMaterial": "Choisissez un groupe",
+            "DefaultObjectCustomisationName": "Nouveau modificateur objets",
+            "DefaultMaterialCustomisationName": "Nouveau modificateur matériaux",
+            "HookTypeTooltip": {
+              "Pivot": "Point de pivot",
+              "TopLeft": "Haut-gauche",
+              "TopMiddle": "Haut",
+              "TopRight": "Haut-droit",
+              "CenterLeft": "Centre-gauche",
+              "Center": "Centre",
+              "CenterRight": "Centre-droit",
+              "BottomLeft": "Bas-gauche",
+              "BottomMiddle": "Bas",
+              "BottomRight": "Bas-droit"
+            },
+            "HookType": {
+              "Pivot": "Pivot",
+              "TopLeft": "┏",
+              "TopMiddle": "┳",
+              "TopRight": "┓",
+              "CenterLeft": "┣",
+              "Center": "╋",
+              "CenterRight": "┫",
+              "BottomLeft": "┗",
+              "BottomMiddle": "┻",
+              "BottomRight": "┛"
+            }
+          },
+          "Pipeline": {
+            "Title": "Conversion",
+            "UnsavedItemWarning": "Les modifications faites sur l'objet n'ont pas été sauvegardées.",
+            "SubmitJob": "Lancer la conversion",
+            "HistoryTitle": "Dernières conversions",
+            "RefreshTooltip": "L'historique est automatiquement mis à jour toutes les 30 secondes si une conversion est en cours.",
+            "ManyPendingJobsWarning": "Il y a actuellement {{ count }} conversions en attente sur le serveur. Votre conversion ne commencera pas avant plusieurs minutes ou plusieurs heures.",
+            "MustBeAdminToConvert": "Seul un adminstrateur de la marque peut utiliser les outils de conversions.",
+            "ItemMustExistToConvert": "Un nouvel objet doit être sauvegardé avant de pouvoir être converti",
+            "ItemMustCoatingToConvert": "Les outils de conversion ne sont disponibles que pour les matériaux.",
+            "CoatingMustHaveMaterialsToConvert": "Pour convertir le matériau, il faut ajouter au minimum un motif PBR.",
+            "HistoryUpdateLabel": "Mis à jour",
+            "EmptyHistory": "Il n'existe aucune conversion pour cet objet",
+            "NewJobSubmitSuccess": "La demande de conversion a bien été crée",
+            "NewJobSubmitError": "Une erreure inconnue est survenue pendant le lancement de la conversion",
+            "Date": "le {{ day }} à {{ time }}",
+            "JobStateLabel": {
+              "DeadlineUnknown": "Erreur inconnue",
+              "DeadlineActive": "Conversion en cours...",
+              "DeadlineSuspended": "Conversion suspendue",
+              "DeadlineCompleted": "Conversion bientôt terminée",
+              "DeadlineFailed": "La conversion a échouée",
+              "DeadlinePending": "La conversion va bientôt commencer",
+              "PostProcessFailed": "Le post traitement a échoué",
+              "PostProcessCompleted": "Conversion et post traitement terminé",
+              "BrokenReference": "Erreur de communication"
+            },
+            "JobStateTooltip": {
+              "UnityConversionFailed": "La conversion Unity a echouée. Essayze de la relancer.",
+              "PostProcessFailed": "La conversion est terminée, mais le post traitement a échoué",
+              "ProcessTime": "Durée {{ processTime }}",
+              "ServerBusy": "Le serveur est occupé à faire une autre conversion",
+              "Suspended": "La conversion a été suspendue, une intervention manuelle est requise.",
+              "TechnicalError": "Problème technique, prennez contact avec le support."
+            }
+          },
+          "Pricing": {
+            "UpdatePricingSuccess": "La liste de prix a été mise à jour avec succès",
+            "UpdatePricingError": "Impossible de mettre à jour la liste de prix",
+            "NoPricingTable": "Vous n'avez pas configuré de table de prix",
+            "ArticleCode": "Code Article",
+            "PriceGeneration": "Comportement dans la génération du prix",
+            "Default": "Par défaut",
+            "GeneratePriceEntry": "Génère un prix",
+            "ExcludeFromGeneration": "Exclu de la génération de prix"
+          },
+          "ItemStudio": {
+            "DataHeader": "Données contenues dans le modèle",
+            "VertexCount": "Nombre de points :",
+            "TriangleCount": "Nombre de triangles :",
+            "Materials": "Matériaux présents :",
+            "NoName": "Pas de nom"
+          },
+          "Stairs": {
+            "Parameters": "Paramétrage des escaliers",
+            "ParametersItem": "Paramétrage de l'objet",
+            "WeUseTheMetricSystem": "Toutes les longueurs en mètres",
+            "Name": "Nom",
+            "Stringers": {
+              "Title": "Crémaillères",
+              "CrossSectionX": "Epaisseur",
+              "CrossSectionY": "Hauteur",
+              "Overtreat": "Offset vertical"
+            },
+            "Treats": {
+              "Title": "Marches",
+              "Thickness": "Epaisseur",
+              "Nose": "Nez"
+            },
+            "Misc": {
+              "Title": "Divers",
+              "StepsHeight": "Hauteur des contremarches",
+              "LandingHeight": "Hauteur du palier",
+              "RailingHeight": "Hauteur du garde-corps"
+            },
+            "Handrail": {
+              "Title": "Main courante",
+              "CrossSectionX": "Largeur",
+              "CrossSectionY": "Epaisseur"
+            },
+            "Balusters": {
+              "Title": "Balustres",
+              "Radius": "Rayon",
+              "TypicalDistance": "Distance typique"
+            },
+            "Posts": {
+              "Title": "Poteaux",
+              "CrossSectionX": "Epaisseur",
+              "CrossSectionY": "Largeur"
+            },
+            "Models": {
+              "Title": "Modèles 3D",
+              "Type": "Type",
+              "Model": "Modèle 3D",
+              "Length": "Longueur",
+              "Width": "Largeur",
+              "Height": "Hauteur",
+              "smallpost": "Balustre",
+              "post": "Poteau",
+              "handrail": "Main courrante"
+            },
+            "Materials": {
+              "Title": "Matériaux",
+              "Material": "Matériaux",
+              "Type": "Type",
+              "stairs": "Escalier",
+              "treats": "Marches",
+              "railing": "Garde-corps"
+            }
+          },
+          "Roof": {
+            "Parameters": "Paramétrage du toit",
+            "ParametersItem": "Paramétrage de l'objet",
+            "WeUseTheMetricSystem": "Toutes les longueurs en mètres",
+            "Name": "Nom",
+            "Rafters": {
+              "Title": "Chevrons",
+              "CrossSectionX": "Largeur",
+              "CrossSectionY": "Epaisseur",
+              "TypicalDistance": "Distance typique"
+            },
+            "RidgeBoard": {
+              "Title": "Faîtage",
+              "CrossSectionX": "Largeur",
+              "CrossSectionY": "Epaisseur"
+            },
+            "RidgeCap": {
+              "Title": "Faîtières",
+              "Radius": "Rayon",
+              "InnerRadius": "Rayon interne",
+              "Length": "Longueur"
+            },
+            "Covering": {
+              "Title": "Couverture",
+              "SealingThickness": "Epaisseur du film d'étanchéité",
+              "SpaceBetweenSealingAndTiles": "Ecart étanchéité / tuiles",
+              "TilesThickness": "Epaisseur des tuiles"
+            },
+            "TopPlateCrossSection": {
+              "Title": "Panne sablière",
+              "X": "Largeur",
+              "Y": "Epaisseur"
+            },
+            "Gutter": {
+              "Title": "Gouttière",
+              "Radius": "Rayon",
+              "InnerRadius": "Rayon interne"
+            },
+            "FlatRoof": {
+              "Title": "Toit plat",
+              "BorderDimensionX": "Largeur de bordure",
+              "BorderDimensionY": "Epaisseur de bordure",
+              "GravelElevation": "Epaisseur du gravier"
+            },
+            "SolarPanels": {
+              "Title": "Panneaux solaires",
+              "Width": "Largeur",
+              "Height": "Hauteur",
+              "Thickness": "Epaisseur",
+              "DistanceToRoof": "Distance au toit",
+              "FrameWidth": "Largeur du cadre",
+              "FrameThickness": "Epaisseur du cadre"
+            },
+            "Models": {
+              "Title": "Modèles 3D",
+              "Type": "Type",
+              "Model": "Modèle 3D",
+              "Length": "Longueur",
+              "Width": "Largeur",
+              "Height": "Hauteur",
+              "ridge_tile": "Faitières",
+              "hip_tile": "Arrêtières",
+              "leak": "Gouttière horizontale",
+              "leak_end": "Bout de gouttière horizontale",
+              "leak_knee_90": "Genou 90° de gouttière horizontale",
+              "leak_hook": "Crochet de fixation",
+              "downpipe_drop": "Naissance",
+              "downpipe": "Tuyau de descente",
+              "downpipe_knee_60": "Coude 60° de descente",
+              "downpipe_outlet": "Débouché de descente"
+            },
+            "Materials": {
+              "Title": "Matériaux",
+              "Material": "Matériaux",
+              "Type": "Type",
+              "wood": "Bois",
+              "seal": "Etanchéité",
+              "tiles": "Tuiles",
+              "gravel": "Gravier",
+              "zinc": "Zingueries",
+              "solarPanelCells": "Panneaux solaires (cellules)",
+              "solarPanelFrame": "Panneaux solaires (cadre)"
+            }
+          },
+          "Pillar": {
+            "Name": "Nom",
+            "Parameters": "Paramétrage du pilier",
+            "ParametersItem": "Paramétrage de l'objet",
+            "WeUseTheMetricSystem": "Toutes les longueurs en mètres",
+            "Misc": {
+              "Title": "Divers",
+              "CylinderSides": "Nombre de facettes"
+            },
+            "Necking": {
+              "Title": "Gorgerin",
+              "CrossSectionX": "Largeur",
+              "CrossSectionY": "Hauteur",
+              "DistanceToTop": "Distance du chapiteau"
+            },
+            "Models": {
+              "Title": "Modèles 3D",
+              "Type": "Type",
+              "Model": "Modèle 3D",
+              "Length": "Longueur",
+              "Width": "Largeur",
+              "Height": "Hauteur",
+              "base": "base",
+              "shaft": "fût",
+              "capital": "chapiteau"
+            },
+            "Materials": {
+              "Title": "Matériaux",
+              "Material": "Matériaux",
+              "Type": "Type",
+              "shaft": "fût",
+              "capital_and_base": "base & chapiteau"
+            }
+          },
+          "Guardrail": {
+            "Name": "Nom",
+            "ListMesh": "Elément de rambarde n°",
+            "Parameters": "Paramétrage de la rambarde",
+            "ParametersItem": "Paramétrage de l'objet",
+            "AddGuardrail": "Ajouter un élément de rambarde",
+            "AddMesh": "Ajouter un élément mesh",
+            "Title": "Base",
+            "Type": "Type d'élément rambarde",
+            "full_length": "Elément plein",
+            "pillars": "Piliers",
+            "pillars_inside": "Piliers intérieurs",
+            "pillars_outside": "Piliers d'extrémités",
+            "pillars_interval": "Elément interstitiel",
+            "Material": "Matériaux",
+            "Model": "Modèle 3D",
+            "Options": {
+              "Title": "Options",
+              "CloseTop": "Fermeture par le haut",
+              "CloseBottom": "Fermeture par le bas",
+              "Shape": "Forme de piliers",
+              "n_a": "Non Applicable",
+              "round": "Rond",
+              "rectangular": "Rectangulaire"
+            },
+            "Dimensions": {
+              "Title": "Dimensionnement",
+              "Height": "Hauteur",
+              "Thickness": "Epaisseur",
+              "Width": "Largeur"
+            },
+            "Placing": {
+              "Title": "Placement",
+              "Elevation": "Elévation",
+              "EndContraction": "Marge aux extrémités",
+              "Gap": "Espacement",
+              "IdealGapDistance": "Distance idéale d'espacement",
+              "PlaceEndPillarsDiagonally": "Placement oblique des piliers terminaux",
+              "IdealDistance": "Distance idéale"
+            },
+            "Surface": {
+              "Title": "Traitement des surfaces",
+              "StretchU": "Etirer l'UV Map en direction de U",
+              "StretchV": "Etirer l'UV Map en direction de V",
+              "ClampU": "Clamp des textures sur l'axe U",
+              "ClampV": "Clamp des textures sur l'axe V"
+            }
+          },
+          "Wall": {
+            "Name": "Nom",
+            "ListMesh": "Elément de mur n°",
+            "Parameters": "Paramétrage de la mur",
+            "ParametersItem": "Paramétrage de l'objet",
+            "AddGuardrail": "Ajouter un élément de mur",
+            "AddMesh": "Ajouter un élément mesh",
+            "Title": "Base",
+            "Type": "Type d'élément mur",
+            "TypeShort": "Type :",
+            "Elevation": "Elevation :",
+            "full_length": "Elément plein",
+            "pillars": "Piliers",
+            "pillars_inside": "Piliers intérieurs",
+            "pillars_outside": "Piliers d'extrémités",
+            "pillars_interval": "Elément interstitiel",
+            "diagonal_ascending": "Décharges ⟋⟋⟋⟋",
+            "diagonal_descending": "Décharges ⟍⟍⟍⟍",
+            "diagonal_alternating": "Décharges ⟋⟍⟋⟍",
+            "diagonal_alternating_reverse": "Décharges ⟍⟋⟍⟋",
+            "Material": "Matériau",
+            "Model": "Modèle 3D",
+            "Applicable": {
+              "Title": "Lieux applicables",
+              "BothSides": "Des deux côtés",
+              "ExteriorFacesExteriorWalls": "Murs extérieurs, côté extérieur",
+              "InteriorFacesExteriorWalls": "Murs extérieurs, côté intérieur",
+              "InteriorWalls": "Murs intérieurs",
+              "OverRegularWall": "Au-dessus du mur normal"
+            },
+            "Options": {
+              "Title": "Options",
+              "CloseTop": "Fermeture par le haut",
+              "CloseBottom": "Fermeture par le bas",
+              "Shape": "Forme de piliers",
+              "SkewOnCorners": "Couper en diagonale aux coins",
+              "Paintable": "Peut être peint",
+              "n_a": "Non Applicable",
+              "round": "Rond",
+              "rectangular": "Rectangulaire"
+            },
+            "Dimensions": {
+              "Title": "Dimensionnement",
+              "Thickness": "Epaisseur",
+              "Length": "Largeur"
+            },
+            "Placing": {
+              "Title": "Placement",
+              "StretchVertically": "Etirer verticalement",
+              "MoveVerticesAbove": "Etirer où ? (0.0 = bas, 1.0 = haut)",
+              "BottomElevation": "Elévation en bas",
+              "TopElevation": "Elévation en haut",
+              "RelativeElevation": {
+                "MeasuredFrom": "Mesurée depuis...",
+                "floor": "Plancher",
+                "ceiling": "Plafond",
+                "floor_next_story": "Plancher au-dessus",
+                "sill": "Rebord de fenêtre",
+                "lintel": "Linteau de porte/fenêtre",
+                "cutElevation": "Hauteur de coupe"
+              },
+              "EndContraction": "Abrègement aux extrémités",
+              "DepthOffset": "Décalage en profondeur",
+              "DoorPostOffset": "Décalage à côté des portes et fenêtres",
+              "Gap": "Espacement",
+              "IdealGapDistance": "Distance idéale des espacements",
+              "PlaceEndPillarsDiagonally": "Placement oblique des piliers terminaux",
+              "IdealDistance": "Distance idéale",
+              "PivotIsOnTop": "Le pivot est en haut"
+            },
+            "SegmentTypes": {
+              "Title": "Pour quels segments?",
+              "Walls": "Murs",
+              "Doors": "Portes",
+              "Windows": "Fenêtres"
+            },
+            "UVMaps": {
+              "Title": "UV Maps",
+              "StretchU": "Etirer l'UV Map en direction de u",
+              "StretchV": "Etirer l'UV Map en direction de v",
+              "ClampU": "Clamp des textures sur l'axe u",
+              "ClampV": "Clamp des textures sur l'axe v",
+              "SwapUV": "Invertir u et v"
+            },
+            "LowWallsDisplay": {
+              "Title": "Murs baissés",
+              "WhenWallsLow": "Afficher quand les murs sont bas",
+              "WhenWallsHigh": "Afficher quand les murs sont hauts",
+              "AutoCut": "Couper quand les murs sont bas"
+            }
+          }
+        },
+        "Index": {
+          "ItemsPerPage": "Objets par page :",
+          "AllItems": "Tous"
+        }
+      },
+      "Scrapper": {
+        "Form": {
+          "ItemsCatalog": "Catalogue d'objets nécessaires au calcul"
+        }
+      },
+      "Catalog": {
+        "Tiles": {
+          "Effects": "Effets",
+          "TunnelVariable": "Variable de serialisation tunnel",
+          "ChangeCatalogTypeSwal": {
+            "Title": "Changement de type de catalogue",
+            "Text": "Êtes-vous sûr de vouloir changer le type de catalogue ? Attention, toutes les tuiles qui seront hors cadre seront supprimées et il ne sera pas possible de revenir en arrière.",
+            "ConfirmationButton": "OK"
+          },
+          "Toolbar": {
+            "Tooltips": {
+              "ShadowAll": "Forcer l'ombre sur toutes les tuiles",
+              "ShadowNone": "Supprimer l'ombre de toutes les tuiles"
+            }
+          },
+          "List": {
+            "AssociatedPriceTable": "Table de prix associée",
+            "NoPriceTableAssociated": "Pas de table de prix associée"
+          }
+        },
+        "Index": {
+          "CatalogsPerPage": "Catalogues par page :",
+          "AllCatalogs": "Tous"
+        }
+      }
+    },
+    "Saves": {
+      "Index": {
+        "NewButton": "Créer un projet",
+        "Name": "Nom",
+        "CreatedBy": "Créé par",
+        "CreatedAt": "Créé le",
+        "Conversion": "Conversion",
+        "ConversionState": {
+          "waiting": "En attente",
+          "running": "En cours",
+          "success": "Réussie",
+          "error": "Erreur",
+          "unknown": "Inconnu"
+        },
+        "Actions": "Actions",
+        "OpenInVanilla": "Ouvrir dans Designer Vanilla",
+        "Edit": "Éditer",
+        "Delete": "Supprimer",
+        "DeleteConfirm": {
+          "Title": "Suppression du projet {{ name }}",
+          "Text": "Êtes-vous sûr de vouloir supprimer le projet {{ name }} ?",
+          "ConfirmButtonText": "Supprimer"
+        },
+        "UpdateBrand": "Transférer",
+        "ListEmpty": "Aucun projet ne correspond à ces critères",
+        "SetIsTemplateTrue": "Transformer en modèle de projet",
+        "ConfirmSetIsTemplateTrueFromBrand": {
+          "Title": "Transformer en modèle de projet",
+          "Text": "Êtes-vous sûr de vouloir transformer le projet {{ name }} en modèle de projet ?",
+          "ConfirmButtonText": "Transformer"
+        },
+        "ConfirmSetIsTemplateTrue": {
+          "Title": "Transformer en modèle de projet",
+          "Text": "Êtes-vous sûr de vouloir transformer le projet {{ saveName }} en modèle de projet ? Il sera placé dans la marque {{ brandName }}.",
+          "ConfirmButtonText": "Transformer"
+        },
+        "SelectBrandToSetIsTemplateTrue": {
+          "Title": "Transformer le projet en modèle de projet",
+          "InputLabel": "Sélectionnez la marque à laquelle vous voulez placer le projet {{ name }} une fois transformé en modèle de projet",
+          "ConfirmButtonText": "Transformer"
+        }
+      },
+      "Components": {
+        "Form": {
+          "General": "Général",
+          "Name": "Nom",
+          "Tags": "Tags",
+          "Type": "Type",
+          "Model": "Modèle",
+          "Scheme": "Plan",
+          "Group": "Groupe",
+          "IFC": "IFC",
+          "Description": "Description",
+          "Thumbnail": "Miniature",
+          "3DModel": "Modèle 3D",
+          "VirtualTours": "Visites virtuelles",
+          "Expert": "Expert",
+          "Data": "Données (JSON)"
+        },
+        "Transfer": {
+          "Transferring": "Transfert du plan à une autre marque",
+          "Name": "Nom",
+          "Actions": "Actions",
+          "Transfer": "Transférer",
+          "Close": "Fermer"
+        },
+        "Visit": {
+          "Name": "Nom",
+          "Actions": "Actions",
+          "Edit": "Éditer",
+          "Open": "Ouvrir",
+          "Delete": "Supprimer",
+          "NoVisits": "Aucune visite n'a été définie pour ce plan."
+        }
+      },
+      "SelectBrandForTemplate": {
+        "Title": "Transformer en template",
+        "Cancel": "Annuler"
+      },
+      "SaveLogModal": {
+        "ModalTitle": "Diagnostics de conversion",
+        "LogType": "Type",
+        "LogMessage": "Message"
+      }
+    },
+    "SaveTemplates": {
+      "Index": {
+        "NewButton": "Créer un modèle de projet",
+        "Name": "Nom",
+        "CreatedBy": "Créé par",
+        "CreatedAt": "Créé le",
+        "Conversion": "Conversion",
+        "Actions": "Actions",
+        "ConversionState": {
+          "waiting": "En attente",
+          "running": "En cours",
+          "success": "Réussie",
+          "error": "Erreur",
+          "unknown": "Inconnu"
+        },
+        "OpenInVanilla": "Ouvrir dans Designer Vanilla",
+        "Edit": "Éditer",
+        "Delete": "Supprimer",
+        "DeleteConfirm": {
+          "Title": "Suppression du modèle de projet {{ name }}",
+          "Text": "Êtes-vous sûr de vouloir supprimer le modèle de projet {{ name }}?",
+          "ConfirmButtonText": "Supprimer"
+        },
+        "UpdateBrand": "Transférer",
+        "ListEmpty": "Aucun modèle de projet ne correspond à ces critères",
+        "SetIsTemplateFalse": "Transformer en projet",
+        "ConfirmSetIsTemplateFalse": {
+          "Title": "Transformer en projet",
+          "Text": "Êtes-vous sûr de vouloir transformer le modèle de projet {{ name }} en projet ?",
+          "ConfirmButtonText": "Transformer"
+        }
+      },
+      "Form": {
+        "TypeInput": {
+          "Group": "Groupe"
+        }
+      }
+    },
+    "Shared": {
+      "Activity": {
+        "NoActivity": "Pas d'activité ce jour"
+      },
+      "Upload": {
+        "DragAndDrop": "Glissez-déposez un fichier pour l'uploader ou cliquez sur ce bouton",
+        "UploadProcessing": "Préparation de l'upload",
+        "UploadProgress": "Upload en cours",
+        "UploadFinish": "Fichier uploadé",
+        "UploadError": "Erreur lors de l'upload<br>Veuillez réessayer",
+        "Cancel": "Annuler"
+      },
+      "Metadata": {
+        "GroupedEdit": "Édition groupée",
+        "IndividualEdit": "Édition individuelle"
+      },
+      "Header": {
+        "Cancel": "Annuler",
+        "Return": "Retour"
+      }
+    },
+    "Dashboard": {
+      "EntryPoints": {
+        "admin": "Backoffice",
+        "preview": "Virtual visits",
+        "tunnel": "DecoCloud applet",
+        "dc_product_configurator": "myDecoCloud Product (Configurator)",
+        "dc_product_backoffice": "myDecoCloud Product (Backoffice)",
+        "dc_product_frontoffice": "myDecoCloud Product (Frontoffice)"
+      }
+    }
+  },
+  "PageComponents": {
+    "Brand": {
+      "Catalogs": {
+        "Form": {
+          "General": "Général",
+          "Name": "Nom",
+          "Type": "Type",
+          "Objects": "Objets",
+          "Plan": "Plans",
+          "Public": "Public",
+          "Virtual": "Virtuel",
+          "IconIndex": "Index de l'icône",
+          "Thumbnail": "Miniature"
+        },
+        "Index": {
+          "Catalogues": "Catalogues",
+          "AddCatalogue": "Ajouter un catalogue",
+          "Name": "Nom",
+          "Status": "Statut",
+          "Share": "Partage",
+          "Actions": "Actions",
+          "Public": "Public",
+          "NotPublished": "Non publié",
+          "Published": "Publié",
+          "Private": "Privé",
+          "Shared": "Partagé",
+          "Virtual": "Virtuel",
+          "ChangeVisibility": "Changer la visibilité du catalogue",
+          "SwitchVisibility": "Êtes-vous sûr de vouloir basculer la visibilité le catalogue",
+          "YesModify": "Oui, modifier",
+          "ChangePublication": "Changer la publication du catalogue",
+          "ChangePublicationStatus": "Êtes-vous sûr de vouloir basculer le status de publication du catalogue",
+          "RemovalSharing": "Suppression du partage avec",
+          "DeleteShare": "Êtes-vous sûr de vouloir supprimer le partage avec",
+          "Delete": "Supprimer",
+          "DeletingCatalogue": "Suppression du catalogue",
+          "DeleteCatalogue": "Êtes-vous sûr de vouloir supprimer le catalogue",
+          "NoMatchesCriteria": "Aucun catalogue ne correspond à ces critères",
+          "Transfer": "Transférer :",
+          "TransferBrands": "Transférer à l'une de mes marques",
+          "TransferCatalogue": "Vous pouvez transférer ce catalogue à une de vos marques, en la sélectionnant ci-dessous.",
+          "SelectBrand": "Sélectionnez une marque",
+          "NotMember": "Vous n'êtes membre d'aucune marque publique. Créez-en une ou demandez à un administrateur de vous y inviter.",
+          "TransferBrand": "Transférer à une marque tierce",
+          "TransferViaSharingCode": "Vous pouvez transférer ce catalogue à une marque tierce via son code de partage, qu'un administrateur de la dite marque pourra vous communiquer. Vous n'aurez plus accès au catalogue.",
+          "SharingCode": "Code de partage",
+          "Close": "Fermer",
+          "Validate": "Valider",
+          "ShareCatalogue": "Partager le catalogue",
+          "ShareCatalogueWithBrand": "Pour partager votre catalogue avec une autre marque, il suffit d'indiquer ici le code marque vers qui vous souhaitez effectuer le partage."
+        },
+        "New": {
+          "Save": "Sauvegarder"
+        },
+        "Titles": {
+          "Form": {
+            "TileConfiguration": "Configuration de la tuile",
+            "TypeTile": "Type de tuile",
+            "Text": "Texte",
+            "Picture": "Image",
+            "Folder": "Dossier",
+            "Inclusion": "Inclusion",
+            "Object": "Objet",
+            "Plan": "Plan",
+            "ObjectGroup": "Groupe d'Objets",
+            "VirtualCatalogue": "Catalogue Virtuel",
+            "TileStyle": "Style de la tuile",
+            "Width": "Largeur",
+            "Height": "Hauteur",
+            "Group": "Groupe",
+            "RecommendedSize": "Taille recommandée",
+            "TileBackground": "Couleur du fond de la tuile",
+            "Opacity": "Opacité",
+            "Shadow": "Ombre",
+            "Yes": "Oui",
+            "No": "Non",
+            "Rounding": "Arrondi",
+            "ImageOutFrame": "Image pouvant sortir du cadre",
+            "PicturePlacement": "Placement de l'image",
+            "Top": "Haut",
+            "Right": "Droite",
+            "Left": "Gauche",
+            "Bottom": "Bas",
+            "Mode": "Mode",
+            "Simple": "Simple",
+            "Advanced": "Avancé",
+            "Title": "Titre",
+            "TitleColour": "Couleur du titre",
+            "TitleSize": "Taille du titre",
+            "Description": "Description",
+            "ColourDescription": "Couleur de la description",
+            "SizeDescription": "Taille de la description",
+            "AdvancedText": "Texte avancé",
+            "Padding": "Padding",
+            "TextMask": "Masque du texte",
+            "Colour": "Couleur",
+            "VerticalAlignment": "Alignement vertical",
+            "Middle": "Milieu",
+            "HorizontalAlignment": "Alignement horizontal",
+            "Newsflash": "Infobulle",
+            "Metadata": "Metadata"
+          },
+          "Modal": {
+            "Validate": "Validate"
+          },
+          "Width": "Largeur",
+          "Height": "Hauteur",
+          "ContentCatalogue": "Contenu du catalogue",
+          "Save": "Sauvegarder",
+          "AddTile": "Ajouter une tuile",
+          "CopyClipboard": "Copier dans le presse-papier",
+          "CatalogueType": "Type de catalogue",
+          "Narrow": "Etroit",
+          "Wide": "Large",
+          "BackgroundColour": "Couleur de fond",
+          "ColumnsSpace": "Espace Colonnes",
+          "LinesSpace": "Espace Lignes",
+          "Rounding": "Arrondi (pixels)",
+          "ApplyTiles": "Appliquer à toutes les tuiles",
+          "GridNotDisplayedSize.": "la grille n'est actuellement pas affichée à sa taille réelle. Le rendu sera légèrement différent dans l'application.",
+          "Auto": "Auto",
+          "Default": "Défaut",
+          "Metadata": "Metadata",
+          "DuplicationTile": "Duplication de la tuile",
+          "DuplicateTile": "Êtes-vous sûr de vouloir dupliquer la tuile ?",
+          "Duplicate": "Dupliquer",
+          "DeletingTile": "Suppression de la tuile",
+          "RemoveTile": "Êtes-vous sûr de vouloir supprimer la tuile ?",
+          "Delete": "Supprimer",
+          "NotSavedChanges": "Vous n'avez pas sauvegardé vos changements, êtes vous sur de vouloir continuer ?",
+          "Yes": "Oui",
+          "No": "Non"
+        },
+        "Tree": {
+          "Form": {
+            "Name": "Nom",
+            "Thumbnail": "Miniature",
+            "IconIndex": "Index de l'icône",
+            "CopyJSON": "Copier le JSON ci-dessous pour créer un catalogue à partir de celui-ci",
+            "NewFolder": "Nouveau dossier",
+            "EditingFolder": "Édition du dossier",
+            "Save": "Enregistrer"
+          },
+          "DeleteFolder": "Êtes-vous sûr de vouloir supprimer le dossier"
+        }
+      },
+      "CategoryPicker": {
+        "SelectedCategories": "catégories enfants sélectionnées",
+        "SelectedCategory": "1 catégorie enfant séléctionnée"
+      },
+      "BrandModal": {
+        "NewBrand": "Nouvelle marque",
+        "Name": "Nom",
+        "Save": "Enregistrer"
+      },
+      "Items": {
+        "Form": {
+          "Loading": "Chargement..."
+        },
+        "Index": {
+          "Objects": "Objets",
+          "AddObject": "Ajouter un objet",
+          "Thumbnails": "Miniatures",
+          "List": "Liste",
+          "CloudStorage": "Stockage cloud",
+          "Name": "Nom",
+          "Slug": "Slug",
+          "Size": "Taille",
+          "Type": "Type",
+          "AreaDisposal": "Zone dépose",
+          "AreaGenerated": "Zone générée",
+          "Edit": "Éditer",
+          "Actions": "Actions",
+          "DuplicateObject": "Dupliquer l'objet",
+          "DeleteObject": "Supprimer l'objet",
+          "Delete": "Supprimer",
+          "Duplicate": "Dupliquer",
+          "NoObjectCriteria": "Aucun objet ne correspond à ces critères.",
+          "ObjectsPage": "Objets par page :",
+          "SureDuplicateObject": "Êtes-vous sûr de vouloir dupliquer l'objet",
+          "SureDeleteObject": "Êtes-vous sûr de vouloir supprimer l'objet"
+        }
+      },
+      "Members": {
+        "Card": {
+          "ModificationMember": "Modification d'un membre",
+          "CreateMember": "Créer ou inviter un nouveau membre",
+          "Password": "Mot de passe",
+          "LeaveFieldBlank": "Laisser ce champ vide pour garder le mot de passe actuel.",
+          "UserChoosesPassword": "Dans le cas d'une invitation, l'utilisateur choisit son mot de passe.",
+          "Login": "Identifiant",
+          "Billing": "Facturation",
+          "ChooseCost": "Choisissez si le coût de l'abonnement sera supporté par",
+          "OrUser.": "ou par l'utilisateur.",
+          "User": "Utilisateur",
+          "InvitationSent": "Une invitation sera envoyée et l'utilisateur sera invité à renseigner une carte de crédit.",
+          "Cancel": "Annuler",
+          "Save": "Sauvegarder",
+          "Add": "Ajouter",
+          "Invite": "Inviter",
+          "AddDirectly": "Ajout direct",
+          "Invitation": "Invitation e-mail"
+        },
+        "Preferences": {
+          "User": "Utilisateur",
+          "KitchenModule": "Module Cuisine",
+          "Login": "Identifiant",
+          "Register": "Enregister",
+          "Cancel": "Annuler"
+        },
+        "Management": {
+          "Members": "Membres",
+          "AddMember": "Ajouter un membre",
+          "DeleteMembers": "Supprimer des membres",
+          "Active": "Actifs",
+          "Inactive": "Inactifs",
+          "Billable": "Facturable",
+          "NotBillable": "Non facturable",
+          "Name": "Nom",
+          "Email": "Courriel",
+          "Activity": "Activité",
+          "Accreditation": "Accréditation",
+          "Actions": "Actions",
+          "Guest": "Invité",
+          "Subject": "Sujet",
+          "Delete": "Supprimer",
+          "Edit": "Éditer",
+          "SubscriptionIndependently": "L'utilisateur paie son abonnement indépendamment",
+          "DeletionInvitation": "Confirmer la suppression de l\\'invitation ?",
+          "DeletionSubscription": "Confirmer la suppression de l\\'abonnement ?"
+        }
+      },
+      "Palettes": {
+        "Edit": {
+          "EditingColour": "Édition du nuancier",
+          "Save": "Sauvegarder"
+        },
+        "Form": {
+          "General": "Général",
+          "Name": "Nom",
+          "Type": "Type",
+          "ColoursMaterials": "Couleurs ou matériaux",
+          "SecondaryColoursMaterials": "Couleurs ou matériaux secondaires"
+        },
+        "Index": {
+          "ColourCharts": "Nuanciers",
+          "AddColourChart": "Ajouter un nuancier",
+          "Name": "Nom",
+          "Type": "Type",
+          "Main": "Éléments principaux",
+          "Secondary": "Éléments secondaires",
+          "Id": "Id",
+          "Actions": "Actions",
+          "Edit": "Éditer",
+          "Delete": "Supprimer"
+        },
+        "New": {
+          "New": "Nouveau nuancier",
+          "Add": "Ajouter un nuancier"
+        }
+      },
+      "Pictures": {
+        "Edit": {
+          "ImageEditing": "Édition de l'image",
+          "Save": "Sauvegarder"
+        },
+        "Form": {
+          "Data": "Données",
+          "Name": "Nom",
+          "Picture": "Image"
+        },
+        "Index": {
+          "Pictures": "Images",
+          "AddPicture": "Ajouter une image",
+          "Thumbnails": "Miniatures",
+          "List": "Liste",
+          "Picture": "Picture",
+          "Name": "Nom",
+          "Url": "Url",
+          "Size": "Taille",
+          "Actions": "Actions",
+          "Edit": "Éditer",
+          "Delete": "Effacer",
+          "SureDelete": "Êtes-vous sûr de vouloir supprimer l'objet"
+        },
+        "New": {
+          "New": "Nouvelle Image",
+          "Add": "Ajouter une image"
+        }
+      },
+      "Visits": {
+        "Edit": {
+          "Editing": "Édition de la visite",
+          "Save": "Sauvegarder",
+          "General": "Général",
+          "Name": "Nom",
+          "Description": "Description",
+          "ViewpointConfiguration": "Configuration des points de vues"
+        }
+      }
+    }
+  },
+  "Applet": {
+    "AboutTitle": "À propos de myDecoCloud",
+    "AboutText": "De la réalité augmentée au logiciel de design poussé, myDecoCloud c'est une gamme d'applications couvrant l'intégralité de vos besoins avec à chaque fois le même soucis d'ergonomie et de simplicité de mise en oeuvre."
+  },
+  "Tunnel": {
+    "RequiredFormFields": "* champs requis"
+  },
+  "Watson": {
+    "Exporter": {
+      "Common": {
+        "Time": "Date (UTC)"
+      },
+      "BrandEntryPointTraffic": {
+        "Hits": "Visiteurs uniques ({{ source }})"
+      },
+      "TunnelStepTraffic": {
+        "Survivors": "Étape {{ index }} \"{{ step.name }}\" : Connexions",
+        "Duration": "Étape {{ index }} \"{{ step.name }}\" : Temps passé (au {{ durationPercentile }}ème centile)",
+        "DurationMs": "Étape {{ index }} \"{{ step.name }}\" : Temps passé en millisecondes (au {{ durationPercentile }}ème centile)"
+      },
+      "TunnelStepChoices": {
+        "StepIndex": "Numéro de l'étape",
+        "Step": "Nom de l'étape",
+        "Choice": "Choix (ou combinaison de choix)",
+        "TimesChosen": "Quantité"
+      }
+    }
+  }
+}
+

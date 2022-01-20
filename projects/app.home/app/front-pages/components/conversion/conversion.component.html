@@ -1,0 +1,50 @@
+<section class="conversion position-relative">
+    <aside class="slash-top"></aside>
+
+    <div class="row d-flex justify-content-center align-items-center no-gutters">
+        <article class="conversion-desc col-12 col-lg-7 order-lg-4">
+            <h2 class="text-center text-lg-right section-title ">
+                {{ 'Home.Home.ConversionPart1' | translate }}
+                <br>
+                {{ 'Home.Home.ConversionPart2' | translate }}
+            </h2>
+
+            <p class="section-para text-center text-lg-right ">
+                {{ 'Home.Home.ConversionDesc' | translate }}
+            </p>
+        </article>
+
+        <div class="col-12 col-lg-5 justify-content-center align-items-center videos-padding videos-container">
+            <button
+                type="button"
+                class="button-hide position-relative button-img cancel-btn-effect"
+                (click)="isVideoShown=!isVideoShown">
+
+                <img class="video-background" [src]="videoPlayerBackgroundUrl" alt="">
+
+                <img class="catch-focus-conversion position-absolute hide-sm hide-md" [src]="catchFocusUrl" alt="">
+                <img [src]="videoPlayerUrl" alt="" class="videos">
+
+                <img class="call-to-action-arrow hide-md hide-sm position-absolute" [src]="callToActionArrowUrl" alt="">
+
+                <p class="hide-md hide-sm arrow-text position-absolute">
+                    {{ 'Home.Home.CallToActionConversionPart1' | translate }}
+                    <br>
+                    {{ 'Home.Home.CallToActionConversionPart2' | translate }}
+                </p>
+            </button>
+
+            <div class="overlay" *ngIf="isVideoShown" (click)="isVideoShown = !isVideoShown">
+                <iframe
+                    class="video-overlay"
+                    src="https://www.youtube.com/embed/iGFvUjlSJ3k"
+                    title="YouTube video player"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+
+                <img class="close-video" (click)="isVideoShown = !isVideoShown " [src]="closeUrl">
+            </div>
+        </div>
+    </div>
+</section>

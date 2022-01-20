@@ -1,0 +1,53 @@
+<page-header>le titre </page-header>
+<page-content>
+    <div class="row">
+        <div [ngClass]="(hasEditorOpened  | async) ? 'col-lg-3' : 'col-lg-12'">
+            <div *ngIf="allContactInformation?.length > 0" class="list-group" >
+                <a
+                    class="list-group-item list-group-item-action list-group-item-user d-flex align-items-center"
+                    *ngFor="let user of allContactInformation | paginate: { itemsPerPage: 10, currentPage: page }"
+                    [routerLink]="user._id"
+                    routerLinkActive="active">
+
+                    <ngx-avatar
+                        [gravatarId]="user.email"
+                        [name]="user.fullname"
+                        [initialsSize]="3"
+                        [size]="45">
+                    </ngx-avatar>
+
+                    <div class="ml-2 list-group-item-user-details">
+                        {{ user.fullname }}
+                        <br>
+
+                        <small class="text-black-50" routerLinkActive="text-white-50">
+                            {{ user.email }}
+                        </small>
+                        <br>
+                        {{user.date}}
+
+                        <br>
+
+                        <span
+                            [ngClass]="'badge-'+ getColor(user.statut)"
+                            class="d-inline-block mt-2 mr-1 badge badge-pill"
+                            routerLinkActive="badge-light">
+                            {{ user.statut }}
+                        </span>
+                    </div>
+                </a>
+                <div class="list-group-item admin--list-group-item-pagination">
+                    <pagination-controls-bootstrap (pageChange)="page = $event"></pagination-controls-bootstrap>
+                </div>
+            </div>
+        </div>
+
+        <div [ngClass]="(hasEditorOpened | async) ? 'col-lg-9' : 'd-none'" >
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+
+    <div class="row" >
+        <div class="col-3" colspan="4" translate="Admin.Admin.UsersIndex.NoUsers"></div>
+    </div>
+</page-content>

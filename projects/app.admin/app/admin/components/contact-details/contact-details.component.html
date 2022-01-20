@@ -1,0 +1,61 @@
+<div *ngIf="user$ | async as user" class="card page-content--card">
+    <div class="card-header">
+        <div class="input-group-prepend">
+            <fa-icon [icon]="icons.faUser" size="lg" class="mr-2"></fa-icon>
+            <h3>{{ user.email }}</h3>
+        </div>
+
+        <div>
+            <button *ngIf="user.statut ==='traitée'" class="btn btn-light" (click)="changeStatutContact(user._id,user.statut)">
+                <fa-icon [icon]="icons.faUserSecret"></fa-icon>
+                <span >supprimer la demande</span>
+            </button>
+
+            <button *ngIf="user.statut ==='non traitée'" class="btn btn-light" (click)="changeStatutContact(user._id,user.statut)">
+                <fa-icon [icon]="icons.faUserSecret"></fa-icon>
+                <span >je traite la demande</span>
+            </button>
+
+            <button *ngIf="user.statut ==='en cours de traitement'" class="btn btn-light" (click)="changeStatutContact(user._id,user.statut)">
+                <fa-icon [icon]="icons.faUserSecret"></fa-icon>
+                <span >je cloture la demande</span>
+            </button>
+
+            <a class="btn btn-light m-0" routerLink=".." [tooltip]="'Common.Close' | translate">
+                <fa-icon [icon]="icons.faTimes"></fa-icon>
+            </a>
+        </div>
+    </div>
+
+    <div class="card-body">
+        <table class="table admin--table-1d-info">
+            <tbody>
+            <tr>
+                <td>nom</td>
+                <td>{{ user.fullname }}</td>
+            </tr>
+
+            <tr>
+                <td>email</td>
+                <td>{{ user.email }}</td>
+            </tr>
+
+            <tr>
+                <td>message</td>
+                <td>{{ user.message }}</td>
+            </tr>
+
+            <tr>
+                <td>téléphone</td>
+                <td>{{ user.phone }}</td>
+            </tr>
+
+            <tr>
+                <td>statut</td>
+                <td>{{ user.statut + ' par '+ user.interlocutor }} </td>
+            </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>

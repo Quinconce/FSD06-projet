@@ -1,0 +1,94 @@
+@import "../../../../lib.scss";
+
+.list-item{
+    height: 100%;
+    li{
+        border-radius: 8px;
+        @include box(175px,284px);
+        margin-bottom:16px;
+        padding: 20px 24px;
+        h3{
+            text-transform: uppercase;
+            margin-bottom:8px ;
+
+            font-size: 22px;
+            font-weight: 500;
+            line-height: 22px;
+        }
+        p{
+            font-size: 15px;
+            font-weight: 300;
+            line-height: 21px;
+        }
+    }
+}
+
+
+
+.type-dual{
+    max-width: 423px;
+}
+
+.img-dual{
+    max-height: 812px;
+}
+
+.dual-carroussel{
+    width:100%;
+    max-width: 375px;
+    max-height: 812px;
+    
+
+}
+
+.multiple-img{
+    border-radius: 10px;
+    overflow: scroll;
+    height: auto;
+    
+    @include tablet{
+        width: 100%;
+    }
+    @include desktop{
+        width: 1032px;
+        margin: 0 32px;
+    }
+}
+
+.multiple-img{
+    ::ng-deep .horizontal-scroll-container{
+        margin:0!important;
+    }
+    //cacher scroll bar sur firefox
+    scrollbar-width: none;
+    overflow: hidden;
+}
+
+.multiple-img-mobile{
+    @include mobile{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+    min-width: 312px;
+    
+}
+
+.style-Windowed{
+    width: 100%;
+    top:0
+}
+
+.style-Windowed-dual{
+    top:0;
+    height:95%
+}
+.left-side{
+    color: white;
+    background-color:#2A2839;
+    -webkit-transition: all 0.9s ease-in;
+    -moz-transition: all 0.9s ease-in;
+    -o-transition: all 0.9s ease-in;
+    transition: all 0.9s ease-in;
+}

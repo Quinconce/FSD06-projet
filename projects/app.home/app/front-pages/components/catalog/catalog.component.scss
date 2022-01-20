@@ -1,0 +1,118 @@
+@import "../../../../lib.scss";
+
+
+.catalog {
+    background: #F8CD7C;
+    overflow: hidden;
+}
+
+.slash-top {
+    border-right: 100vw solid transparent;
+    position: absolute;
+    overflow: hidden;
+
+    top: -1px;
+    left: 0;
+    z-index: 0;
+
+    @include mobile {
+        border-top: $padding-userInterface-medium solid $colors-brand-sunsetOrangeLight;
+    }
+
+    @include tablet {
+        border-top: $padding-userInterface-large solid $colors-brand-sunsetOrangeLight;
+    }
+
+    @include desktop {
+        border-top: $padding-userInterface-big solid $colors-brand-sunsetOrangeLight;
+    }
+
+    @media(min-width:$max-width) {
+        border-right: $max-width solid transparent;
+    }
+    @media(max-width:$min-width) {
+        border-right: $min-width solid transparent;
+    }
+}
+
+.slash-bot {
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+
+    border-right: 100vw solid transparent;
+    width: 100%;
+
+    @include mobile {
+        border-bottom: $padding-userInterface-medium solid $colors-brand-oceanEmeraldLight;
+    }
+
+    @include tablet {
+        border-bottom: $padding-userInterface-large solid $colors-brand-oceanEmeraldLight;
+    }
+
+    @include desktop {
+        border-bottom: $padding-userInterface-big solid $colors-brand-oceanEmeraldLight;
+    }
+
+    @media(min-width:$max-width) {
+        border-right: $max-width solid transparent;
+    }
+    @media(max-width:$min-width) {
+        border-right: $min-width solid transparent;
+    }
+}
+
+.section-para {
+    @include desktop {
+        @include maxBox(fit-content, 700px);
+
+        float: right;
+    }
+}
+
+.catalog-desc {
+    @include mobile {
+        padding: $padding-userInterface-large 31px $padding-userInterface-medium;
+    }
+
+    @include tablet {
+        padding: $padding-userInterface-big $padding-userInterface-large $padding-userInterface-medium ;
+    }
+
+    @include desktop {
+        padding: 238px $padding-userInterface-big 238px 0;
+    }
+    .section-title{
+        @include desktop{
+            min-width: 627px;
+        }
+    }
+}
+
+.call-to-action-arrow{
+    width: 15%;
+    bottom: 29%;
+    left: 98%;
+}
+.arrow-text{
+    bottom: 17%;
+    right: -27%;
+    width: auto;
+    transform: rotate(3.6deg);
+    z-index: 2;
+}
+
+.catch-focus-catalog {
+    top: 27%;
+    left: 12%;
+    width: 6%;
+}
+
+.chair-container {
+    width: 100%;
+
+    .chair {
+        width: 100%;
+    }
+}

@@ -1,0 +1,174 @@
+@import '../../../../lib.scss';
+
+.section-pad{
+    flex-direction: row-reverse;
+    @include desktop{
+        padding-bottom:168px ;
+    }
+
+    
+}
+.pictures{
+    background-color: white;
+    color: $colors-userInferface-black;
+}
+
+.section-title{
+    @include mobile{
+        margin-bottom: 24px;
+    }
+}
+
+p{
+    text-align: justify;
+}
+
+.section-title-level-2{
+    height: 48px;
+    text-transform: uppercase;
+    @include mobile{
+        margin-bottom: 16px;
+        padding-top: $padding-userInterface-small;
+    }
+
+    @include tablet-desktop{
+        margin-bottom: 8px;
+    }
+}
+
+.description-left{
+    padding :0;
+    @include desktop{
+        padding-right: 80px!important;
+        
+    }
+
+    div{
+        p{
+            @include mobile{
+                margin-bottom: 16px;
+            }
+
+            @include tablet-desktop{
+            margin-bottom: 32px;
+            }
+        }
+    }   
+}
+
+
+
+.description-right{
+    padding :0;
+    @include desktop{
+        padding-left: 80px!important;
+
+    }
+    div{
+        p{
+            @include mobile{
+                margin-bottom: 16px;
+            }
+
+            @include tablet-desktop{
+            margin-bottom: 32px;
+            }
+        }
+    }  
+}
+
+.pictures-container{
+    padding:0;
+    @include mobile{
+        margin: 32px 0 0;
+    }
+
+    @include tablet{
+        margin-top: 64px;
+    }
+
+    @include desktop{
+        padding-top: 80px;
+    }
+
+    figure:first-of-type{
+        @include tablet{
+        margin-right: 32px;
+        }
+    }
+}
+
+.picture{
+    .aside-pictures{
+    width: 100vmax;
+    // height: 100%;
+    border-radius: 8px;
+    cursor:pointer;
+        @include desktop{
+            min-width: 568px;
+        }
+    }
+}
+.search{
+    top:0;
+    right: 0;
+    @include mobile{
+        @include box(64px,64px)
+
+    }
+    @include tablet-desktop{
+        @include box(94px,94px)
+    }
+}
+
+.caption-img{
+    @include mobile{
+        font-size: 11px;
+        font-weight: 300;
+        line-height: 13px;
+        letter-spacing: 0em;
+        @include box(32px,100%)
+    }
+
+    @include tablet{
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 17px;
+        letter-spacing: 0em;
+        @include box(40px,100%)
+    }
+
+    @include desktop{
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 20px;
+        letter-spacing: 0em;
+        @include box(48px,100%)
+    }
+
+    
+}
+
+.image-overlay{
+    cursor: pointer;
+    position: fixed;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom: 0;
+    text-align: center;
+    z-index: 3;
+    @include desktop{
+    height: 79vh;
+    width: 65vw;
+    }
+    @include tablet{
+    height: 60vh;
+    width: 84vw;
+    }
+    @include mobile{
+    height: 36vh;
+    width: 85vw;
+    }
+}

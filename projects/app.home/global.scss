@@ -1,0 +1,39 @@
+// == Styles globaux ==
+// Contient les classes qui s'appliquent peu importe la position dans le site.
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,200');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+@import '../../node_modules/photo-sphere-viewer/dist/photo-sphere-viewer.css';
+@import 'style/bootstrap/install.scss';
+@import '../lib.browser.decocloud/sweetalert2-theme';
+@import 'style/global-normalize';
+@import 'style/global-usefull-classes';
+
+@import 'style/bootstrap/now-ui-kit.scss';
+@import 'style/global-normalize';
+
+@import 'lib.scss';
+
+html {
+    font-family: $mainFont;
+    -webkit-font-smoothing: antialiased;
+}
+
+html, body, #swal-leave-us-alone {
+    // Il faut qu'on arrive à crier plus fort que SweetAlert qui nous casse la mise en page.
+    height: 100% !important;
+}
+
+body {
+    // Gives the impression of a sleekier UI
+    cursor: default;
+}
+
+a {
+    cursor: pointer;
+}
+
+[ng-reflect-router-link] {
+    cursor: pointer;
+}

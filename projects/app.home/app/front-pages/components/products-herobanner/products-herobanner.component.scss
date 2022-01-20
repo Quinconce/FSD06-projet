@@ -1,0 +1,243 @@
+@import "../../../../lib.scss";
+
+section {
+    background-color: transparent;
+    color: $colors-userInferface-white;
+    z-index: 3;
+}
+.products-herobanner{
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.position-section {
+    height: 100vh;
+    max-width: $max-width;
+    max-height: $max-height-heroBanner;
+    padding: $padding-userInterface-small $padding-userInterface-small $padding-userInterface-medium;
+    min-height: $min-height;
+    @include tablet{
+        min-height: $min-height-tablet;
+        padding: $padding-userInterface-normal $padding-userInterface-medium $padding-userInterface-medium;
+    }
+}
+
+
+.menu-h > li{
+    margin-left: 40px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.20000000298023224px;
+}
+
+.button-langage{
+    width: 72px;
+    background-color: transparent;
+    font-size: 18px;
+    justify-content: space-evenly;
+}
+
+.langage-selector{
+    background-color: white;
+
+    right: 16px;
+    top: 72px;
+    padding: 8px 0;
+    border-radius: 8px;
+    text-align: left;
+    a {
+        margin: 0 8px;
+        border-radius: 4px;
+        display: block;
+
+        padding: 0 $padding-userInterface-normal;
+        color: black;
+    }
+    a:hover {
+        background-color: $colors-brand-purpleDarkDesaturate;
+        color: white;
+        text-decoration:none;
+    }
+    a:active {
+        background-color: $colors-brand-neonPink;
+    }
+}
+.triangle{
+    display : inline-block;
+    height : 0;
+    width : 0;
+    top: -15px;
+    left: 89px;
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid white;
+    border-left: 15px solid transparent;
+    position: absolute;
+}
+
+.language {
+    button {
+        color: white;
+    }
+}
+
+.no-padding-button {
+    margin: 0!important;
+    padding: 0!important;
+}
+
+.header-content {
+    color: $colors-userInferface-grayLight;
+    z-index: -1;
+
+    @include mobile {
+        padding: 0 $padding-userInterface-medium;
+    }
+
+    @include tablet {
+        margin-top: -167px;
+        padding: 0 64px;
+    }
+
+    @include desktop {
+        margin-top: -53px;
+        padding: 0 128px;
+    }
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:100%;
+}
+
+.header-text {
+    max-width: 568px ;
+    h1 {
+        padding: 0;
+        color: $colors-userInferface-grayLight;
+
+        @include mobile {
+            font-size: 40px;
+            font-weight: 400;
+            line-height: 56px;
+        }
+
+        @include tablet {
+            font-weight: 400;
+            font-size: 64px;
+            line-height: 76px;
+        }
+
+        @include desktop {
+
+            font-size: 72px;
+            font-weight: 400;
+            line-height: 88px;
+        }
+
+        span {
+            display: block;
+        }
+    }
+
+    p {
+        color: $colors-userInferface-grayLight;
+        font-weight: 300;
+
+        @include mobile {
+            padding: 12px 0;
+            font-size: 15px;
+            line-height: 21px;
+            margin-bottom: 20px;
+        }
+
+        @include tablet {
+            padding: 16px 0;
+            font-size: 22px;
+            line-height: 30px;
+            margin-bottom: 32px;
+        }
+
+        @include desktop {
+            padding: $padding-userInterface-normal 0;
+            font-size: 24px;
+            line-height: 32px;
+            margin-bottom: 24px;
+        }
+    }
+}
+.selling-point{
+    list-style:  inside  url('assets/validation.svg');
+    @include mobile{
+        direction: initial;
+        padding: 0 0 18px;
+    }
+    @include tablet-desktop{
+        direction:rtl;
+        padding: 0 0 32px;
+    }
+
+    h3{
+
+        display: flex;
+        align-items: center;
+        @include mobile{
+            height: 56px;
+        }
+        @include tablet-desktop{
+            height: 80px;
+        }
+    }
+
+    li{
+        display: list-item;
+        @include mobile{
+            font-weight: 300;
+            font-size: 15px;
+            line-height: 21px;
+        }
+        @include tablet{
+            font-weight: 400;
+            font-size: 22px;
+            line-height: 32px;
+        }
+        @include desktop{
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 32px;
+        }
+
+        font-size: 24px;
+        line-height: 32px;
+        font-weight: 300;
+        margin: 0 0 16px;
+    }
+
+}
+
+#more {
+    background-color: rgba(255, 255, 255, 0);
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    font-weight: 300;
+
+
+    @include button;
+    margin: 0!important;
+}
+
+.click-to-scroll {
+    background: none;
+    border: none;
+    cursor: pointer;
+    outline: inherit;
+
+    bottom: 32px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    z-index: 2;
+}

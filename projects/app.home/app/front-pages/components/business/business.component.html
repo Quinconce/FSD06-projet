@@ -1,0 +1,32 @@
+<section class="section-pad business">
+    <article class="details row d-flex justify-content-md-center">
+        <h2 class="section-title text-md-center col-12 mh2b">
+            {{ 'Home.Home.BusinessTitle' | translate }}
+        </h2>
+        <p class="section-para text-md-center col-12">
+            {{ 'Home.Home.BusinessDesc' | translate }}
+        </p>
+    </article>
+
+    <div class="row d-flex justify-content-md-center justify-content-xl-around categories no-gutters">
+        <article
+            class="horizontal-margin col-12 col-md-6 col-lg-3"
+            *ngFor="let category of categories">
+
+            <h5 class=" categorie text-uppercase">
+                {{ 'Landing.' + category.keyForTrad | translate }}
+            </h5>
+
+            <ul class="navbar-nav d-flex flex-column list-metier">
+                <li
+                    class="pb-2 mb-2"
+                    *ngFor="let page of category.pages">
+
+                    <a [routerLink]="['/', currentLang , category.slug , page.slug]">
+                        {{ 'Landing.' + page.keyForTrad + '.NameOnBusinessComponent' | translate }}
+                    </a>
+                </li>
+            </ul>
+        </article>
+    </div>
+</section>

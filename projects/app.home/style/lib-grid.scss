@@ -1,0 +1,48 @@
+//screen size,break-point
+/* les variables sont liées aux valeurs de lib-grid.ts
+*  en cas de modification faire la modification dans lib-grid.ts
+*/
+$min-width: 375px;
+$tablet-width: 768px;
+$desktop-width: 1290px;
+$max-width: 1920px;
+$max-height-heroBanner: 1366px;
+$min-height: 800px;
+$min-height-tablet: 1080px;
+
+
+@mixin minScreen {
+    @media only screen and (min-width: $minwidth) {
+        @content;
+    }
+}
+
+@mixin mobile {
+    @media (max-width: $tablet-width - 1) {
+        @content;
+    }
+}
+
+@mixin tablet {
+    @media (min-width: $tablet-width) and (max-width: $desktop-width - 1) {
+        @content;
+    }
+}
+
+@mixin tablet-desktop {
+    @media (min-width: $tablet-width) {
+        @content;
+    }
+}
+
+@mixin desktop {
+    @media only screen and (min-width: $desktop-width) {
+        @content;
+    }
+}
+
+@mixin maxScreen {
+    @media only screen and (max-width: $max-width) {
+        @content;
+    }
+}

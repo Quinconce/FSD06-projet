@@ -1,0 +1,8 @@
+// /!\ This file should be used by page components that want to benefit from BS mixins.
+//     Do not use ./install.scss for this (see comment in this file).
+
+@import 'variables';
+
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';

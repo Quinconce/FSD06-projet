@@ -1,0 +1,23 @@
+<section class="catalog position-relative">
+    <div class="slash-top"></div>
+
+    <div class="row d-flex justify-content-center justify-content-lg-end no-gutters">
+        <article class="catalog-desc text-center text-lg-left col-12 col-lg text-lg-right align-self-center order-lg-2">
+            <h2 class="mh2b section-title ">
+                {{'Home.Home.CatalogPart1' | translate}}
+                <br> {{'Home.Home.CatalogPart2' | translate}}
+            </h2>
+
+            <p class="section-para">{{ 'Home.Home.CatalogDesc' | translate }}</p>
+        </article>
+
+        <article class="chair-container col-lg order-lg-1 d-lg-flex align-items-end">
+            <div class="position-relative">
+                <img class="position-absolute hide-sm hide-md catch-focus-catalog" [src]="catchFocusUrl" alt="">
+                <img class="chair" [src]="chairUrl" alt="">
+            </div>
+        </article>
+    </div>
+
+    <aside class="slash-bot"></aside>
+</section>

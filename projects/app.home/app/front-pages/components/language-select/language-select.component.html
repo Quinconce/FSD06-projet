@@ -1,0 +1,22 @@
+<div class="language d-flex justify-content-end align-items-center">
+    <button
+        type="button"
+        class="btn no-padding-button d-flex justify-content-start button-langage"
+        (click)="isLangageSelectorPopUpOpen=!isLangageSelectorPopUpOpen"
+        [style.color]="textColor">
+
+        <fa-icon [icon]="icons.faGlobe"></fa-icon>
+
+        {{ 'Home.Home.Language' | translate }}
+    </button>
+
+    <ul *ngIf="isLangageSelectorPopUpOpen" class="position-absolute langage-selector d-flex flex-column " role="menu">
+        <div class="triangle"></div>
+
+        <li *ngFor="let lang of availableLanguages | keyvalue" [style.color]="'black'">
+            <a class="py-2" (click)="switchLanguage(lang.key)">
+                {{ lang.value }}
+            </a>
+        </li>
+    </ul>
+</div>

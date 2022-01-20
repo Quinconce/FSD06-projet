@@ -1,0 +1,60 @@
+@import '../../../../lib.scss';
+
+.progression{
+    background-color: white;
+    max-height:76px ;
+    padding:$padding-userInterface-small;
+    position: fixed;
+    width: 100%;
+    max-width: 1920px;
+    transition-property: opacity;
+    transition: 0.2s;
+    
+}
+
+.menu-h {
+    li {
+        margin-left: 40px;
+        align-items: center;
+    }
+    @include mobile{
+
+    }
+    @include tablet{
+
+    }
+    @include desktop{
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+    }
+}
+
+.logo{
+    
+    img{
+        @include box(48px,48px)
+    }
+}
+.progress-bar{
+    background:$colors-userInferface-grayDark;
+    color: $colors-brand-neonPink;
+    height:4px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+
+//permet de modifier la couleur de la bar selon le navigateur
+//firefox
+progress::-moz-progress-bar { background: $colors-brand-neonPink; }
+
+//safari chrome
+progress::-webkit-progress-value { background: $colors-brand-neonPink; }
+
+//IE10
+progress { color: $colors-brand-neonPink; }

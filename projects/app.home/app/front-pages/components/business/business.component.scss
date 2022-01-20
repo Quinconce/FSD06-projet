@@ -1,0 +1,91 @@
+@import "../../../../lib.scss";
+section {
+    background-color: $colors-brand-purpleDarkDesaturate;
+    color: $colors-userInferface-white;
+}
+
+// Titre écrit en brut dans "fr.json" en majuscule, désactive l'uppercase present dans lib-variable.scss
+.section-title {
+    text-transform: none;
+}
+
+.horizontal-margin {
+    @include mobile {
+        margin: 8px 0;
+    }
+    @include tablet {
+        margin: 16px 0;
+    }
+}
+
+.details {
+    @include mobile {
+        padding-bottom: $padding-userInterface-small;
+    }
+    @include tablet {
+        padding-bottom: 58px;
+    }
+    @include desktop {
+        padding-bottom: 67px;
+    }
+}
+
+.categorie {
+    padding-bottom: 17px;
+    @include mobile {
+        font-size: 19px;
+        font-weight: 500;
+        line-height: 19px;
+    }
+    @include tablet {
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 22px;
+    }
+    @include desktop {
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 28px;
+    }
+}
+
+.list-metier {
+    li {
+        @include mobile {
+            font-size: 15px;
+            font-weight: 300;
+            line-height: 18px;
+        }
+        @include tablet {
+            font-size: 18px;
+            font-weight: 300;
+            line-height: 24px;
+        }
+        @include desktop {
+            font-size: 18px;
+            font-weight: 300;
+            line-height: 24px;
+        }
+        a {
+            color: white!important;
+        }
+    }
+}
+
+.section-para {
+    @include desktop {
+        padding: 0 14%
+    }
+}
+
+.categories {
+     :first-child {
+        padding-left: 0;
+    }
+     :last-child {
+        padding-right: 0;
+    }
+    article {
+        padding-right: $padding-userInterface-normal;
+    }
+}

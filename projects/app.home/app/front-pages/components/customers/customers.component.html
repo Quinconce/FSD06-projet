@@ -1,0 +1,17 @@
+<section class="customers section-pad">
+    <article class="text-md-center">
+        <h2 class="section-title mh2b">{{'Home.Home.Customers'| translate}}</h2>
+        <p class="section-para">{{'Home.Home.CustomersDesc'| translate}}</p>
+    </article>
+
+    <article class="row no-gutters">
+        <ul class="customers-logos-list d-flex position-relative row w-100 flex-wrap no-gutters">
+
+            <li class="large" *ngFor="let item of logos">
+                <div class="placeholders d-flex justify-content-center flex-column align-items-center w-100 h-100 position-relative">
+                    <img [src]="item" alt="">
+                </div>
+            </li>
+        </ul>
+    </article>
+</section>

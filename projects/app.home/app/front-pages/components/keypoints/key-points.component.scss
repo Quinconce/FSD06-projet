@@ -1,0 +1,122 @@
+@import '../../../../lib.scss';
+
+.key-points{
+    background-color: $colors-brand-purpleDarkDesaturate;
+    color: white;
+    overflow: hidden;
+}
+
+.slash-top{
+    border-right: 100vw solid transparent;
+    position: absolute;
+    overflow: hidden;
+    min-width: 380px;
+    top: -1px;
+    left: 0px;
+    z-index: 0;
+
+    @include mobile {
+        border-top: $padding-userInterface-medium solid white;
+    }
+
+    @include tablet {
+        border-top: $padding-userInterface-large solid white;
+    }
+
+    @include desktop {
+        border-top: $padding-userInterface-big solid white;
+    }
+
+    @media(min-width:$max-width) {
+        border-right: $max-width solid transparent;
+    }
+    @media(max-width:$min-width) {
+        border-right: $min-width solid transparent;
+    }
+}
+
+.slash-bot{
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+
+    border-right: 100vw solid transparent;
+    width: 100%;
+
+    @include mobile {
+        border-bottom: $padding-userInterface-medium solid white;
+    }
+
+    @include tablet {
+        border-bottom: $padding-userInterface-large solid white;
+    }
+
+    @include desktop {
+        border-bottom: $padding-userInterface-big solid white;
+    }
+
+    @media(min-width:$max-width) {
+        border-right: $max-width solid transparent;
+    }
+    @media(max-width:$min-width) {
+        border-right: $min-width solid transparent;
+    }
+}
+ul{
+    list-style:none;
+    li{
+        @include mobile{
+            font-size: 15px;
+            line-height: 32px;
+            font-weight: 300;
+            margin: 0 0 14px;
+        }
+        @include tablet{
+            font-size: 22px;
+            line-height: 30px;
+            font-weight: 300;
+            margin: 0 0 16px;
+        }
+        @include desktop{
+            font-size: 24px;
+            line-height: 32px;
+            font-weight: 300;
+            margin: 0 0 16px;
+        }
+        
+        
+        display: flex;
+        align-items: center;
+    }
+    
+}
+
+article{
+    @include mobile{
+        margin: 32px 0 54px;
+    }
+    @include tablet{
+        margin: 64px 0 80px;
+    }
+    @include desktop{
+        margin: 80px 0 112px;
+    }
+    
+}
+
+fa-icon{
+    color: $colors-brand-neonPink;
+    padding-right: $padding-userInterface-tiny;
+    
+}
+
+.section-title-level-2{
+    @include mobile{
+        height:56px;
+    }
+    @include tablet-desktop{
+        height:80px;
+    }
+    
+}
+

@@ -1,0 +1,16 @@
+<section class="section-pad details">
+    <article class="text-center section-desc">
+        <h2 class="section-title">
+            {{translationPrefix + '.DetailsTitle' | translate }}
+        </h2>
+
+        <p class="section-para">
+            {{translationPrefix + '.DetailsDesc' | translate }}
+        </p>
+    </article>
+
+    <home-slider-column
+        [slidersInfo]="sliderData"
+        [translationPrefix]="translationPrefix">
+    </home-slider-column>
+</section>

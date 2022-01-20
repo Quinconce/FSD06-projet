@@ -1,0 +1,126 @@
+<section class="price section-pad">
+    <article>
+        <h2 class="section-title text-md-center">
+            {{translationPrefix +'.PriceTitle' | translate}}
+        </h2>
+
+        <p class=" section-para text-center">
+            {{translationPrefix +'.PriceDesc' | translate}}
+        </p>
+
+        <table class="hide-sm price-table">
+            <thead class="position-relative table-contract">
+                <tr>
+                    <th></th>
+                    <th class="thead-title radius-top-left title-foot-head">
+                        {{translationPrefix +'.HeaderTableFirstColumn' | translate}}
+                    </th>
+
+                    <th class="thead-title title-foot-head">
+                        {{translationPrefix +'.HeaderTableSecondColumn' | translate}}
+                    </th>
+
+                    <th class="thead-title title-foot-head ">
+                        {{translationPrefix +'.HeaderTableThirdColumn' | translate}}
+                    </th>
+
+                    <th id="plus" class="title-foot-head radius-top-right">
+                        {{translationPrefix +'.HeaderTableFourthColumn' | translate}}
+                    </th>
+                </tr>
+                <tr class="border-color-container">
+                    <th></th>
+                    <th colspan="4" class="color-border"></th>
+                </tr>
+            </thead>
+
+            <tbody class="table-body">
+                <tr *ngFor="let featureLine of FeaturesLines" class="feature-Line">
+                    <th class="name-line">
+                        {{translationPrefix +'.NameLine.'+ featureLine.name +'.nameLine' | translate}}
+                    </th>
+
+                    <th *ngIf="featureLine.type == 'checkbox'">
+                        <fa-icon [class]="classFor(featureLine.solo)" [icon]="iconFor(featureLine.solo)"></fa-icon>
+                    </th>
+
+                    <th *ngIf="featureLine.type == 'checkbox'">
+                        <fa-icon [class]="classFor(featureLine.team)" [icon]="iconFor(featureLine.team)"></fa-icon>
+                    </th>
+
+                    <th *ngIf="featureLine.type == 'checkbox'">
+                        <fa-icon [class]="classFor(featureLine.ecommerce)" [icon]="iconFor(featureLine.ecommerce)"></fa-icon>
+                    </th>
+
+                    <th *ngIf="featureLine.type == 'checkbox'">
+                        <fa-icon [class]="classFor(featureLine.plus)" [icon]="iconFor(featureLine.plus)"></fa-icon>
+                    </th>
+
+                    <th *ngIf="featureLine.type == 'text'" class="text-table">
+                        {{ featureLine.solo }}
+                    </th>
+
+                    <th *ngIf="featureLine.type == 'text'" class="text-table">
+                        {{ featureLine.team }}
+                    </th>
+
+                    <th *ngIf="featureLine.type == 'text'" class="text-table">
+                        {{ featureLine.ecommerce }}
+                    </th>
+
+                    <th *ngIf="featureLine.type == 'text'" class="text-table">
+                        {{ featureLine.plus }}
+                    </th>
+
+                </tr>
+            </tbody>
+
+            <tfoot class="price-contract">
+                <tr class="border-color-container">
+                    <th></th>
+
+                    <th colspan="4" class="color-border"></th>
+                </tr>
+
+                <tr>
+                    <th></th>
+
+                    <th class="radius-bot-left">
+                        <p class="tfoot-first-line"> 000 HT</p>
+                        <p class="tfoot-second-line">Tarif mensuel</p>
+                    </th>
+                    <th>
+                        <p class="tfoot-first-line"> 000 HT</p>
+                        <p class="tfoot-second-line">Tarif mensuel</p>
+                    </th>
+                    <th>
+                        <p class="tfoot-first-line"> 000 HT</p>
+                        <p class="tfoot-second-line">Tarif mensuel</p>
+                    </th>
+                    <th class="radius-bot-right">
+                        <p class="tfoot-first-line">Nous contacter</p>
+                        <p class="tfoot-second-line hide-md">contact@mydecocloud.com</p>
+                    </th>
+                </tr>
+
+            </tfoot>
+        </table>
+    </article>
+
+    <article class="hide-sm">
+        <h3 class="section-title-level-2 text-uppercase">{{'Landing.PriceTitle2' | translate}}</h3>
+        <ul class=" d-flex flex-wrap justify-content-between service no-gutters">
+            <li *ngFor="let productCard of ProductsCards">
+                <button [routerLink]="[ '/', currentLang, 'products' , productCard.name ]" class="btn-application" href="">
+                    <img [src]="productCard.logoUrl" alt="" class="logo-application">
+                    <div class=" ">
+                        <h4 class="section-title-level-2">{{ 'Products.CardsProduct.'+ productCard.name +'.Product' | translate}}</h4>
+                        <p class="application-desc">{{'Products.CardsProduct.'+ productCard.name +'.ProductDesc' | translate}}</p>
+                    </div>
+                    <img [src]="chevronImgUrl" alt="" class="chevron">
+                </button>
+            </li>
+        </ul>
+
+    </article>
+</section>

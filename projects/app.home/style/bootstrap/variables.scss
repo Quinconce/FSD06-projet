@@ -1,0 +1,17 @@
+// Bootstrap customizations here.
+//=> Project variables
+@import "../lib-grid.scss";
+// ...
+//=> Bootstrap variables overrides
+$font-weight-light: 400; // override of the default 300, too thin with Nucleo font
+$modal-md: 580px;
+$grid-columns: 12;
+$grid-gutter-width: 30px;
+//change breakpoint to match with fred's design
+$grid-breakpoints: ( // Extra small screen / phone
+xs: 0, // Small screen / phone
+sm: $min-width, // Medium screen / tablet
+md: $tablet-width, // Large screen / desktop
+lg: $desktop-width, // Extra large screen / wide desktop
+xl: $max-width, );
+$container-max-widths: ( sm: 540px, md: 720px, lg: 960px, xl: 1140px);

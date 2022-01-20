@@ -1,0 +1,106 @@
+<article *ngIf="slidersInfo.type === 'solo'" class="d-lg-flex justify-content-between">
+    <aside class="test hide-md hide-sm">
+        <ul class=" list-item ">
+            <li [hidden]="!slidersInfo.leftColumn" *ngFor="let LeftSide of slidersInfo.leftColumn" (click)="slider.scrollToElement(LeftSide.index)" [ngClass]="{'left-side': LeftSide.index == slider.currentPosition}">
+                <h3>{{translationPrefix + '.listCarrouselDetails.'+ LeftSide.name+'.Title' | translate}}</h3>
+                <p>{{translationPrefix + '.listCarrouselDetails.'+ LeftSide.name+'.Desc' | translate}}
+                </p>
+            </li>
+        </ul>
+    </aside>
+    <div class="multiple-img position-relative" id="sizeSliderSeen" #sizeSliderSeen>
+
+        <home-slider [imgBackground]="'solo'" [testons]="slidersInfo.infosSlider" [pagersBackground]="'#373F41'" [pagersNumber]="slidersInfo.imgSlider.length" [timeBeforeAutomaticScroll]="5000" #slider>
+            <img modele class="position-absolute style-Windowed type-solo" [src]="slidersInfo.imageAround" alt="">
+            <!-- <img class="position-absolute" [src]="detailsWindowUrl" > -->
+            <img cards class="" [src]="centerSlider.name" alt="" *ngFor="let centerSlider of slidersInfo.imgSlider">
+
+        </home-slider>
+    </div>
+    <aside class=" hide-md hide-sm">
+        <ul class="list-item right-side">
+            <li [hidden]="!slidersInfo.rightColumn" *ngFor="let rightSide of slidersInfo.rightColumn" (click)="slider.scrollToElement(rightSide.index)" [ngClass]="{'left-side': rightSide.index == slider.currentPosition}">
+                <h3>{{translationPrefix + '.listCarrouselDetails.'+ rightSide.name+'.Title' | translate}}</h3>
+                <p>{{translationPrefix + '.listCarrouselDetails.'+ rightSide.name+'.Desc' | translate}}
+                </p>
+                <p>{{rightSide.length}}</p>
+            </li>
+        </ul>
+    </aside>
+</article>
+
+<!-- dans le cas ou on a 2 carroussel dans le meme composant -->
+<article *ngIf="slidersInfo.type === 'dual'" >
+    <article class="d-lg-flex justify-content-between hide-md hide-sm">
+    <aside class="test hide-md hide-sm">
+        <ul class=" list-item ">
+            <li [hidden]="!slidersInfo.leftColumn" *ngFor="let LeftSide of slidersInfo.leftColumn" (click)="slider.scrollToElement(LeftSide.index)" [ngClass]="{'left-side': LeftSide.index == slider.currentPosition}">
+                <h3>{{translationPrefix + '.listCarrouselDetails.'+ LeftSide.name+'.Title' | translate}}</h3>
+                <p>{{translationPrefix + '.listCarrouselDetails.'+ LeftSide.name+'.Desc' | translate}}
+                </p>
+            </li>
+        </ul>
+    </aside>
+    <div class="multiple-img dual-carroussel position-relative">
+
+        <home-slider [imgBackground]="'dual'" [testons]="slidersInfo.infosSlider" [pagersBackground]="'#373F41'" [pagersNumber]="slidersInfo.imgSlider.length" [timeBeforeAutomaticScroll]="5800" #slider>
+
+            <img modele class="position-absolute style-Windowed-dual type-dual" [src]="slidersInfo.imageAround" alt="">
+            <img cards class="" [src]="centerSlider.name" alt="" *ngFor="let centerSlider of slidersInfo.imgSlider">
+
+        </home-slider>
+    </div>
+    <div class="multiple-img dual-carroussel position-relative" >
+
+        <home-slider [imgBackground]="'dual'" [testons]="slidersInfo.infosSlider" [pagersBackground]="'#373F41'" [pagersNumber]="slidersInfo.imgSlider2.length" [timeBeforeAutomaticScroll]="4300" #slider2>
+
+            <img modele class="position-absolute style-Windowed-dual type-dual " [src]="slidersInfo.imageAround" alt="">
+            <!-- <img class="position-absolute" [src]="detailsWindowUrl" > -->
+            <img cards class="img-dual" [src]="centerSlider.name" alt="" *ngFor="let centerSlider of slidersInfo.imgSlider">
+
+        </home-slider>
+    </div>
+    <aside class=" hide-md hide-sm">
+        <ul class="list-item right-side">
+            <li [hidden]="!slidersInfo.rightColumn" *ngFor="let rightSide of slidersInfo.rightColumn" (click)="slider2.scrollToElement(rightSide.index)" [ngClass]="{'left-side': rightSide.index  == slider2.currentPosition }">
+                <h3>{{translationPrefix + '.listCarrouselDetails.'+ rightSide.name+'.Title' | translate}}</h3>
+                <p>{{translationPrefix + '.listCarrouselDetails.'+ rightSide.name+'.Desc' | translate}}
+                </p>
+                <p>{{rightSide.length}}</p>
+            </li>
+        </ul>
+    </aside>
+    </article>
+    <article class="d-md-flex justify-content-between">
+        <aside class="test hide-lg hide-sm">
+            <ul class=" list-item ">
+                <li [hidden]="!slidersInfo.leftColumn" *ngFor="let LeftSide of slidersInfo.leftColumn" (click)="slider3.scrollToElement(LeftSide.index)" [ngClass]="{'left-side': LeftSide.index == slider3.currentPosition}">
+                    <h3>{{translationPrefix + '.listCarrouselDetails.'+ LeftSide.name+'.Title' | translate}}</h3>
+                    <p>{{translationPrefix + '.listCarrouselDetails.'+ LeftSide.name+'.Desc' | translate}}
+                    </p>
+                </li>
+            </ul>
+        </aside>
+        <div class="multiple-img multiple-img-mobile dual-carroussel position-relative hide-lg" >
+
+            <home-slider [imgBackground]="'dual'" [testons]="slidersInfo.infosSlider" [pagersBackground]="'#373F41'" [pagersNumber]="combineImg.length" [timeBeforeAutomaticScroll]="5000" #slider3>
+
+                <img modele class="position-absolute style-Windowed-dual type-dual" [src]="slidersInfo.imageAround" alt="">
+                <!-- <img class="position-absolute" [src]="detailsWindowUrl" > -->
+                <img cards class="" [src]="centerSlider.name" alt="" *ngFor="let centerSlider of combineImg">
+
+            </home-slider>
+        </div>
+        <aside class=" hide-lg hide-sm">
+            <ul class="list-item right-side">
+                <li [hidden]="!slidersInfo.rightColumn" *ngFor="let rightSide of slidersInfo.rightColumn" (click)="slider3.scrollToElement(rightSide.index + 3)" [ngClass]="{'left-side': rightSide.index == slider3.currentPosition - 3 }">
+                    <h3>{{translationPrefix + '.listCarrouselDetails.'+ rightSide.name+'.Title' | translate}}</h3>
+                    <p>{{translationPrefix + '.listCarrouselDetails.'+ rightSide.name+'.Desc' | translate}}
+                    </p>
+                    <p>{{rightSide.length}}</p>
+                </li>
+            </ul>
+        </aside>
+        </article>
+
+</article>

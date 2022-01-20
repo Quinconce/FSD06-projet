@@ -1,0 +1,43 @@
+<section class="customers-note section-pad overlay-hide position-relative">
+    <div class="position-relative">
+        <article class="text-md-center">
+            <h2 class=" section-title mh2b">
+                {{'Home.Home.CustomersNotesPart1'| translate}}
+                <br>
+                {{'Home.Home.CustomersNotesPart2'| translate}}
+            </h2>
+
+            <p class="section-para">
+                {{'Home.Home.CustomersNotesDesc'| translate}}
+            </p>
+        </article>
+
+        <home-slider
+            [testons]="sliderSettings"
+            pagersBackground="#373F41"
+            [pagersNumber]="customersNote.length"
+            [timeBeforeAutomaticScroll]="5000">
+
+            <figure
+                cards
+                class="d-md-flex customers-commentary"
+                *ngFor="let customersNotes of customersNote">
+
+                <img class="hide-sm customer-face" [src]="customersNotes.imgUrl" alt="">
+
+                <img class="hide-md hide-lg customer-face" [src]="customersNotes.imgMobileUrl " alt="">
+
+                <div class="slide-customers-note-content position-relative">
+                    <blockquote class="commentary">
+                        {{ 'Home.Home.CustomersNotes.' + customersNotes.name + '.Quote' | translate }}
+                    </blockquote>
+
+                    <figcaption class=" text-right justify-content-end position-absolute customer-Name">
+                        {{ 'Home.Home.CustomersNotes.' + customersNotes.name + '.Name' | translate }}
+                        <span>{{ 'Home.Home.CustomersNotes.' + customersNotes.name + '.job' | translate }}</span>
+                    </figcaption>
+                </div>
+            </figure>
+        </home-slider>
+    </div>
+</section>

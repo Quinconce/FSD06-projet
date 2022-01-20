@@ -1,0 +1,142 @@
+<section class="hero-banner position-absolute">
+    <header class="backg position-relative">
+        <div>
+            <header class=" header-head row justify-content-between">
+                <a class="">
+                    <div class="logo">
+                        <a [routerLink]="['/', currentLang]" >
+                            <img
+                                width="48px"
+                                height="48px"
+                                viewBox="0 0 48 48"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg"
+                                class="hide-md hide-lg"
+                                [src]="logoMobileUrl">
+
+                            <img
+                                class="hide-sm"
+                                width="220"
+                                height="124"
+                                viewBox="0 0 220 124"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg"
+                                [src]="logoTabletUrl">
+
+                        </a>
+                    </div>
+                </a>
+
+                <home-navigation-menu
+                (goToBusiness)="goToBusiness.emit()"
+                (keepInTouch)="keepInTouch.emit($event)">
+                </home-navigation-menu>
+
+            </header>
+        </div>
+
+        <div class="header-content row justify-content-center no-gutters">
+            <div class="row justify-content-center header-text">
+                <h1 class=" text-center text-uppercase col-12 ">
+                    {{ translationPrefix + ".HeroBannerPart1" | translate }}
+                    <br>
+                    {{ translationPrefix + ".HeroBannerPart2" | translate }}
+                </h1>
+                <p class=" text-center col-12 ">
+                    {{ translationPrefix + ".HeroBannerDesc" | translate }}
+                </p>
+            </div>
+
+            <div class=" buttonHeader d-grid d-md-flex col-12 col-md  justify-content-center align-items-center">
+                <button
+                    class="text-uppercase text-center no-gutters col-12 col-md order-md-2"
+                    id="try"
+                    onclick="location.href='https://mydecocloud.com/appli'">
+
+                {{ 'Home.Home.TryIt' | translate }}
+                </button>
+
+                <button class="text-uppercase text-center col-12 no-gutters col-md" id="more" (click)="isVideoShown=!isVideoShown">
+                    {{ 'Home.Home.LearnMore' | translate }}
+                </button>
+            </div>
+        </div>
+
+        <div class="overlay" *ngIf="isVideoShown" (click)="isVideoShown=!isVideoShown">
+            <iframe
+                class="video-overlay"
+                src="https://www.youtube.com/embed/iGFvUjlSJ3k"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+            </iframe>
+
+            <img class="close-video" (click)="isVideoShown=!isVideoShown " [src]="closeUrl">
+        </div>
+
+        <footer class="no-gutters row align-items-end footer-header position-absolute w-100">
+            <nav class=" col-md hide-sm faIcons d-md-flex flex-md-column justify-content-start">
+                <a
+                    href="https://www.facebook.com/myDecoCloud/"
+                    rel="noopener"
+                    target="_blank"
+                    class="d-flex justify-content-center align-items-center">
+
+                    <img [src]="logoFacebookUrl" alt="">
+                </a>
+
+                <a
+                    href="https://instagram.com/mydecocloud"
+                    rel="noopener"
+                    target="_blank"
+                    class="mt-2 d-flex justify-content-center align-items-center ">
+
+                    <img [src]="logoInstagramUrl" alt="">
+                </a>
+
+                <a
+                    href="https://fr.linkedin.com/company/mydecocloud?trk=public_profile_topcard-current-company"
+                    rel="noopener"
+                    target="_blank"
+                    class="mt-2 d-flex justify-content-center align-items-center">
+
+                    <img [src]="logoLinkedIn" alt="">
+                </a>
+
+                <a
+                    href="https://www.youtube.com/channel/UCSYrN7RW3LiBQ5-HGDC81ow"
+                    rel="noopener"
+                    target="_blank"
+                    class="mt-2 d-flex justify-content-center align-items-center">
+
+                    <img [src]="logoYoutubeUrl" alt="">
+                </a>
+
+                <a
+                    href="https://twitter.com/myDecoCloud"
+                    rel="noopener"
+                    target="_blank"
+                    class="mt-2 d-flex justify-content-center align-items-center">
+
+                    <img [src]="logoTwitterUrl" alt="">
+                </a>
+            </nav>
+
+            <button
+                type="button"
+                class="no-padding-button position-absolute align-self-center d-flex click-to-scroll"
+                (click)="goTo.emit()">
+
+                <img
+                    width="48 "
+                    height="48 "
+                    viewBox="0 0 48 48 "
+                    fill="none "
+                    xmlns="http://www.w3.org/2000/svg "
+                    [src]="bouttonScrollUrl">
+
+            </button>
+        </footer>
+    </header>
+</section>

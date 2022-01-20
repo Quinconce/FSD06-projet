@@ -1,0 +1,17 @@
+query contactInformationQuery {
+    reveal : contactInformationFindMany {
+        ...ContactInformationFragment
+    }
+}
+
+fragment ContactInformationFragment on ContactInformation {
+    _id
+    fullname
+    email
+    phone
+    statut
+    date
+    interlocutor
+    message
+    captcha
+}

@@ -1,0 +1,43 @@
+<div class="bg">
+    <div class="container-body">
+        <main *ngIf="page">
+            <home-progression
+                [valueOpacIndex]="progress"
+                (goToBusiness)="scrollingToBusiness()">
+            </home-progression>
+
+            <div class="bg-img" [style.background]="'url(' + page.backgroundImg + ') no-repeat center'"></div>
+
+            <home-header
+                (goTo)="scrollToNextSection()"
+                (goToBusiness)="scrollingToBusiness()"
+                [translationPrefix]="'Landing.'+ page.keyForTrad">
+            </home-header>
+
+            <home-pictures
+                [translationPrefix]="'Landing.'+ page.keyForTrad"
+                [screenshot1]="placeholder1"
+                [screenshot2]="placeholder2"
+                [positionImages]="page.direction"
+                #scrollHere>
+            </home-pictures>
+
+            <home-key-points
+                [translationPrefix]="'Landing.'+ page.keyForTrad">
+            </home-key-points>
+
+            <home-testimonial
+                [ClientsPhotos]="page.customersPhotos"
+                [translationPrefix]="'Landing.' + page.keyForTrad">
+            </home-testimonial>
+
+            <home-price
+                [translationPrefix]="'Landing.' + page.keyForTrad">
+            </home-price>
+
+            <home-business #business></home-business>
+
+            <home-footer></home-footer>
+        </main>
+    </div>
+</div>

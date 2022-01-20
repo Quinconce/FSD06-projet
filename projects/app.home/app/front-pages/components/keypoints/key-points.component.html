@@ -1,0 +1,36 @@
+<section class=" section-pad position-relative key-points">
+    <div class="slash-top"></div>
+
+    <article class=" row">
+        <div
+            *ngFor="let keypoint of translationPrefix + '.KeySellingPoints' | translate"
+            class="col-12 col-md-6 col-lg-4">
+
+            <h3 class="section-title-level-2 d-flex align-items-center text-uppercase">
+                {{ keypoint.Title }}
+            </h3>
+
+            <ul>
+                <li>
+                    <fa-icon [icon]="icons.faCheck"></fa-icon>
+
+                    {{ keypoint.listItem1 }}
+                </li>
+
+                <li>
+                    <fa-icon [icon]="icons.faCheck"></fa-icon>
+
+                    {{ keypoint.listItem2 }}
+                </li>
+
+                <li>
+                    <fa-icon [icon]="icons.faCheck"></fa-icon>
+
+                    {{ keypoint.listItem3 }}
+                </li>
+            </ul>
+        </div>
+    </article>
+
+    <div class="slash-bot"></div>
+</section>

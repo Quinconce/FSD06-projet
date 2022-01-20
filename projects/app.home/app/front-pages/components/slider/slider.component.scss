@@ -1,0 +1,76 @@
+@import "../../../../lib.scss";
+
+.pagers {
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    display: flex;
+    z-index: 1;
+}
+
+.my-class {
+    opacity: 1 !important;
+}
+
+.dual-img {
+    max-width: 375px;
+    width: 100%;
+    height: 93%;
+}
+
+.dual-container {
+    height: 93%;
+    border-radius: 52px;
+
+    .cards-container {
+        height: 107%;
+    }
+
+}
+
+
+.pager {
+    margin: 0 8px;
+    cursor: pointer;
+    height: 8px;
+    width: 32px;
+    opacity: 0.4;
+    border-radius: 4px;
+}
+
+.solo {
+    width: 100%;
+}
+
+.pager:hover {
+    opacity: 0.8;
+}
+
+.horizontal-scroll-container {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin: 0 -128px;
+    //permet de cacher l'affichage des bar de scroll sur firefox
+    scrollbar-width: none;
+}
+
+.horizontal-scroll-container::-webkit-scrollbar {
+    display: none;
+    width: 100vw;
+    overflow: hidden;
+
+}
+
+
+.cards-container {
+    display: inline-flex;
+    margin-bottom: 32px;
+
+    :last-child {
+        margin-right: 128px;
+    }
+
+    :first-child {
+        margin-left: 128px;
+    }
+}

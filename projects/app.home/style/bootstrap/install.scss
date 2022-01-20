@@ -1,0 +1,43 @@
+// /!\ This file creates the Bootstrap (and Now UI Kit) classes, so it actually generates CSS.
+//     This MUST NOT be required by page components or that will output global CSS again.
+//     Instead, pages should import ./lib.scss that only declares SCSS symbols and creates no side effects.
+
+@import 'variables';
+
+//=> Symbols and global CSS utils
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';
+@import '~bootstrap/scss/reboot';
+@import '~bootstrap/scss/grid';
+@import '~bootstrap/scss/utilities';
+
+//=> Components
+@import '~bootstrap/scss/alert';
+@import '~bootstrap/scss/breadcrumb';
+@import '~bootstrap/scss/buttons';
+@import '~bootstrap/scss/button-group';
+@import '~bootstrap/scss/card';
+@import '~bootstrap/scss/carousel';
+@import '~bootstrap/scss/custom-forms';
+@import '~bootstrap/scss/dropdown';
+@import '~bootstrap/scss/forms';
+@import '~bootstrap/scss/input-group';
+@import '~bootstrap/scss/images';
+@import '~bootstrap/scss/modal';
+@import '~bootstrap/scss/nav';
+@import '~bootstrap/scss/navbar';
+@import '~bootstrap/scss/tables';
+@import '~bootstrap/scss/tooltip';
+
+
+// Customisation pour la fenêtre about, c'est moche mais c'est une longue histoire de classe CSS mal branlé
+// C'est bien dégueulasse, et vous pourrez envoyer une carte de voeux à l'équipe d'angular.
+.modal-about {
+    margin-top: 5%;
+
+    .modal-content {
+        border: none;
+        box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.4);
+    }
+}

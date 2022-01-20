@@ -1,0 +1,30 @@
+@import "../../../../lib.scss";
+
+
+
+section {
+    background: #FAFAFA;
+    color: #373F41;
+}
+
+.section-desc{
+    @include mobile {
+        margin-bottom: 32px;
+    }
+    @include tablet-desktop {
+        margin-bottom: 64px;
+    }
+}
+.section-para{
+    @include desktop{
+        padding: 0 14%;
+    }
+    
+}
+
+
+
+
+
+
+

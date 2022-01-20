@@ -1,0 +1,17 @@
+mutation contactInformationUpdate($record: UpdateByIdContactInformationInput!) {
+    Treatement: contactInformationUpdateById(record: $record) {
+        recordId
+        record {
+            ...ContactInformationFragment
+        }
+    }
+}
+
+mutation contactInformationDeleteOne($id: MongoID!) {
+    remove: contactInformationRemoveById(_id: $id) {
+        recordId
+        record {
+            ...ContactInformationFragment
+        }
+    }
+}

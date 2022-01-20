@@ -1,0 +1,80 @@
+<section class="hero-banner position-absolute">
+    <header class="backg position-relative">
+        <div>
+            <header class=" header-head row justify-content-between">
+                <a class="">
+                    <div class="logo">
+                        <a [routerLink]="['/', actualLang]" >
+                            <img width="48px" height="48px" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" class="hide-md hide-lg" [src]="logoMobileUrl">
+                            <img class="hide-sm" width="220" height="124" viewBox="0 0 220 124" fill="none" xmlns="http://www.w3.org/2000/svg" [src]="logoTabletUrl">
+                        </a>
+                    </div>
+                </a>
+                <ul class="menu-h nav justify-content-end
+                nav-barflex align-items-center align-items-md-baseline text-right">
+                    <li class="hide-sm hide-md">{{'Home.Home.Fonction' | translate }}</li>
+                    <li (click)="goToBusiness.emit()" class="hide-sm hide-md">{{ 'Home.Home.Business' | translate }}</li>
+                    <li class="hide-sm hide-md">{{ 'Home.Home.Help' | translate }}</li>
+                    <li class="hide-sm hide-md">{{ 'Home.Home.Contact' | translate }}</li>
+                    <li class="language d-flex justify-content-end align-items-center">
+                        <home-language-select textColor="white"></home-language-select>
+                        <fa-icon class="col-1 hide-lg" [icon]="icons.faBars "></fa-icon>
+                    </li>
+                </ul>
+            </header>
+        </div>
+        <div class="header-content row justify-content-center no-gutters">
+            <div class="row justify-content-center header-text">
+                <h1 class=" text-center text-uppercase col-12 ">404 NOT FOUND</h1>
+                <p class=" text-center col-12 ">SORRY</p>
+            </div>
+            <div class=" buttonHeader d-grid d-md-flex col-12 col-md  justify-content-center align-items-center">
+                <button class="text-uppercase text-center no-gutters col-12 col-md order-md-2" id="try">{{ 'Home.Home.TryIt' | translate }}</button>
+                <button class="text-uppercase text-center col-12 no-gutters col-md" id="more"> {{ 'Home.Home.LearnMore' | translate }}</button>
+            </div>
+        </div>
+        <footer class="no-gutters row align-items-end footer-header position-absolute w-100">
+            <nav class=" col-md hide-sm faIcons d-md-flex flex-md-column justify-content-start">
+                <a href="https://www.facebook.com/myDecoCloud/" rel="noopener" target="_blank" class="d-flex justify-content-center align-items-center">
+                    <img [src]="logoFacebookUrl" alt="">
+                </a>
+                <a href="https://instagram.com/mydecocloud" rel="noopener" target="_blank" class="mt-2 d-flex justify-content-center align-items-center ">
+                    <img [src]="logoInstagramUrl" alt="">
+                </a>
+                <a href="https://fr.linkedin.com/company/mydecocloud?trk=public_profile_topcard-current-company" rel="noopener" target="_blank" class="mt-2 d-flex justify-content-center align-items-center">
+                    <img [src]="logoLinkedIn" alt="">
+                </a>
+                <a href="https://www.youtube.com/channel/UCSYrN7RW3LiBQ5-HGDC81ow" rel="noopener" target="_blank" class="mt-2 d-flex justify-content-center align-items-center">
+                    <img [src]="logoYoutubeUrl" alt="">
+                </a>
+                <a href="https://twitter.com/myDecoCloud" rel="noopener" target="_blank" class="mt-2 d-flex justify-content-center align-items-center">
+                    <img [src]="logoTwitterUrl" alt="">
+                </a>
+            </nav>
+            <button type="button" class="no-padding-button position-absolute align-self-center d-flex click-to-scroll" (click)="goTo.emit()">
+                    <img class=" " width="48 " height="48 " viewBox="0 0 48 48 " fill="none " xmlns="http://www.w3.org/2000/svg " [src]="bouttonScrollUrl">
+                </button>
+            <div class="contact-us col-md hide-sm row justify-content-end no-gutters">
+                <div *ngIf="isContactPopUpOpen" class="position-absolute hide-sm contact-message">
+                    <div class="row justify-content-center ">
+                        <img class="position-absolute img-stephane " [src]="StephanBecker" alt=" ">
+                    </div>
+                    <div class="row no-gutters position-relative to-close">
+                        <img (click)="isContactPopUpOpen=!isContactPopUpOpen " class="position-absolute" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" [src]="closeUrl">
+                    </div>
+                    <div class="row contact-text justify-content-center ">
+                        <p class="col-10 text-center ">{{ 'Home.Home.ContactMeText' | translate }}</p>
+                        <strong class="text-center col-10 d-flex justify-content-center align-items-center">+33 6 42 49 03 11</strong>
+                    </div>
+                    <div class="row justify-content-center ">
+                        <div class=" position-absolute arrow-down "></div>
+                    </div>
+                </div>
+                <button (click)="isContactPopUpOpen=!isContactPopUpOpen " type="button " class="contact">
+                    <fa-icon class="" [icon]="icons.faCommentsAlt"></fa-icon>
+                    {{ 'Home.Home.ContactMe' | translate }}
+                </button>
+            </div>
+        </footer>
+    </header>
+</section>

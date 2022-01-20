@@ -1,0 +1,19 @@
+<section class="gallery position-relative">
+    <div class="slash-top"></div>
+
+    <h2 class=" section-title-level-2 text-uppercase">
+        {{ translationPrefix + '.GalleryTitle' | translate }}
+    </h2>
+
+    <home-slider [testons]="sliderSettings" [pagersBackground]="'#373F41'" [pagersNumber]="interface.length" [timeBeforeAutomaticScroll]="5000">
+        <figure cards class="position-relative images-container" *ngFor="let pictureSlider of interface" (click)="zoomIn(pictureSlider.screenShots)">
+            <img [src]="pictureSlider.screenShots" alt="" class="screenShot" >
+            <img [src]="iconSearchUrl" alt="" class="position-absolute search-icon">
+            <figcaption class="">{{translationPrefix + '.GalleryScreenShot.'+ pictureSlider.name + '.caption' | translate}}</figcaption>
+        </figure>
+    </home-slider>
+
+    <div class="slash-bot"></div>
+    <!-- permet de zoomer sur une image au click -->
+    <img class="image-overlay" *ngIf="showing" (click)="showing=!showing" [src]="imageToShow" alt="" @enterAnimation >
+</section>
